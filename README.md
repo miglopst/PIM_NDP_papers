@@ -12,7 +12,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 
 # PIM
 ## Architecture level researches
-[MemSys 2015]!(https://placehold.it/15/f03c15/000000?text=+)[NCAM: Near-Data Processing for Nearest Neighbor Search]
+[MemSys 2015]![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[NCAM: Near-Data Processing for Nearest Neighbor Search]
 
 # NDP
 
