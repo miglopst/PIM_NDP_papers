@@ -7,7 +7,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
-- ![#e85050](https://placehold.it/15/e85050/000000?text=+) Bioinformatics
+- ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
 
 # PIM
 
