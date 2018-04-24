@@ -20,7 +20,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 ### STT-MRAM based
 
 ### DRAM based
-![#ccb111](https://placehold.it/15/c5f015/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]
+![#ccb111](https://placehold.it/15/c5f015/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]<br/>
 
 ### SRAM based
 
@@ -33,9 +33,9 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Springer Chapter 2013][3D-MAPS: 3D Massively Parallel Processor with Stacked Memory]<br/>
 
 ### HMC based NDP
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory]
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2017][Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2017][Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes]<br/>
 
 ### System level support for NDP
 #### PL support
