@@ -4,7 +4,7 @@ To distinguish between PIM and NDP, we assume that PIM architecture either invol
 whereas NDP architecture has seperate implementations of computing logic and memory components in different dies. Therefore in our categorization, recent 3D stacking based design belongs to NDP architecture.
 
 # Markers
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
+- c General Purpose
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
 - ![#ccb111](https://placehold.it/15/c5f015/000000?text=+) Computer Vision
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
@@ -12,7 +12,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 
 # PIM
 ## Architecture level researches
-[MemSys 2015]!(https://placehold.it/15/f03c15/000000?text=+)[NCAM: Near-Data Processing for Nearest Neighbor Search]
+[MemSys 2015](https://placehold.it/15/f03c15/000000?text=+)[NCAM: Near-Data Processing for Nearest Neighbor Search]
 
 # NDP
 
