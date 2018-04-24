@@ -10,7 +10,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 # NDP
 
 ## Architecture level researches
-[ISCA 2015][PIM-enabled instructions: a low-overhead, locality-aware processing-in-memory architecture]
-[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]
-[ASPLOS 2018][In-Memory Data Parallel Processor]
-[WoNDP 2013][A Processing-in-Memory Taxonomy and a Case for Studying Fixed-function PIM]
+[ISCA 2015][PIM-enabled instructions: a low-overhead, locality-aware processing-in-memory architecture]<br/>
+[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
+[ASPLOS 2018][In-Memory Data Parallel Processor]<br/>
+[WoNDP 2013][A Processing-in-Memory Taxonomy and a Case for Studying Fixed-function PIM]<br/>
