@@ -12,7 +12,18 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 
 # PIM
 ## Architecture level researches
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]
+
+### RRAM based
+
+### PCM based
+
+### STT-MRAM based
+
+### DRAM based
+![#ccb111](https://placehold.it/15/c5f015/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]
+
+### SRAM based
+
 
 # NDP
 
@@ -23,8 +34,8 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 
 ### HMC based NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]
-[ISCA 2016][Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory]
-[TPDS 2017][Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2017][Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes]
 
 ### System level support for NDP
 #### PL support
