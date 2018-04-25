@@ -14,6 +14,8 @@ We only include circuit, architecture and system level researches (The list is e
 
 # Survey Papers
 [MemSys 2016][Data-Centric Computing Frontiers: A Survey On Processing-In-Memory]<br/>
+[arXiv 2016][The Processing Using Memory Paradigm:In-DRAM Bulk Copy, Initialization, Bitwise AND and OR]<br/>
+[Micro 2014][Near-Data Processing: Insights from a MICRO-46 Workshop]<br/>
 
 # PIM
 
@@ -68,6 +70,9 @@ We only include circuit, architecture and system level researches (The list is e
 # NDP
 
 ## Architecture level researches
+### NDP
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][An architecture for near-data processing systems]<br/>
+
 ### General 3D NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2013][Centip3De: A 64-Core, 3D stacked near threshold system]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Springer Chapter 2013][3D-MAPS: 3D Massively Parallel Processor with Stacked Memory]<br/>
@@ -83,6 +88,7 @@ We only include circuit, architecture and system level researches (The list is e
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][HRL: Efficient and Flexible Reconfigurable Logic for Near-Data Processing]
 * FPGA / CGRA style NDP<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ICCD 2016][Accelerating pointer chasing in 3D-stacked memory: Challenges, mechanisms, evaluation]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICS 2016][Prefetching Techniques for Near-memory Throughput Processors]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2017][Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPLOS 2017][TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory]<br/>
 
