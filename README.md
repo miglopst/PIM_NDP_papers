@@ -8,9 +8,12 @@ We only include circuit, architecture and system level researches (The list is e
 # Application Scenario Marker
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
-- ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Computer Vision
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
 - ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
+- ![#0abab5](https://placehold.it/15/0abab5/000000?text=+) Data Analytics
+- ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Associative Computing
+- ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+) Data Manipulation
+
 
 # Survey Papers
 [MemSys 2016][Data-Centric Computing Frontiers: A Survey On Processing-In-Memory]<br/>
@@ -31,6 +34,8 @@ We only include circuit, architecture and system level researches (The list is e
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Frontiers 1996][Pursuing a Petaflop: Point Designs for 100 TF Computers Using PIM Technologies]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 1997][Processing in memory: Chips to petaflops]<br/>
 
+
+
 ### RRAM based
 
 ### PCM based
@@ -38,6 +43,8 @@ We only include circuit, architecture and system level researches (The list is e
 
 
 ### STT-MRAM based
+![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[ISCA 2013][AC-DIMM: Associative computing with STT-MRAM]<br/>
+
 
 ### DRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Computer 1995][Processing in memory: The Terasys massively parallel PIM array]<br/>
@@ -53,6 +60,8 @@ We only include circuit, architecture and system level researches (The list is e
 * FPGA style<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][DRISA: a DRAM-based Reconfigurable In-Situ Accelerator]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2017][PHOENIX: Efficient Computation in Memory]<br/>
+
 
 ### SRAM based
 
@@ -92,7 +101,7 @@ We only include circuit, architecture and system level researches (The list is e
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICS 2016][Prefetching Techniques for Near-memory Throughput Processors]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2017][Neurostream: Scalable and Energy Efficient Deep Learning with Smart Memory Cubes]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPLOS 2017][TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory]<br/>
-
+![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[MemSys 2017][Near memory key/value lookup acceleration]<br/>
 
 ## System level researches
 ### ISA / Compiler
@@ -101,7 +110,7 @@ We only include circuit, architecture and system level researches (The list is e
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][In-Memory Data Parallel Processor]<br/>
 
 ### Runtime Middleware and Scheduling
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
+![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
 
