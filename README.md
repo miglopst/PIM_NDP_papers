@@ -12,6 +12,7 @@ We only include circuit, architecture and system level researches (The list is e
 - ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
 - ![#0abab5](https://placehold.it/15/0abab5/000000?text=+) Data Analytics
 - ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Associative Computing
+- ![#f4f442](https://placehold.it/15/f4f442/000000?text=+) Automata Computing
 - ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+) Data Manipulation
 - ![#161616](https://placehold.it/15/161616/000000?text=+) Security
 
@@ -20,6 +21,7 @@ We only include circuit, architecture and system level researches (The list is e
 
 # Survey Papers
 [MemSys 2016][Data-Centric Computing Frontiers: A Survey On Processing-In-Memory]<br/>
+[arXiv 2018][Enabling the Adoption of Processing-in-Memory: Challenges, Mechanisms, Future Research Directions]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[arXiv 2016][The Processing Using Memory Paradigm:In-DRAM Bulk Copy, Initialization, Bitwise AND and OR]<br/>
 [Micro 2014][Near-Data Processing: Insights from a MICRO-46 Workshop]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Advances in Computers 2017][Simple Operations in Memory to Reduce Data Movement]<br/>
@@ -76,6 +78,8 @@ FPGA style<br/>
 
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Compute Caches]<br/>
+
 
 ## System level research
 ### ISA / Compiler
