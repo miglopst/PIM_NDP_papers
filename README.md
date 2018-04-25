@@ -192,6 +192,8 @@ GPU-HMC for graphics<br/>
 GPU-HMC<br/>
 ![#af62ff](https://placehold.it/15/af62ff/000000?text=+)[arXiv 2017][GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies]<br/>
 ![#003366](https://placehold.it/15/003366/000000?text=+)[TPDS 2018][Near-Memory Acceleration for Radio Astronomy]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2018][Memory Slices: A Modular Building Block for Scalable, Intelligent Memory Systems]<br/>
+
 
 ### DIMM style NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2014][Comparing Implementations of Near-Data Computing with In-Memory MapReduce Workloads]<br/>
