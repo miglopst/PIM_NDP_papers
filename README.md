@@ -13,6 +13,7 @@ We only include circuit, architecture and system level researches (The list is e
 - ![#0abab5](https://placehold.it/15/0abab5/000000?text=+) Data Analytics
 - ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Associative Computing
 - ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+) Data Manipulation
+- ![#161616](https://placehold.it/15/161616/000000?text=+) Security
 
 # Pioneering Papers
 [IEEE Transactions on Computers 1970][A Logic-in-Memory Computer]<br/>
@@ -76,7 +77,6 @@ FPGA style<br/>
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
 
-
 ## System level research
 ### ISA / Compiler
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2001][Automatically mapping code on an intelligent memory architecture]<br/>
@@ -109,6 +109,7 @@ Thermal Analysis<br/>
 ### 3D-HMC NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MSPC 2013][A new perspective on processing-in-memory architecture design]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2014][3D-Stacked Memory-Side Acceleration: Accelerator and System Design]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISPASS 2014][NDC: Analyzing the impact of 3D-stacked memory + logic devices on MapReduce workloads]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ISCA 2015][A scalable processing-in-memory accelerator for parallel graph processing]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[ISCA 2015][Data-reorganization: Data Reorganization in Memory Using 3D-stacked DRAM]<br/>
@@ -142,6 +143,9 @@ GPU-HMC<br/>
 ### DIMM style NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2014][Comparing Implementations of Near-Data Computing with In-Memory MapReduce Workloads]<br/>
 
+### Wide-I/O style NDP
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISLPED 2017][XNOR-POP: A processing-in-memory architecture for binary Convolutional Neural Networks in Wide-IO2 DRAMs]<br/>
+
 ## System level researches
 ### ISA / Compiler
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][A Processing-in-Memory Taxonomy and a Case for Studying Fixed-function PIM]<br/>
@@ -156,8 +160,13 @@ GPU in manycore system<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
 
+### Security
+![#161616](https://placehold.it/15/161616/000000?text=+)[WoNDP 2014][A Case for Near Data Security]<br/>
+
 ### Coherence / Consistence / Concurrency (atomicity) issues
 
+### Libraries
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2015][Enabling Portable Energy Efficiency with Memory Accelerated Library]<br/>
 
 
 
