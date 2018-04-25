@@ -54,7 +54,7 @@ We only include circuit, architecture and system level researches (The list is e
 ### DRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Computer 1995][Processing in memory: The Terasys massively parallel PIM array]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 1997][A Case for Intelligent RAM]<br/>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCD 1997][Intelligent RAM (IRAM): the industrial setting, applications, and architectures]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCD 1997][Intelligent RAM (IRAM): the industrial setting, applications, and architectures]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 1998][Active Pages: A Computation Model for Intelligent Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 1999][Mapping Irregular Applications to DIVA, a PIM based Data-Intensive Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE DT 1999][Computational RAM: Implementing processors in memory]<br/>
