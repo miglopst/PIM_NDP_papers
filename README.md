@@ -59,6 +59,17 @@ We only include circuit, architecture and system level researches (The list is e
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2017][PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[HPCA 2017][GraphR: Accelerating Graph Processing Using ReRAM]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2017][MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CAL 2017][IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar]<br/>
+RRAM FPGA<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCAD 2017][RRAM-based Reconfigurable In-Memory Computing Architecture with Hybrid Routing]<br/>
+RRAM FPGA<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2018][Making Memristive Neural Network Accelerators Reliable]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2018][Enabling Scientific Computing on Memristive Accelerators]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPDAC 2018][ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPDAC 2018][Training Low Bitwidth Convolutional Neural Network on RRAM]<br/>
+RRAM training<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
+RRAM training<br/>
 
 ### PCM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DAC 2015][ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing]<br/>
@@ -100,14 +111,17 @@ FPGA style<br/>
 
 
 
-## System level research
+## System level researches
 ### ISA / Compiler
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2001][Automatically mapping code on an intelligent memory architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICRC 2017][Generalize or Die: Operating Systems Support for Memristor-based Accelerators]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support]<br/>
+RRAM FPGA<br/>
+![#f4f442](https://placehold.it/15/f4f442/000000?text=+)[IPDPS 2017][Similarity Search on Automata Processors]<br/>
 
 ### Runtime Middleware and Scheduling
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2002][Gilgamesh: A multithreaded processor-in-memory architecture for petaflops computing]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[arXiv 2017][CODA: Enabling Co-location of Computation and Data for Near-Data Processing]<br/>
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CAL 2017][LazyPIM: An Efficient Cache Coherence Mechanism for Processing-in-Memory]<br/>
@@ -169,6 +183,7 @@ GPU-HMC for graphics<br/>
 GPU-HMC<br/>
 ![#af62ff](https://placehold.it/15/af62ff/000000?text=+)[arXiv 2017][GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies]<br/>
 
+
 ### DIMM style NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2014][Comparing Implementations of Near-Data Computing with In-Memory MapReduce Workloads]<br/>
 
@@ -183,12 +198,20 @@ GPU-HMC<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Data movement aware computation partitioning]<br/>
 GPU in manycore system<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-in-Memory]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][An Architecture for Integrated Near-Data Processors]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SPAA 2017][Concurrent Data Structures for Near-Memory Computing]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][In-Memory Data Parallel Processor]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DATE 2018][Prometheus: Processing-in-memory Heterogeneous Architecture Design From a Multi-layer Network Theoretic Strategy]<br/>
 
 ### Runtime Middleware and Scheduling
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2017][Exploiting Parallelism for Convolutional Connections in Processing-In-Memory Architecture]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][Triple Engine Processor (TEP): A Heterogeneous Near-Memory Processor for Diverse Kernel Operations]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
 
 ### Security
 ![#161616](https://placehold.it/15/161616/000000?text=+)[WoNDP 2014][A Case for Near Data Security]<br/>
