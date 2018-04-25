@@ -3,6 +3,8 @@ This page contains a survey of Process-In-Memory (PIM) and Near-Data-Processing 
 To distinguish between PIM and NDP, we assume that PIM architecture either involves analog computation using memory array, or incorparating digital computing logic and memory components on the same die; 
 whereas NDP architecture has seperate implementations of computing logic and memory components in different dies. Therefore in our categorization, recent 3D stacking based design belongs to NDP architecture.
 
+We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).  
+
 # Application Scenario Marker
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
@@ -11,6 +13,12 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 - ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
 
 # PIM
+
+## Circuit level researches
+### DRAM based
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[GLSVLSI 2005][PIM lite: A multithreaded processor-in-memory prototype]<br/>
+
+
 ## Architecture level researches
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 1994][EXECUBE-A New Architecture for Scaleable MPPs]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Frontiers 1996][Pursuing a Petaflop: Point Designs for 100 TF Computers Using PIM Technologies]<br/>
@@ -40,7 +48,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 ### ISA / Compiler
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2001][Automatically mapping code on an intelligent memory architecture]<br/>
 ### Runtime Middleware and Scheduling
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2002][Gilgamesh: A multithreaded processor-in-memory architecture for petaflops computing]<br/>
 
 
 # NDP
@@ -51,6 +59,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Springer Chapter 2013][3D-MAPS: 3D Massively Parallel Processor with Stacked Memory]<br/>
 
 ### 3D-HMC NDP
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MSPC 2013][A new perspective on processing-in-memory architecture design]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][HRL: Efficient and Flexible Reconfigurable Logic for Near-Data Processing]
@@ -67,7 +76,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][In-Memory Data Parallel Processor]<br/>
 
 ### Runtime Middleware and Scheduling
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
 
