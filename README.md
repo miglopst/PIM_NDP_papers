@@ -33,6 +33,12 @@ We only include circuit, architecture and system level researches (The list is e
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISSCC 1997][Intelligent RAM (IRAM): chips that remember and compute]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[GLSVLSI 2005][PIM lite: A multithreaded processor-in-memory prototype]<br/>
 
+### SRAM based
+
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][A 65nm 4Kb Algorithm-Dependent Computing-in-Memory SRAM Unit-Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][A 42pJ/Decision 3.12TOPS/W Robust In-Memory Machine Learning Classifier with On-Chip Training]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][Conv-RAM: An Energy-Efficient SRAM with Embedded Convolution Computation for Low-Power CNN-Based Machine Learning Applications]<br/>
+
 
 ## Architecture level researches
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 1994][EXECUBE-A New Architecture for Scaleable MPPs]<br/>
@@ -78,8 +84,9 @@ FPGA style<br/>
 
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
+![#f4f442](https://placehold.it/15/f4f442/000000?text=+)[Micro 2017][Cache automaton]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Compute Caches]<br/>
-
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2018][Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks]<br/>
 
 ## System level research
 ### ISA / Compiler
@@ -109,6 +116,8 @@ Also works for NDP architecture<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2015][Near Data Processing: Impact and Optimization of 3D Memory System Architecture on the Uncore]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Integrated Thermal Analysis for Processing In Die-Stacking Memory]<br/>
 Thermal Analysis<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2018][PM3: Power Modeling and Power Management for Processing-in-Memory]<br/>
+Power Analysis<br/>
 
 ### 3D-HMC NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MSPC 2013][A new perspective on processing-in-memory architecture design]<br/>
