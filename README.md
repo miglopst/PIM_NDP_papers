@@ -19,6 +19,7 @@ We only include circuit, architecture and system level researches (The list is e
 
 ## Circuit level researches
 ### DRAM based
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISSCC 1997][Intelligent RAM (IRAM): chips that remember and compute]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[GLSVLSI 2005][PIM lite: A multithreaded processor-in-memory prototype]<br/>
 
 
