@@ -16,6 +16,7 @@ We only include circuit, architecture and system level researches (The list is e
 [MemSys 2016][Data-Centric Computing Frontiers: A Survey On Processing-In-Memory]<br/>
 [arXiv 2016][The Processing Using Memory Paradigm:In-DRAM Bulk Copy, Initialization, Bitwise AND and OR]<br/>
 [Micro 2014][Near-Data Processing: Insights from a MICRO-46 Workshop]<br/>
+[Advances in Computers 2017][Simple Operations in Memory to Reduce Data Movement]<br/>
 
 # PIM
 
