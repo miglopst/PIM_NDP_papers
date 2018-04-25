@@ -6,7 +6,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 # Application Scenario Marker
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
-- ![#ccb111](https://placehold.it/15/c5f015/000000?text=+) Computer Vision
+- ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Computer Vision
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
 - ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
 
@@ -30,7 +30,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE DT 1999][Computational RAM: Implementing processors in memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IPDPS 2002][Memory-intensive benchmarks: IRAM vs. cache-based machines]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCD 2012][FlexRAM: Toward an Advanced Intelligent Memory System]<br/>
-![#ccb111](https://placehold.it/15/c5f015/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]<br/>
+![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][DRAF: a low-power DRAM-based reconfigurable acceleration fabric]<br/>
 * FPGA style<br/>
 
