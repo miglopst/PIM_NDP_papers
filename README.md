@@ -20,11 +20,13 @@ We only include circuit, architecture and system level researches (The list is e
 [IEEE Transactions on Computers 1970][A Logic-in-Memory Computer]<br/>
 
 # Survey Papers
+[Micro 2014][Near-Data Processing: Insights from a MICRO-46 Workshop]<br/>
 [MemSys 2016][Data-Centric Computing Frontiers: A Survey On Processing-In-Memory]<br/>
+[IEEE Solid-State Circuits Magazine 2016][Making the Case for Feature-Rich Memory Systems: The March Toward Specialized Systems]<br/>
+![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Advances in Computers 2017][Simple Operations in Memory to Reduce Data Movement]<br/>
 [arXiv 2018][Enabling the Adoption of Processing-in-Memory: Challenges, Mechanisms, Future Research Directions]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[arXiv 2016][The Processing Using Memory Paradigm:In-DRAM Bulk Copy, Initialization, Bitwise AND and OR]<br/>
-[Micro 2014][Near-Data Processing: Insights from a MICRO-46 Workshop]<br/>
-![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Advances in Computers 2017][Simple Operations in Memory to Reduce Data Movement]<br/>
+
 
 # PIM
 
