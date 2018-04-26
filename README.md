@@ -1,11 +1,17 @@
 <!-- Please use this as comment -->
-+ hahaa
 # PIM_NDP_papers
 This page contains a survey of Process-In-Memory (PIM) and Near-Data-Processing (NDP) papers. 
 To distinguish between PIM and NDP, we assume that PIM architecture either involves analog computation using memory array, or incorparating digital computing logic and memory components on the same die; 
 whereas NDP architecture has seperate implementations of computing logic and memory components in different dies. Therefore in our categorization, recent 3D stacking based design belongs to NDP architecture.
 
 We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).  
++ hahaa
++ haha
+
+daw
+* yo o
+* yo o
+
 
 The outline of the survey:
 * [Pioneering Papers](#pioneering-papers)
