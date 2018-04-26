@@ -9,8 +9,8 @@ We only include circuit, architecture and system level researches (The list is e
 + haha
 
 daw
-* yo o
-* yo o
+- yo o
+- yo o
 
 
 The outline of the survey:
