@@ -1,4 +1,5 @@
 # PIM_NDP_papers
+<!-- hahaha -->
 This page contains a survey of Process-In-Memory (PIM) and Near-Data-Processing (NDP) papers. 
 To distinguish between PIM and NDP, we assume that PIM architecture either involves analog computation using memory array, or incorparating digital computing logic and memory components on the same die; 
 whereas NDP architecture has seperate implementations of computing logic and memory components in different dies. Therefore in our categorization, recent 3D stacking based design belongs to NDP architecture.
@@ -204,7 +205,7 @@ Power Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISPASS 2014][NDC: Analyzing the impact of 3D-stacked memory + logic devices on MapReduce workloads]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ISCA 2015][A scalable processing-in-memory accelerator for parallel graph processing]<br/>
-> Granularity: entire application<br/>
+Granularity: entire application<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[ISCA 2015][Data-reorganization: Data Reorganization in Memory Using 3D-stacked DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2015][NDA: Near-DRAM acceleration architecture leveraging commodity DRAM devices and standard memory modules]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[MemSys 2015][Instruction Offloading with HMC 2.0 Standard — a Case Study for Graph Traversals]<br/>
@@ -213,8 +214,8 @@ Power Analysis<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[ASBD 2015][Sort vs. Hash Join Revisited for Near-Memory Execution]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][HRL: Efficient and Flexible Reconfigurable Logic for Near-Data Processing]<br/>
-> PIM core style: FPGA / CGRA<br/>
-> Granularity: entire application
+PIM core style: FPGA / CGRA<br/>
+Granularity: entire application<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][Scheduling techniques for GPU architectures with processing-in-memory capabilities]<br/>
 GPU-HMC<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Analyzing Consistency Issues in HMC Atomics]<br/>
