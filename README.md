@@ -6,7 +6,7 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).  
 
 The outline of the survey:
-* [Pioneering Papers](#Pioneering-Papers)
+* [Pioneering Papers](#pioneering-papers)
 * Survey Papers
 * PIM
   * Circuit level researches
