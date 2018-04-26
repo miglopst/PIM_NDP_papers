@@ -14,29 +14,30 @@ The outline of the survey:
     * [SRAM based](#sram-based)
     * [RRAM based](#rram-based)
     * [PCRAM based](#pcram-based)
-  * [Architecture level researches]
+    * [STT-RAM based](#stt-ram-based)
+  * [Architecture level researches](#architecture-level-researches)
     * [DRAM based](#dram-based-1)
     * [SRAM based](#sram-based-1)
     * [RRAM based](#rram-based-1)
-    * [PCRAM based]()
-    * [STT-RAM based]()
-  * [System level researches]
-    * [ISA / Compiler]()
-    * [Runtime Middleware and Scheduling]()
-    * [Coherence / Consistence / Concurrency (atomicity) issues]()
-* [NDP]()
-  * [Architecture level researches]()
-    * [General 3D NDP]()
-    * [3D-HMC NDP]()
-    * [DIMM style NDP]()
-    * [Wide-I/O style NDP]()
-    * [Memory Controller style NDP]()
-  * [System level researches]()
-    * [ISA / Compiler]()
-    * [Runtime Middleware and Scheduling]()
-    * [Coherence / Consistence / Concurrency (atomicity) issues]()
-    * [Libraries]()
-    * [Security]()
+    * [PCRAM based](#pcram-based-1)
+    * [STT-RAM based](#stt-ram-based-1)
+  * [System level researches](#system-level-researches)
+    * [ISA / Compiler](#isa--compiler)
+    * [Runtime Middleware and Scheduling](#runtime-middleware-and-scheduling)
+    * [Coherence / Consistence / Concurrency (atomicity) issues](#coherence--consistence--concurrency-atomicity-issues)
+* [NDP](#ndp)
+  * [Architecture level researches](#architecture-level-researches-1)
+    * [General 3D NDP](#general-3d-ndp)
+    * [3D-HMC NDP](#3d-hmc-ndp)
+    * [DIMM style NDP](#dimm-style-ndp)
+    * [Wide-I/O style NDP](#wide-io-style-ndp)
+    * [Memory Controller style NDP](#memory-controller-style-ndp)
+  * [System level researches](#system-level-researches-1)
+    * [ISA / Compiler](#isa--compiler-1)
+    * [Runtime Middleware and Scheduling](#runtime-middleware-and-scheduling-1)
+    * [Coherence / Consistence / Concurrency (atomicity) issues](#coherence--consistence--concurrency-atomicity-issues-1)
+    * [Libraries](#libraries)
+    * [Security](#security)
 
 **Application Scenario Marker**
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
@@ -84,6 +85,8 @@ The outline of the survey:
 ### PCRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TED 2015][Experimental demonstration and tolerancing of a large-scale neural network (165,000 synapses), using phase-change memory as the synaptic weight element]<br/>
 
+### STT-RAM based
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCAS 2014][Spin-Transfer Torque Magnetic Memory as a Stochastic Memristive Synapse]<br/>
 
 ## Architecture level researches
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 1994][EXECUBE-A New Architecture for Scaleable MPPs]<br/>
@@ -146,11 +149,11 @@ RRAM training<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
 RRAM training<br/>
 
-### PCM based
+### PCRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DAC 2015][ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing]<br/>
 
 
-### STT-MRAM based
+### STT-RAM based
 ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[ISCA 2013][AC-DIMM: Associative computing with STT-MRAM]<br/>
 
 
