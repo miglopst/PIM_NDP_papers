@@ -179,7 +179,7 @@ Pointer traversal<br/>
 Pointer traversal<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICS 2016][Prefetching Techniques for Near-memory Throughput Processors]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ARCS 2016][Design and Evaluation of a Processing-in-Memory Architecture for the Smart Memory Cube]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[thesis 2016][RowCore: A Processing-Near-Memory Architecture for Big Data Machine Learning]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[thesis 2016][RowCore: A Processing-Near-Memory Architecture for Big Data Machine Learning]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPPW 2016][Performance Implications of Processing-in-Memory Designs on Data-Intensive Applications]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PDPD 2016][HMC-Sim-2.0: A Simulation Platform for Exploring Custom Memory Cube Operations]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2017][The Mondrian Data Engine]<br/>
