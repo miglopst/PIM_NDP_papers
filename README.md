@@ -23,9 +23,33 @@ The outline of the survey:
 * PIM
   * Circuit level researches
     * DRAM based
+    * SRAM based
+    * RRAM based
+    * PCRAM based
   * Architecture level researches
+    * DRAM based
+    * SRAM based
+    * RRAM based
+    * PCRAM based
+    * STT-RAM based
   * System level researches
+    * ISA / Compiler
+    * Runtime Middleware and Scheduling
+    * Coherence / Consistence / Concurrency (atomicity) issues
 * NDP
+  * Architecture level researches
+    * General 3D NDP
+    * 3D-HMC NDP
+    * DIMM style NDP
+    * Wide-I/O style NDP
+    * Memory Controller style NDP
+  * System level researches
+    * ISA / Compiler
+    * Runtime Middleware and Scheduling
+    * Coherence / Consistence / Concurrency (atomicity) issues
+    * Libraries
+    * Security
+    
 
 
 # Pioneering Papers
@@ -65,37 +89,6 @@ The outline of the survey:
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 1997][Processing in memory: Chips to petaflops]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPDAC 2018][PIMCH: cooperative memory prefetching in processing-in-memory architecture]
 
-
-### RRAM based
-
-![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[MemSys 2016][Processing Acceleration with Resistive Memory-based Computation]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2016][Memristive Boltzmann machine: A hardware accelerator for combinatorial optimization and deep learning]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][PRIME: a novel processing-in-memory architecture for neural network computation in ReRAM-based main memory]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][ISAAC: a convolutional neural network accelerator with in-situ analog arithmetic in crossbars]<br/>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCAD 2016][Reconfigurable In-Memory Computing with Resistive Memory Crossbar]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2017][PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning]<br/>
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[HPCA 2017][GraphR: Accelerating Graph Processing Using ReRAM]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2017][MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System]<br/>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CAL 2017][IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar]<br/>
-RRAM FPGA<br/>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCAD 2017][RRAM-based Reconfigurable In-Memory Computing Architecture with Hybrid Routing]<br/>
-RRAM FPGA<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2018][Making Memristive Neural Network Accelerators Reliable]<br/>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2018][Enabling Scientific Computing on Memristive Accelerators]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPDAC 2018][ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPDAC 2018][Training Low Bitwidth Convolutional Neural Network on RRAM]<br/>
-RRAM training<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
-RRAM training<br/>
-
-### PCM based
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DAC 2015][ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing]<br/>
-
-
-### STT-MRAM based
-![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[ISCA 2013][AC-DIMM: Associative computing with STT-MRAM]<br/>
-
-
 ### DRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CICC 1992][Computational RAM: A Memory-SIMD Hybrid and Its Application to DSP]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Computer 1995][Processing in memory: The Terasys massively parallel PIM array]<br/>
@@ -129,6 +122,34 @@ FPGA style<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Compute Caches]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2018][Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks]<br/>
 
+### RRAM based
+
+![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[MemSys 2016][Processing Acceleration with Resistive Memory-based Computation]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2016][Memristive Boltzmann machine: A hardware accelerator for combinatorial optimization and deep learning]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][PRIME: a novel processing-in-memory architecture for neural network computation in ReRAM-based main memory]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][ISAAC: a convolutional neural network accelerator with in-situ analog arithmetic in crossbars]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCAD 2016][Reconfigurable In-Memory Computing with Resistive Memory Crossbar]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2017][PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning]<br/>
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[HPCA 2017][GraphR: Accelerating Graph Processing Using ReRAM]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2017][MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CAL 2017][IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar]<br/>
+RRAM FPGA<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCAD 2017][RRAM-based Reconfigurable In-Memory Computing Architecture with Hybrid Routing]<br/>
+RRAM FPGA<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[HPCA 2018][Making Memristive Neural Network Accelerators Reliable]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2018][Enabling Scientific Computing on Memristive Accelerators]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPDAC 2018][ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPDAC 2018][Training Low Bitwidth Convolutional Neural Network on RRAM]<br/>
+RRAM training<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
+RRAM training<br/>
+
+### PCM based
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DAC 2015][ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing]<br/>
+
+
+### STT-MRAM based
+![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[ISCA 2013][AC-DIMM: Associative computing with STT-MRAM]<br/>
 
 
 ## System level researches
@@ -149,9 +170,7 @@ Also works for NDP architecture<br/>
 
 
 # NDP
-
 ## Architecture level researches
-### NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][An architecture for near-data processing systems]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[MemSys 2017][The sparse data reduction engine: chopping sparse data one byte at a time]<br/>
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[MemSys 2017][Identifying the potential of Near Data Processing for Apache Spark]<br/>
@@ -253,13 +272,13 @@ GPU in manycore system<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HotOS 2017][It's Time to Think About an Operating System for Near Data Processing Architectures]<br/>
 
-### Security
-![#161616](https://placehold.it/15/161616/000000?text=+)[WoNDP 2014][A Case for Near Data Security]<br/>
-
 ### Coherence / Consistence / Concurrency (atomicity) issues
+
 
 ### Libraries
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2015][Enabling Portable Energy Efficiency with Memory Accelerated Library]<br/>
 
+### Security
+![#161616](https://placehold.it/15/161616/000000?text=+)[WoNDP 2014][A Case for Near Data Security]<br/>
 
 
