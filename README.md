@@ -108,7 +108,6 @@ The outline of the survey:
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCD 2012][FlexRAM: Toward an Advanced Intelligent Memory System]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Micro 2013][RowClone: Fast and energy-efficient in-DRAM bulk data copy and initialization]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[HPEC 2013][Accelerating Sparse Matrix-Matrix Multiplication with 3D-Stacked Logic-in-Memory Hardware]<br/>
-![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Micro 2015][Gather-Scatter DRAM: In-DRAM Address Translation to Improve the Spatial Locality of Non-unit Strided Accesses]<br/>
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[SIGMOD 2015][JAFAR: Near-Data Processing for Databases]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CAL 2015][Fast Bulk Bitwise AND and OR in DRAM]<br/>
 ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]<br/>
@@ -191,6 +190,8 @@ Also works for NDP architecture<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2013][Centip3De: A 64-Core, 3D stacked near threshold system]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Springer Chapter 2013][3D-MAPS: 3D Massively Parallel Processor with Stacked Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[3DIC 2013][A 3D-stacked logic-in-memory accelerator for application-specific data intensive computing]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2014][Thermal Feasibility of Die-Stacked Processing in Memory]<br/>
+Thermal Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2015][Near Data Processing: Impact and Optimization of 3D Memory System Architecture on the Uncore]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Integrated Thermal Analysis for Processing In Die-Stacking Memory]<br/>
 Thermal Analysis<br/>
@@ -203,6 +204,7 @@ Power Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISPASS 2014][NDC: Analyzing the impact of 3D-stacked memory + logic devices on MapReduce workloads]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ISCA 2015][A scalable processing-in-memory accelerator for parallel graph processing]<br/>
+> Granularity: entire application<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[ISCA 2015][Data-reorganization: Data Reorganization in Memory Using 3D-stacked DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2015][NDA: Near-DRAM acceleration architecture leveraging commodity DRAM devices and standard memory modules]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[MemSys 2015][Instruction Offloading with HMC 2.0 Standard — a Case Study for Graph Traversals]<br/>
@@ -211,7 +213,8 @@ Power Analysis<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[ASBD 2015][Sort vs. Hash Join Revisited for Near-Memory Execution]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2016][Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][HRL: Efficient and Flexible Reconfigurable Logic for Near-Data Processing]<br/>
-FPGA / CGRA style NDP<br/>
+> PIM core style: FPGA / CGRA<br/>
+> Granularity: entire application
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][Scheduling techniques for GPU architectures with processing-in-memory capabilities]<br/>
 GPU-HMC<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Analyzing Consistency Issues in HMC Atomics]<br/>
@@ -254,8 +257,11 @@ GPU-HMC<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISLPED 2017][XNOR-POP: A processing-in-memory architecture for binary Convolutional Neural Networks in Wide-IO2 DRAMs]<br/>
 
 ### Memory Controller style NDP
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2015][Gather-Scatter DRAM: In-DRAM Address Translation to Improve the Spatial Locality of Non-unit Strided Accesses]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2015][Decoupled Direct Memory Access: Isolating CPU and IO Traffic by Leveraging a Dual-Data-Port DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2016][Continuous Runahead: Transparent Hardware Acceleration for Memory Intensive Workloads]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Accelerating Dependent Cache Misses with an Enhanced Memory Controller]
+
 
 ## System level researches
 ### ISA / Compiler
