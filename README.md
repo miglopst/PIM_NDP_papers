@@ -5,20 +5,8 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 
 We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).  
 
-# Application Scenario Marker
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
-- ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
-- ![#0abab5](https://placehold.it/15/0abab5/000000?text=+) Data Analytics
-- ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Associative Computing
-- ![#f4f442](https://placehold.it/15/f4f442/000000?text=+) Automata Computing
-- ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+) Data Manipulation
-- ![#161616](https://placehold.it/15/161616/000000?text=+) Security
-- ![#003366](https://placehold.it/15/003366/000000?text=+) Others
-
 The outline of the survey:
-* Pioneering Papers
+* [Pioneering Papers](# Pioneering Papers)
 * Survey Papers
 * PIM
   * Circuit level researches
@@ -49,8 +37,18 @@ The outline of the survey:
     * Coherence / Consistence / Concurrency (atomicity) issues
     * Libraries
     * Security
-    
 
+**Application Scenario Marker**
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
+- ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
+- ![#0abab5](https://placehold.it/15/0abab5/000000?text=+) Data Analytics
+- ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Associative Computing
+- ![#f4f442](https://placehold.it/15/f4f442/000000?text=+) Automata Computing
+- ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+) Data Manipulation
+- ![#161616](https://placehold.it/15/161616/000000?text=+) Security
+- ![#003366](https://placehold.it/15/003366/000000?text=+) Others
 
 # Pioneering Papers
 [IEEE Transactions on Computers 1970][A Logic-in-Memory Computer]<br/>
