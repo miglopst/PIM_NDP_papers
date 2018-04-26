@@ -5,13 +5,6 @@ To distinguish between PIM and NDP, we assume that PIM architecture either invol
 whereas NDP architecture has seperate implementations of computing logic and memory components in different dies. Therefore in our categorization, recent 3D stacking based design belongs to NDP architecture.
 
 We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).  
-+ hahaa
-+ haha
-
-daw
-- yo o
-- yo o
-
 
 The outline of the survey:
 * [Pioneering Papers](#pioneering-papers)
@@ -82,7 +75,6 @@ The outline of the survey:
 ### SRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[VLSI 2016][A machine-learning classifier implemented in a standard 6T SRAM array]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][A 65nm 4Kb Algorithm-Dependent Computing-in-Memory SRAM Unit-Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][A 42pJ/Decision 3.12TOPS/W Robust In-Memory Machine Learning Classifier with On-Chip Training]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][Conv-RAM: An Energy-Efficient SRAM with Embedded Convolution Computation for Low-Power CNN-Based Machine Learning Applications]<br/>
 ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[JSSC 2018][A 4 + 2T SRAM for Searching and In-Memory Computing With 0.3-V VDDmin]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ICASSP 2014][An Energy-Efficient VLSI Architecture for Pattern Recognition via Deep Embedding of Computation in SRAM]<br/>
@@ -240,6 +232,7 @@ Pointer traversal<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PDPD 2016][HMC-Sim-2.0: A Simulation Platform for Exploring Custom Memory Cube Operations]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2017][The Mondrian Data Engine]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[HPCA 2017][GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks]<br/>
+Granularity: single instruction<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Processing-in-Memory Enabled Graphics Processors for 3D Rendering]<br/>
 GPU-HMC for graphics<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPLOS 2017][TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory]<br/>
@@ -276,6 +269,7 @@ GPU-HMC<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][A Processing-in-Memory Taxonomy and a Case for Studying Fixed-function PIM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][High-level Programming Model Abstractions for Processing in Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2015][PIM-enabled instructions: a low-overhead, locality-aware processing-in-memory architecture]<br/>
+Granularity: single instruction<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Data movement aware computation partitioning]<br/>
 GPU in manycore system<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-in-Memory]<br/>
@@ -298,6 +292,7 @@ GPU in manycore system<br/>
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[PACT 2015][BSSync: Processing Near Memory for Machine Learning Workloads with Bounded Staleness Consistency Models]<br/>
+Granularity: single instruction<br/>
 
 ### Libraries
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2015][Enabling Portable Energy Efficiency with Memory Accelerated Library]<br/>
