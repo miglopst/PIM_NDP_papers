@@ -19,6 +19,7 @@ We only include circuit, architecture and system level researches (The list is e
 
 # Pioneering Papers
 [IEEE Transactions on Computers 1970][A Logic-in-Memory Computer]<br/>
+[IEEE Database 1981][The NON-VON Database Machine: An Overview]<br/>
 
 # Survey Papers
 [Micro 2014][Near-Data Processing: Insights from a MICRO-46 Workshop]<br/>
@@ -84,6 +85,7 @@ RRAM training<br/>
 
 
 ### DRAM based
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CICC 1992][Computational RAM: A Memory-SIMD Hybrid and Its Application to DSP]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Computer 1995][Processing in memory: The Terasys massively parallel PIM array]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 1997][A Case for Intelligent RAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCD 1997][Intelligent RAM (IRAM): the industrial setting, applications, and architectures]<br/>
@@ -96,6 +98,7 @@ RRAM training<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCD 2012][FlexRAM: Toward an Advanced Intelligent Memory System]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Micro 2013][RowClone: Fast and energy-efficient in-DRAM bulk data copy and initialization]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Micro 2015][Gather-Scatter DRAM: In-DRAM Address Translation to Improve the Spatial Locality of Non-unit Strided Accesses]<br/>
+![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[SIGMOD 2015][JAFAR: Near-Data Processing for Databases]<br/>
 ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[MemSys 2015][NCAM: Near-Data Processing for Nearest Neighbor Search]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2015][Opportunities and Challenges of Performing Vector Operations inside the DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2015][SIMT-based Logic Layers for Stacked DRAM Architectures: A Prototype]<br/>
@@ -201,6 +204,8 @@ GPU-HMC<br/>
 
 ### DIMM style NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2014][Comparing Implementations of Near-Data Computing with In-Memory MapReduce Workloads]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2016][Chameleon: Versatile and practical near-DRAM acceleration architecture for large memory systems]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2016][Heterogeneous Computing Meets Near-Memory Acceleration and High-Level Synthesis in the Post-Moore Era]<br/>
 
 ### Wide-I/O style NDP
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISLPED 2017][XNOR-POP: A processing-in-memory architecture for binary Convolutional Neural Networks in Wide-IO2 DRAMs]<br/>
