@@ -54,9 +54,12 @@ The outline of the survey:
 
 # Pioneering Papers
 [IEEE Transactions on Computers 1970][A Logic-in-Memory Computer]<br/>
+Arch: small processing elements are combined with small amounts of RAM to provide a distributed array of memories that perform computation<br/>
 [IEEE Database 1981][The NON-VON Database Machine: An Overview]<br/>
+Arch: small processing elements are combined with small amounts of RAM to provide a distributed array of memories that perform computation<br/>
 
 # Survey Papers
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][A Processing-in-Memory Taxonomy and a Case for Studying Fixed-function PIM]<br/>
 [Micro 2014][Near-Data Processing: Insights from a MICRO-46 Workshop]<br/>
 [MemSys 2016][Data-Centric Computing Frontiers: A Survey On Processing-In-Memory]<br/>
 [IEEE Solid-State Circuits Magazine 2016][Making the Case for Feature-Rich Memory Systems: The March Toward Specialized Systems]<br/>
@@ -96,16 +99,21 @@ The outline of the survey:
 
 
 ## Architecture level researches
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 1994][EXECUBE-A New Architecture for Scaleable MPPs]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Frontiers 1996][Pursuing a Petaflop: Point Designs for 100 TF Computers Using PIM Technologies]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 1997][Processing in memory: Chips to petaflops]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPDAC 2018][PIMCH: cooperative memory prefetching in processing-in-memory architecture]
 
 ### DRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CICC 1992][Computational RAM: A Memory-SIMD Hybrid and Its Application to DSP]<br/>
+Arch: add logic within DRAM to perform vector operations<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 1994][EXECUBE-A New Architecture for Scaleable MPPs]<br/>
+Arch: add logic within DRAM to perform vector operations<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Computer 1995][Processing in memory: The Terasys massively parallel PIM array]<br/>
+Arch: add logic within DRAM to perform vector operations<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 1997][A Case for Intelligent RAM]<br/>
+Arch: add logic within DRAM to perform vector operations<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICCD 1997][Intelligent RAM (IRAM): the industrial setting, applications, and architectures]<br/>
+Arch: add logic within DRAM to perform vector operations<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 1998][Active Pages: A Computation Model for Intelligent Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 1999][Mapping Irregular Applications to DIVA, a PIM based Data-Intensive Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE DT 1999][Computational RAM: Implementing processors in memory]<br/>
@@ -184,6 +192,7 @@ RRAM FPGA<br/>
 Also works for NDP architecture<br/>
 PIM kernel identification: programmer / compiler<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2015][GP-SIMD Processing-in-Memory]<br/>
+Coherence: restrict PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM.<br/>
 
 # NDP
 ## Architecture level researches
@@ -201,6 +210,7 @@ PIM kernel identification: programmer / compiler<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2014][Thermal Feasibility of Die-Stacked Processing in Memory]<br/>
 Thermal Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2015][Near Data Processing: Impact and Optimization of 3D Memory System Architecture on the Uncore]<br/>
+This work optimizes the 3D-stacked DRAM architecture for PIM<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Integrated Thermal Analysis for Processing In Die-Stacking Memory]<br/>
 Thermal Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2018][PM3: Power Modeling and Power Management for Processing-in-Memory]<br/>
@@ -210,12 +220,16 @@ Power Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MSPC 2013][A new perspective on processing-in-memory architecture design]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2014][3D-Stacked Memory-Side Acceleration: Accelerator and System Design]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISPASS 2014][NDC: Analyzing the impact of 3D-stacked memory + logic devices on MapReduce workloads]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPDC 2014][TOP-PIM: Throughput-Oriented Programmable Processing in Memory]<br/>
+This design restricts PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ISCA 2015][A scalable processing-in-memory accelerator for parallel graph processing]<br/>
 Granularity: entire application<br/>
 PIM kernel identification: programmer / compiler<br/>
+Coherence: restrict PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM.<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[ISCA 2015][Data-reorganization: Data Reorganization in Memory Using 3D-stacked DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2015][NDA: Near-DRAM acceleration architecture leveraging commodity DRAM devices and standard memory modules]<br/>
+Coherence: restrict PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM.<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[MemSys 2015][Instruction Offloading with HMC 2.0 Standard — a Case Study for Graph Traversals]<br/>
 Granularity: single instruction</br>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2015][Understanding Energy Aspect of Processing Near Memory for HPC Workloads]<br/>
@@ -225,6 +239,7 @@ Granularity: single instruction</br>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][HRL: Efficient and Flexible Reconfigurable Logic for Near-Data Processing]<br/>
 PIM core style: FPGA / CGRA<br/>
 Granularity: entire application<br/>
+Coherence: restrict PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][Scheduling techniques for GPU architectures with processing-in-memory capabilities]<br/>
 GPU-HMC<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Analyzing Consistency Issues in HMC Atomics]<br/>
@@ -235,6 +250,7 @@ GPU-HMC<br/>
 Pointer traversal<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ICCD 2016][Accelerating pointer chasing in 3D-stacked memory: Challenges, mechanisms, evaluation]<br/>
 Pointer traversal<br/>
+This introduces in-memory support for address translation and pointer chasing<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICS 2016][Prefetching Techniques for Near-memory Throughput Processors]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ARCS 2016][Design and Evaluation of a Processing-in-Memory Architecture for the Smart Memory Cube]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[thesis 2016][RowCore: A Processing-Near-Memory Architecture for Big Data Machine Learning]<br/>
@@ -252,6 +268,7 @@ GPU-HMC for graphics<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2017][Lightweight SIMT Core Designs for Intelligent 3D Stacked DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2017][Toward Standardized Near-Data Processing with Unrestricted Data Placement for GPUs]<br/>
 GPU-HMC<br/>
+This enables the distribution of PIM data across multiple memory stacks.<br/>
 ![#af62ff](https://placehold.it/15/af62ff/000000?text=+)[arXiv 2017][GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PC 2017][HMC-Sim-2.0: A co-design infrastructure for exploring custom memory cube operations]<br/>
 ![#003366](https://placehold.it/15/003366/000000?text=+)[TPDS 2018][Near-Memory Acceleration for Radio Astronomy]<br/>
@@ -262,22 +279,26 @@ GPU-HMC<br/>
 ### DIMM style NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2014][Comparing Implementations of Near-Data Computing with In-Memory MapReduce Workloads]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2016][Chameleon: Versatile and practical near-DRAM acceleration architecture for large memory systems]<br/>
+This paper proposes a method of integrating logic within the DRAM module but outside of the chip to reduce manufacturing costs.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2016][Heterogeneous Computing Meets Near-Memory Acceleration and High-Level Synthesis in the Post-Moore Era]<br/>
 
 ### Wide-I/O style NDP
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISLPED 2017][XNOR-POP: A processing-in-memory architecture for binary Convolutional Neural Networks in Wide-IO2 DRAMs]<br/>
 
 ### Memory Controller style NDP
+"These works (1) are often unable to take advantage of the high internal bandwidth of 3D-stacked DRAM, which reduces the efficiency of PIM execution, and (2) may still suffer from many of the same challenges faced by architectures that embed logic within the DRAM chip." - Ghose, arXiv 2018.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2015][Gather-Scatter DRAM: In-DRAM Address Translation to Improve the Spatial Locality of Non-unit Strided Accesses]<br/>
+This design embeds logic within the memory controller to remap a single memory request across multiple rows and columns within DRAM. <br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2015][Decoupled Direct Memory Access: Isolating CPU and IO Traffic by Leveraging a Dual-Data-Port DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2016][Continuous Runahead: Transparent Hardware Acceleration for Memory Intensive Workloads]<br/>
 PIM kernel identification: programmer / compiler<br/>
+This design embeds logic in the memory controller that accelerates dependent cache misses and performs runahead execution<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Accelerating Dependent Cache Misses with an Enhanced Memory Controller]
+This design embeds logic in the memory controller that accelerates dependent cache misses and performs runahead execution<br/>
 
 
 ## System level researches
 ### ISA / Compiler
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][A Processing-in-Memory Taxonomy and a Case for Studying Fixed-function PIM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][High-level Programming Model Abstractions for Processing in Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2015][PIM-enabled instructions: a low-overhead, locality-aware processing-in-memory architecture]<br/>
 Granularity: single instruction<br/>
@@ -288,6 +309,7 @@ GPU in manycore system<br/>
 Granularity: singel instruction<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][An Architecture for Integrated Near-Data Processors]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SPAA 2017][Concurrent Data Structures for Near-Memory Computing]<br/>
+This work designs PIM-specific concurrent data structures to improve PIM performance.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][In-Memory Data Parallel Processor]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DATE 2018][Prometheus: Processing-in-memory Heterogeneous Architecture Design From a Multi-layer Network Theoretic Strategy]<br/>
@@ -295,6 +317,7 @@ Granularity: singel instruction<br/>
 ### Runtime Middleware and Scheduling
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
+This work optimizes how programs access PIM data<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IA 2017][Highly Scalable Near Memory Processing with Migrating Threads on the Emu System Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2017][Exploiting Parallelism for Convolutional Connections in Processing-In-Memory Architecture]<br/>
