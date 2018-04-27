@@ -80,12 +80,20 @@ The outline of the survey:
 
 ### RRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[nature 2015][Training and operation of an integrated neuromorphic network based on metal-oxide memristors]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASP-DAC 2017][MPIM: Multi-purpose in-memory processing using configurable resistive memory]<br/>
+
 
 ### PCRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TED 2015][Experimental demonstration and tolerancing of a large-scale neural network (165,000 synapses), using phase-change memory as the synaptic weight element]<br/>
 
 ### STT-RAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCAS 2014][Spin-Transfer Torque Magnetic Memory as a Stochastic Memristive Synapse]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISVLSI 2017][Hybrid Polymorphic Logic Gate with 5-Terminal Magnetic Domain Wall Motion Device]<br/>
+
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASP-DAC 2018][HieIM: Highly Flexible In-Memory Computing using STT MRAM]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Transactions on Magnetics 2017][In-Memory Processing Paradigm for Bitwise Logic Operations in STT–MRAM]<br/>
+
+
 
 ## Architecture level researches
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 1994][EXECUBE-A New Architecture for Scaleable MPPs]<br/>
