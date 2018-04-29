@@ -1,8 +1,10 @@
 <!-- Please use this as comment -->
 # PIM_NDP_papers
 This page contains a survey of Process-In-Memory (PIM) and Near-Data-Processing (NDP) papers. 
-To distinguish between PIM and NDP, we assume that PIM architecture either involves analog computation using memory array, or incorparating digital computing logic and memory components on the same die; 
+To distinguish between PIM and NDP (from technology perspective), we assume that PIM architecture either involves analog computation using memory array, or incorparating digital computing logic and memory components on the same die; 
 whereas NDP architecture has seperate implementations of computing logic and memory components in different dies. Therefore in our categorization, recent 3D stacking based design belongs to NDP architecture.
+
+From an architecture perspective, although some hardware uses memory technology to implement computation, they are still used as an accelerator for the host (for example, attached to PCIe as a slave device). These hardware designs assume separate physical address space from the host processor, and kenerl execution is similar to GPU (data copy-->kernel launch-->finish computation-->data copy). In contrast, some designs, though categorized as "NDP" in our survey, are truly "process-in-memory" from architectural standpoint. For example, "HMC + logic layer" can be used as memory device (read and written by the host) and a computation device (computation offloading). Also, some designs that have relatively large on-chip managed memory (For example, GPU has scratchpad memory, and DianNao has eDRAM) should be categorized as "memory-rich processor". These memory are local to the processor, and have no computing capability, so we do not include these papers in our survey.
 
 We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).  
 
