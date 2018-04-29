@@ -331,6 +331,8 @@ This work examines compiler-based mechanisms to decide what portions of code sho
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HotOS 2017][It's Time to Think About an Operating System for Near Data Processing Architectures]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computers 2017][StaleLearn: Learning Acceleration with Asynchronous Synchronization between Model Replicas on PIM]<br/>
+
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[PACT 2015][BSSync: Processing Near Memory for Machine Learning Workloads with Bounded Staleness Consistency Models]<br/>
