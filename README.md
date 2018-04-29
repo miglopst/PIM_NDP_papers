@@ -217,6 +217,8 @@ This work optimizes the 3D-stacked DRAM architecture for PIM<br/>
 Thermal Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2018][PM3: Power Modeling and Power Management for Processing-in-Memory]<br/>
 Power Analysis<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IPDPS 2018][CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading]<br/>
+Thermal Analysis<br/>
 
 ### 3D-HMC NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MSPC 2013][A new perspective on processing-in-memory architecture design]<br/>
