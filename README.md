@@ -264,7 +264,7 @@ This introduces in-memory support for address translation and pointer chasing<br
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2017][The Mondrian Data Engine]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[HPCA 2017][GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks]<br/>
 Granularity: single instruction<br/>
-Takeaway: offloading with HMC-atomic instructions on CPU is beneficial for graph-computing applications. GraphPIM does not explore candidate properties and selection process.
+Takeaway: offloading with HMC-atomic instructions on CPU is beneficial for graph-computing applications. GraphPIM does not explore candidate properties and selection process.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Processing-in-Memory Enabled Graphics Processors for 3D Rendering]<br/>
 GPU-HMC for graphics<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPLOS 2017][TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory]<br/>
