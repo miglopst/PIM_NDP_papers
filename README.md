@@ -118,6 +118,7 @@ Arch: add logic within DRAM to perform vector operations<br/>
 Arch: add logic within DRAM to perform vector operations<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 1998][Active Pages: A Computation Model for Intelligent Memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 1999][Mapping Irregular Applications to DIVA, a PIM based Data-Intensive Architecture]<br/>
+![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[MTDT 1999][The Dynamic Associative Access Memory Chip and its Application to SIMD Processing and Full-text Database Retrieval]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE DT 1999][Computational RAM: Implementing processors in memory]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2000][Smart Memories: A Modular Reconfigurable Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IPDPS 2002][Memory-intensive benchmarks: IRAM vs. cache-based machines]<br/>
