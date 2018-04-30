@@ -315,6 +315,7 @@ GPU in manycore system<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-in-Memory]<br/>
 Granularity: Singel instruction<br/>
 Idea: This paper is a a follow-up to GraphPIM. It extends GraphPIM to GPU workloads and introduces a compiler-assisted technique that facilitates instruction-level offloading on both CPU and GPU platforms in the context of HMC-atomic instructions for graph-computing applications.<br/>
+Cache Coherence: Because HMC-atomic instructions directly modify data within the HMC, this design maintains a cache-bypassing policy that ensures a coherent view of offloading targets. In other words, marking the memory accesses of HMC-atomic instructions as uncacheable causes them to bypass the cache hierarchy and ensures that a single copy of offloading targets exists.
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][An Architecture for Integrated Near-Data Processors]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SPAA 2017][Concurrent Data Structures for Near-Memory Computing]<br/>
 This work designs PIM-specific concurrent data structures to improve PIM performance.<br/>
