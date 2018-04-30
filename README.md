@@ -228,6 +228,7 @@ Thermal Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPDC 2014][TOP-PIM: Throughput-Oriented Programmable Processing in Memory]<br/>
 This design restricts PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM<br/>
 This paper assumes PIM cores to be streaming multiprocessor style to utilize the internal bandwidth of HMC.<br/>
+This paperassumes whole application offloading.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ISCA 2015][A scalable processing-in-memory accelerator for parallel graph processing]<br/>
 Granularity: entire application<br/>
@@ -332,6 +333,7 @@ This work optimizes how programs access PIM data<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
 This work examines compiler-based mechanisms to decide what portions of code should be offloaded to PIM processing logic in a GPU-based system.<br/>
 This paper assumes PIM cores to be streaming multiprocessor style to utilize the internal bandwidth of HMC.<br/>
+This paper uses a compiler-based technique to identify off-loading kernels (bandwidth saving as a metric).<br/>
 This paper also considers the problem of mapping data onto different HMCs (locality of data and computation).<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IA 2017][Highly Scalable Near Memory Processing with Migrating Threads on the Emu System Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2017][Exploiting Parallelism for Convolutional Connections in Processing-In-Memory Architecture]<br/>
