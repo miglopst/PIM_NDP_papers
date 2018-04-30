@@ -332,6 +332,7 @@ This work optimizes how programs access PIM data<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
 This work examines compiler-based mechanisms to decide what portions of code should be offloaded to PIM processing logic in a GPU-based system.<br/>
 This paper assumes PIM cores to be streaming multiprocessor style to utilize the internal bandwidth of HMC.<br/>
+This paper also considers the problem of mapping data onto different HMCs (locality of data and computation).<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IA 2017][Highly Scalable Near Memory Processing with Migrating Threads on the Emu System Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2017][Exploiting Parallelism for Convolutional Connections in Processing-In-Memory Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][Triple Engine Processor (TEP): A Heterogeneous Near-Memory Processor for Diverse Kernel Operations]<br/>
