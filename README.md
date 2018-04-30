@@ -318,7 +318,8 @@ GPU in manycore system<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-in-Memory]<br/>
 Granularity: Singel instruction<br/>
 Idea: This paper is a a follow-up to GraphPIM. It extends GraphPIM to GPU workloads and introduces a compiler-assisted technique that facilitates instruction-level offloading on both CPU and GPU platforms in the context of HMC-atomic instructions for graph-computing applications.<br/>
-Cache Coherence: Because HMC-atomic instructions directly modify data within the HMC, this design maintains a cache-bypassing policy that ensures a coherent view of offloading targets. In other words, marking the memory accesses of HMC-atomic instructions as uncacheable causes them to bypass the cache hierarchy and ensures that a single copy of offloading targets exists.
+Cache Coherence: Because HMC-atomic instructions directly modify data within the HMC, this design maintains a cache-bypassing policy that ensures a coherent view of offloading targets. In other words, marking the memory accesses of HMC-atomic instructions as uncacheable causes them to bypass the cache hierarchy and ensures that a single copy of offloading targets exists.<br/>
+The cost metrics (bandwidth saving) to identify off-loading computation is similar to **Transparent Offloading and Mapping (TOM), (ISCA 2016)**.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][An Architecture for Integrated Near-Data Processors]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SPAA 2017][Concurrent Data Structures for Near-Memory Computing]<br/>
 This work designs PIM-specific concurrent data structures to improve PIM performance.<br/>
@@ -331,10 +332,14 @@ This work designs PIM-specific concurrent data structures to improve PIM perform
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
 This work optimizes how programs access PIM data<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Transparent offloading and mapping (TOM): Enabling programmer-transparent near-data processing in GPU systems]<br/>
-This work examines compiler-based mechanisms to decide what portions of code should be offloaded to PIM processing logic in a GPU-based system.<br/>
+Granularity: instruction blocks (GPU warp).<br/>
+This paper assumes memory accessed by offloaded instructions are marked uncacheable. In other word, if a warp accesses memory that will cause data sharing among PIM and host, the warp should not be an offloading candidate.<br/>
+This paper also assumes no memory barrier, synchronization, or atomic instructions in candidate blocks as it does not support synchronization primitives between the main GPU and the logic layer SM.<br/>
 This paper assumes PIM cores to be streaming multiprocessor style to utilize the internal bandwidth of HMC.<br/>
-This paper uses a compiler-based technique to identify off-loading kernels (bandwidth saving as a metric).<br/>
-This paper also considers the problem of mapping data onto different HMCs (locality of data and computation).<br/>
+This paper uses a compiler-based technique to identify candidate off-loading code blocks (bandwidth saving as a metric).<br/>
+This paper also considers the problem of mapping data onto different HMCs (locality of data and computation). This maps memory pages accessed by offloaded code to where the code will execute, by exploiting common memory access patterns.<br/>
+This paper also discusses a runtime component to dynamically determine whether an offloading candidate block should really be offloaded.<br/>
+Virtual memory mechanism: this paper assumes memory stack SMs are equipped with similar TLBs and MMUs and are capable of performing virtual address translation. It assumes the size of the MMU and TLB per SM is fairly small: 1-2K flip-flops and small amount of logic.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IA 2017][Highly Scalable Near Memory Processing with Migrating Threads on the Emu System Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2017][Exploiting Parallelism for Convolutional Connections in Processing-In-Memory Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][Triple Engine Processor (TEP): A Heterogeneous Near-Memory Processor for Diverse Kernel Operations]<br/>
