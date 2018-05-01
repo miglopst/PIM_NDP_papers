@@ -87,7 +87,6 @@ Arch: small processing elements are combined with small amounts of RAM to provid
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[nature 2015][Training and operation of an integrated neuromorphic network based on metal-oxide memristors]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASP-DAC 2017][MPIM: Multi-purpose in-memory processing using configurable resistive memory]<br/>
 
-
 ### PCRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TED 2015][Experimental demonstration and tolerancing of a large-scale neural network (165,000 synapses), using phase-change memory as the synaptic weight element]<br/>
 
@@ -249,7 +248,10 @@ Granularity: entire application<br/>
 Coherence: restrict PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][Scheduling techniques for GPU architectures with processing-in-memory capabilities]<br/>
 GPU-HMC<br/>
+Granularity: kernel offloading.<br/>
+This paper assumes GPU style PIM cores.<br/>
 This paper examines system-level techniques that decide which GPU application kernels are suitable for PIM execution.<br/>
+It identifies independent kernels and schedule them concurrently.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Analyzing Consistency Issues in HMC Atomics]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2016][Near-DRAM Acceleration with Single-ISA Heterogeneous Processing in Standard Memory Modules]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[IEEE Micro 2016][HAMLeT Architecture for Parallel Data Reorganization in Memory]<br/>
