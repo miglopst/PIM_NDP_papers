@@ -250,7 +250,8 @@ Coherence: restrict PIM processing logic to execute on only non-cacheable data, 
 GPU-HMC<br/>
 Granularity: kernel offloading.<br/>
 This paper assumes GPU style PIM cores.<br/>
-This paper examines system-level techniques that decide which GPU application kernels are suitable for PIM execution.<br/>
+This paper's offloading strategy not only considers the memory / computation features (map compute-bound kernels to GPU-PIC, and map memory-bound to GPU-PIM), it also considers how to achieve maximum concurrency so that the overall execution time is reduced.<br/>
+
 It identifies independent kernels and schedule them concurrently.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2016][Analyzing Consistency Issues in HMC Atomics]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2016][Near-DRAM Acceleration with Single-ISA Heterogeneous Processing in Standard Memory Modules]<br/>
