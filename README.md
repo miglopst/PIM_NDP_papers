@@ -188,8 +188,9 @@ RRAM FPGA<br/>
 ### Runtime Middleware and Scheduling
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2002][Gilgamesh: A multithreaded processor-in-memory architecture for petaflops computing]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[arXiv 2017][CODA: Enabling Co-location of Computation and Data for Near-Data Processing]<br/>
-Platform: GPU + HBM<br/>
+Platform: GPU + HBM(SM style)<br/>
 Two ideas: (1) selectively localize data / scatter data; (2) thread-block and data co-location<br/>
+Virtual Memomry assumption: This paper assumes SMs in the memory stack are equipped with a hardware TLB and memory management units (MMUs) that access page tables and are capable of performing virtual address translation.<br/>
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CAL 2017][LazyPIM: An Efficient Cache Coherence Mechanism for Processing-in-Memory]<br/>
