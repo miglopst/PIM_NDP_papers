@@ -278,6 +278,8 @@ This introduces in-memory support for address translation and pointer chasing<br
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2017][The Mondrian Data Engine]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[HPCA 2017][GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks]<br/>
 Granularity: single instruction<br/>
+Previous work: PIM-enabled instructions [ISCA 2015] require programmers to explicitly invoke PIM operations using new host (native) instructions. **GraphPIM does not add an extra burden on application programmers by leveraging existing host instructions.** <br/>
+Key idea: map host atomic instructions directly into PIM atomics using uncacheable memory support in modern architectures, without any changes in user applications or ISA.<br/>
 Takeaway: offloading with HMC-atomic instructions on CPU is beneficial for graph-computing applications. GraphPIM does not explore candidate properties and selection process.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Processing-in-Memory Enabled Graphics Processors for 3D Rendering]<br/>
 GPU-HMC for graphics<br/>
