@@ -235,11 +235,12 @@ This paperassumes whole application offloading.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ISCA 2015][A scalable processing-in-memory accelerator for parallel graph processing]<br/>
 Granularity: entire application<br/>
-PIM kernel identification: programmer / compiler<br/>
+Programming model: a new set of API to write programs.<br/>
 Host Interface: Tesseract acts like an accelerator that is memory-mapped to part of a noncacheable memory region of the host processors.<br/>
 Coherence: restrict PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM.<br/>
 No Virtual Memory Support: Since in-memory big-data workloads usually do not require many features provided by virtual memory, Tesseract does not support virtual memory to avoid the need for address translation inside memory.<br>
 Computation movement: Computation movement is implemented as a remote function call<br/>
+Sychronization: guranteed by barrier() API<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[ISCA 2015][Data-reorganization: Data Reorganization in Memory Using 3D-stacked DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2015][NDA: Near-DRAM acceleration architecture leveraging commodity DRAM devices and standard memory modules]<br/>
 Coherence: restrict PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM.<br/>
