@@ -280,7 +280,9 @@ This introduces in-memory support for address translation and pointer chasing<br
 Granularity: single instruction<br/>
 Previous work: PIM-enabled instructions [ISCA 2015] require programmers to explicitly invoke PIM operations using new host (native) instructions. **GraphPIM does not add an extra burden on application programmers by leveraging existing host instructions.** <br/>
 Key idea: map host atomic instructions directly into PIM atomics using uncacheable memory support in modern architectures, without any changes in user applications or ISA.<br/>
+Offloading Target: choose the atomic operations on the graph property as PIM offloading targets. All host atomic instructions accessing the PMR (PIM memory region) are offloaded as PIMAtomic requests.<br/>
 Takeaway: offloading with HMC-atomic instructions on CPU is beneficial for graph-computing applications. GraphPIM does not explore candidate properties and selection process.<br/>
+Coherence Issue: GraphPIM requires the framework to allocate the graph property in the PIM memory region (PMR), which is a continuous block of an uncacheable region in the virtual memory space.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Processing-in-Memory Enabled Graphics Processors for 3D Rendering]<br/>
 GPU-HMC for graphics<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPLOS 2017][TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory]<br/>
