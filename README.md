@@ -358,11 +358,11 @@ Virtual memory mechanism: this paper assumes memory stack SMs are equipped with 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IA 2017][Highly Scalable Near Memory Processing with Migrating Threads on the Emu System Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2017][Exploiting Parallelism for Convolutional Connections in Processing-In-Memory Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2017][Triple Engine Processor (TEP): A Heterogeneous Near-Memory Processor for Diverse Kernel Operations]<br/>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HotOS 2017][It's Time to Think About an Operating System for Near Data Processing Architectures]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computers 2017][StaleLearn: Learning Acceleration with Asynchronous Synchronization between Model Replicas on PIM]<br/>
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2017][Selective off-loading to Memory: Task Partitioning and Mapping for PIM-enabled Heterogeneous Systems]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[PACT 2015][BSSync: Processing Near Memory for Machine Learning Workloads with Bounded Staleness Consistency Models]<br/>
