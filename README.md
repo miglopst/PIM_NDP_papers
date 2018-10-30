@@ -138,9 +138,9 @@ FPGA style<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][DRISA: a DRAM-based Reconfigurable In-Situ Accelerator]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2017][PHOENIX: Efficient Computation in Memory]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[Micro 2018][SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[Micro 2018][SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator]<br/>
 sets]
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][DrAcc: a DRAM based accelerator for accurate CNN inference]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][DrAcc: a DRAM based accelerator for accurate CNN inference]<br/>
 
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
@@ -324,8 +324,8 @@ This design embeds logic in the memory controller that accelerates dependent cac
 This design embeds logic in the memory controller that accelerates dependent cache misses and performs runahead execution<br/>
 
 ### Memory-Rich Processor
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][On-chip deep neural network storage with multi-level eNVM]
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2018][RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][On-chip deep neural network storage with multi-level eNVM]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2018][RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM]<br/>
 
 ## System level researches
 ### ISA / Compiler
@@ -369,7 +369,7 @@ Virtual memory mechanism: this paper assumes memory stack SMs are equipped with 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2017][Selective off-loading to Memory: Task Partitioning and Mapping for PIM-enabled Heterogeneous Systems]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[MICRO 2018][Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[MICRO 2018][Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach]<br/>
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[PACT 2015][BSSync: Processing Near Memory for Machine Learning Workloads with Bounded Staleness Consistency Models]<br/>
