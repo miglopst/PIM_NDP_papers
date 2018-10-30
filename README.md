@@ -138,9 +138,12 @@ FPGA style<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][DRISA: a DRAM-based Reconfigurable In-Situ Accelerator]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2017][PHOENIX: Efficient Computation in Memory]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TVLSI 2017][Excavating the Hidden Parallelism Inside DRAM Architectures With Buffered Compares]
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[Micro 2018][SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator]<br/>
-sets]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2018][In-DRAM Near-Data Approximate Acceleration for GPUs]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][DrAcc: a DRAM based accelerator for accurate CNN inference]<br/>
+
+
 
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
@@ -370,6 +373,7 @@ Virtual memory mechanism: this paper assumes memory stack SMs are equipped with 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[MICRO 2018][Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[CAL 2018][A Case for Memory-Centric HPC System Architecture for Training Deep Neural Networks]
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[PACT 2015][BSSync: Processing Near Memory for Machine Learning Workloads with Bounded Staleness Consistency Models]<br/>
