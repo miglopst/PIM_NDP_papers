@@ -173,6 +173,8 @@ RRAM FPGA<br/>
 RRAM training<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
 RRAM training<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Micro 2018][Newton: Gravitating Towards the Physical Limits of Crossbar Acceleration]
+
 
 ### PCRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DAC 2015][ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing]<br/>
@@ -213,6 +215,7 @@ Coherence: restrict PIM processing logic to execute on only non-cacheable data, 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 2017][Boosting the efficiency of HPCG and Graph500 with near-data processing]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[NeuroTrainer: An Intelligent Memory Module for Deep Learning Training]
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computer 2018][A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Data
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2018][DeepTrain: A Programmable Embedded Platform for Training Deep Neural Networks]
 
 ### General 3D NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2008][3D-Stacked Memory Architectures for Multi-Core Processors]<br/>
