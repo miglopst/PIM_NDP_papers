@@ -323,6 +323,9 @@ This design embeds logic in the memory controller that accelerates dependent cac
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2016][Accelerating Dependent Cache Misses with an Enhanced Memory Controller]
 This design embeds logic in the memory controller that accelerates dependent cache misses and performs runahead execution<br/>
 
+### Memory-Rich Processor
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][On-chip deep neural network storage with multi-level eNVM]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2018][RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM]
 
 ## System level researches
 ### ISA / Compiler
