@@ -138,9 +138,9 @@ FPGA style<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][DRISA: a DRAM-based Reconfigurable In-Situ Accelerator]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2017][PHOENIX: Efficient Computation in Memory]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[NeuroTrainer: An Intelligent Memory Module for Deep Learning Training]
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[Micro 2018][SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator]
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computer 2018][A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Datasets]
+sets]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][DrAcc: a DRAM based accelerator for accurate CNN inference]
 
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
@@ -208,7 +208,8 @@ Coherence: restrict PIM processing logic to execute on only non-cacheable data, 
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[MemSys 2017][The sparse data reduction engine: chopping sparse data one byte at a time]<br/>
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[MemSys 2017][Identifying the potential of Near Data Processing for Apache Spark]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 2017][Boosting the efficiency of HPCG and Graph500 with near-data processing]<br/>
-
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[NeuroTrainer: An Intelligent Memory Module for Deep Learning Training]
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computer 2018][A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Data
 
 ### General 3D NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2008][3D-Stacked Memory Architectures for Multi-Core Processors]<br/>
