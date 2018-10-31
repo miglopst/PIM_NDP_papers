@@ -213,9 +213,7 @@ Coherence: restrict PIM processing logic to execute on only non-cacheable data, 
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[MemSys 2017][The sparse data reduction engine: chopping sparse data one byte at a time]<br/>
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[MemSys 2017][Identifying the potential of Near Data Processing for Apache Spark]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICPP 2017][Boosting the efficiency of HPCG and Graph500 with near-data processing]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[NeuroTrainer: An Intelligent Memory Module for Deep Learning Training]
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computer 2018][A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Data
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2018][DeepTrain: A Programmable Embedded Platform for Training Deep Neural Networks]
+
 
 ### General 3D NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2008][3D-Stacked Memory Architectures for Multi-Core Processors]<br/>
@@ -304,10 +302,13 @@ GPU-HMC<br/>
 This enables the distribution of PIM data across multiple memory stacks.<br/>
 ![#af62ff](https://placehold.it/15/af62ff/000000?text=+)[arXiv 2017][GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PC 2017][HMC-Sim-2.0: A co-design infrastructure for exploring custom memory cube operations]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2017][NeuroTrainer: An Intelligent Memory Module for Deep Learning Training]<br/>
 ![#003366](https://placehold.it/15/003366/000000?text=+)[TPDS 2018][Near-Memory Acceleration for Radio Astronomy]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2018][Memory Slices: A Modular Building Block for Scalable, Intelligent Memory Systems]<br/>
 ![#af62ff](https://placehold.it/15/af62ff/000000?text=+)[BMC Genomics][GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies]<br/>
-
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computer 2018][A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Data Sets]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2018][DeepTrain: A Programmable Embedded Platform for Training Deep Neural Networks]<br/>
+![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[IPDPS 2018][Application Codesign of Near-Data Processing for Similarity Search]<br/>
 
 ### DIMM style NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2014][Comparing Implementations of Near-Data Computing with In-Memory MapReduce Workloads]<br/>
