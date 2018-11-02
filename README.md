@@ -308,7 +308,7 @@ This enables the distribution of PIM data across multiple memory stacks.<br/>
 ![#af62ff](https://placehold.it/15/af62ff/000000?text=+)[BMC Genomics][GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computer 2018][A Scalable Near-Memory Architecture for Training Deep Neural Networks on Large In-Memory Data Sets]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2018][DeepTrain: A Programmable Embedded Platform for Training Deep Neural Networks]<br/>
-![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[arXiv 2017][Application-Driven Near-Data Processing for Similarity Search]
+![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[arXiv 2017][Application-Driven Near-Data Processing for Similarity Search]<br/>
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[IPDPS 2018][Application Codesign of Near-Data Processing for Similarity Search]<br/>
 
 ### DIMM style NDP
