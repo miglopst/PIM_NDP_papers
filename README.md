@@ -138,7 +138,7 @@ FPGA style<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][DRISA: a DRAM-based Reconfigurable In-Situ Accelerator]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2017][PHOENIX: Efficient Computation in Memory]<br/>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TVLSI 2017][Excavating the Hidden Parallelism Inside DRAM Architectures With Buffered Compares]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TVLSI 2017][Excavating the Hidden Parallelism Inside DRAM Architectures With Buffered Compares]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[Micro 2018][SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2018][In-DRAM Near-Data Approximate Acceleration for GPUs]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][DrAcc: a DRAM based accelerator for accurate CNN inference]<br/>
