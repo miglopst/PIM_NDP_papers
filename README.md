@@ -11,7 +11,7 @@ We only include circuit, architecture and system level researches (The list is e
 The outline of the survey:
 * [Pioneering Papers](#pioneering-papers)
 * [Survey Papers](#survey-papers)
-* [PIM](https://github.com/miglopst/PIM_NDP_papers/edit/master/PIM.md)
+* [PIM](https://github.com/miglopst/PIM_NDP_papers/blob/master/PIM.md)
 * [NDP](#ndp)
   * [Architecture level researches](#architecture-level-researches-1)
     * [General 3D NDP](#general-3d-ndp)
