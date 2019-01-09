@@ -11,8 +11,8 @@ We only include circuit, architecture and system level researches (The list is e
 The outline of the survey:
 * [Pioneering Papers](#pioneering-papers)
 * [Survey Papers](#survey-papers)
-* [PIM](https://github.com/miglopst/PIM_NDP_papers/blob/master/PIM)
-  * [Circuit level researches](#circuit-level-researches)
+* [PIM](https://github.com/miglopst/PIM_NDP_papers/blob/master/PIM#PIM)
+  * [Circuit level researches](https://github.com/miglopst/PIM_NDP_papers/blob/master/PIM#circuit-level-researches)
     * [DRAM based](#dram-based)
     * [SRAM based](#sram-based)
     * [RRAM based](#rram-based)
