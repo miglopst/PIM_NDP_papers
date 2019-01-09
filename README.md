@@ -12,7 +12,7 @@ The outline of the survey:
 * [Pioneering Papers](#pioneering-papers)
 * [Survey Papers](#survey-papers)
 * [PIM](https://github.com/miglopst/PIM_NDP_papers/blob/master/PIM#PIM)
-  * [Circuit level researches](https://github.com/miglopst/PIM_NDP_papers/blob/master/PIM#circuit-level-researches)
+  * [Circuit level researches](https://github.com/miglopst/PIM_NDP_papers/blob/master/PIM/#circuit-level-researches)
     * [DRAM based](#dram-based)
     * [SRAM based](#sram-based)
     * [RRAM based](#rram-based)
