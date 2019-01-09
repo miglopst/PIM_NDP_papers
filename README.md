@@ -38,7 +38,6 @@ Arch: small processing elements are combined with small amounts of RAM to provid
 [MemSys 2016][Data-Centric Computing Frontiers: A Survey On Processing-In-Memory]<br/>
 [IEEE Solid-State Circuits Magazine 2016][Making the Case for Feature-Rich Memory Systems: The March Toward Specialized Systems]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Advances in Computers 2017][Simple Operations in Memory to Reduce Data Movement]<br/>
-![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[arXiv 2016][The Processing Using Memory Paradigm:In-DRAM Bulk Copy, Initialization, Bitwise AND and OR]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Nature Electronics 2018][The future of electronics based on memristive systems]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2018][Neuro-memristive circuits for edge computing: A review]<br/>
 
