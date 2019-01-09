@@ -13,7 +13,7 @@
     * [STT-RAM based](#stt-ram-based-1)
   * [System level researches](#system-level-researches)
     * [ISA / Compiler](#isa--compiler)
-    * [Runtime Middleware and Scheduling](#runtime-middleware-and-scheduling)
+    * [Firmware / Runtime / Middleware](#firmware--runtime--middleware)
     * [Coherence / Consistence / Concurrency (atomicity) issues](#coherence--consistence--concurrency-atomicity-issues)
 
 **Application Scenario Marker**
@@ -155,7 +155,7 @@ RRAM training]<br/>
 RRAM FPGA<br/>
 ![#f4f442](https://placehold.it/15/f4f442/000000?text=+)[IPDPS 2017][Similarity Search on Automata Processors]<br/>
 
-### Middleware and Runtime
+### Firmware / Runtime / Middleware
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2002][Gilgamesh: A multithreaded processor-in-memory architecture for petaflops computing]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[arXiv 2017][CODA: Enabling Co-location of Computation and Data for Near-Data Processing]<br/>
 Platform: GPU + HBM(SM style)<br/>
