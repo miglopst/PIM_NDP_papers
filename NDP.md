@@ -7,7 +7,7 @@
     * [Memory Controller style NDP](#memory-controller-style-ndp)
   * [System level researches](#system-level-researches-1)
     * [ISA / Compiler](#isa--compiler-1)
-    * [Runtime Middleware and Scheduling](#runtime-middleware-and-scheduling-1)
+    * [Middleware and Runtime](#runtime-middleware-and-scheduling-1)
     * [Coherence / Consistence / Concurrency (atomicity) issues](#coherence--consistence--concurrency-atomicity-issues-1)
     * [Libraries](#libraries)
     * [Security](#security)
@@ -43,7 +43,8 @@ Thermal Analysis<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPDC 2014][TOP-PIM: Throughput-Oriented Programmable Processing in Memory]<br/>
 This design restricts PIM processing logic to execute on only non-cacheable data, which forces cores within the CPU to read PIM data directly from DRAM<br/>
 This paper assumes PIM cores to be streaming multiprocessor style to utilize the internal bandwidth of HMC.<br/>
-This paperassumes whole application offloading.<br/>
+This paper assumes whole application offloading.<br/>
+![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[ASPLOS 2014][Integrated 3D-stacked server designs for increasing physical density of key-value stores]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IBM 2015][Active Memory Cube: A processing-in-memory architecture for exascale systems]<br/>
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ISCA 2015][A scalable processing-in-memory accelerator for parallel graph processing]<br/>
 Granularity: entire application<br/>
@@ -115,6 +116,7 @@ This enables the distribution of PIM data across multiple memory stacks.<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2018][DeepTrain: A Programmable Embedded Platform for Training Deep Neural Networks]<br/>
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[arXiv 2017][Application-Driven Near-Data Processing for Similarity Search]<br/>
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[IPDPS 2018][Application Codesign of Near-Data Processing for Similarity Search]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[MICRO 2018][Multi-dimensional Parallel Training of Winograd Layer on Memory-Centric Architecture]<br/>
 
 ### DIMM style NDP
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 2014][Comparing Implementations of Near-Data Computing with In-Memory MapReduce Workloads]<br/>
@@ -161,7 +163,7 @@ This work designs PIM-specific concurrent data structures to improve PIM perform
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DATE 2018][Prometheus: Processing-in-memory Heterogeneous Architecture Design From a Multi-layer Network Theoretic Strategy]<br/>
 
-### Runtime Middleware and Scheduling
+### Middleware and Runtime
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
 This work optimizes how programs access PIM data<br/>
@@ -180,10 +182,14 @@ Virtual memory mechanism: this paper assumes memory stack SMs are equipped with 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HotOS 2017][It's Time to Think About an Operating System for Near Data Processing Architectures]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Trans on Computers 2017][StaleLearn: Learning Acceleration with Asynchronous Synchronization between Model Replicas on PIM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2017][Selective off-loading to Memory: Task Partitioning and Mapping for PIM-enabled Heterogeneous Systems]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MASCOTS 2017][Quantifying the Potential Benefits of On-chip Near-Data Computing in Manycore Processors]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TPDS 2018][Towards Memory-Efficient Allocation of CNNs on Processing-in-Memory Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[MICRO 2018][Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[CAL 2018][A Case for Memory-Centric HPC System Architecture for Training Deep Neural Networks]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MICRO 2018][Application-Transparent Near-Memory Processing Architecture with Memory Channel Network]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[CAL 2018][Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning]<br/>
+
+
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[PACT 2015][BSSync: Processing Near Memory for Machine Learning Workloads with Bounded Staleness Consistency Models]<br/>
