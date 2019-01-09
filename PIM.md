@@ -1,3 +1,33 @@
+* [PIM](#PIM)
+  * [Circuit level researches](#circuit-level-researches)
+    * [DRAM based](#dram-based)
+    * [SRAM based](#sram-based)
+    * [RRAM based](#rram-based)
+    * [PCRAM based](#pcram-based)
+    * [STT-RAM based](#stt-ram-based)
+  * [Architecture level researches](#architecture-level-researches)
+    * [DRAM based](#dram-based-1)
+    * [SRAM based](#sram-based-1)
+    * [RRAM based](#rram-based-1)
+    * [PCRAM based](#pcram-based-1)
+    * [STT-RAM based](#stt-ram-based-1)
+  * [System level researches](#system-level-researches)
+    * [ISA / Compiler](#isa--compiler)
+    * [Runtime Middleware and Scheduling](#runtime-middleware-and-scheduling)
+    * [Coherence / Consistence / Concurrency (atomicity) issues](#coherence--consistence--concurrency-atomicity-issues)
+
+**Application Scenario Marker**
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
+- ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
+- ![#0abab5](https://placehold.it/15/0abab5/000000?text=+) Data Analytics
+- ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+) Associative Computing
+- ![#f4f442](https://placehold.it/15/f4f442/000000?text=+) Automata Computing
+- ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+) Data Manipulation
+- ![#161616](https://placehold.it/15/161616/000000?text=+) Security
+- ![#003366](https://placehold.it/15/003366/000000?text=+) Others
+
 # PIM
 
 ## Circuit level researches
