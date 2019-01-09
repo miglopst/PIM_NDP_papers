@@ -45,6 +45,7 @@
 ### RRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[nature 2015][Training and operation of an integrated neuromorphic network based on metal-oxide memristors]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASP-DAC 2017][MPIM: Multi-purpose in-memory processing using configurable resistive memory]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Electron Device Letters 2018][Reconfigurable Boolean Logic in Memristive Crossbar: the Principle and Implementation]
 
 ### PCRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TED 2015][Experimental demonstration and tolerancing of a large-scale neural network (165,000 synapses), using phase-change memory as the synaptic weight element]<br/>
@@ -55,7 +56,7 @@
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASP-DAC 2018][HieIM: Highly Flexible In-Memory Computing using STT MRAM]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Transactions on Magnetics 2017][In-Memory Processing Paradigm for Bitwise Logic Operations in STT–MRAM]<br/>
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DATE 2018][Computing-in-memory with spintronics]
 
 
 ## Architecture level researches
@@ -133,7 +134,8 @@ RRAM training<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
 RRAM training<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Micro 2018][Newton: Gravitating Towards the Physical Limits of Crossbar Acceleration]
-
+![#003366](https://placehold.it/15/003366/000000?text=+)[TCSI 2018][IMAGING: In-Memory AlGorithms for Image processiNG]
+![#003366](https://placehold.it/15/003366/000000?text=+)[ISCAS 2018][Efficient Algorithms for In-Memory Fixed Point Multiplication Using MAGIC]
 
 ### PCRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DAC 2015][ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing]<br/>
