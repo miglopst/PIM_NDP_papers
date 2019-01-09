@@ -145,6 +145,7 @@ This design embeds logic in the memory controller that accelerates dependent cac
 ## System level researches
 ### ISA / Compiler
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][High-level Programming Model Abstractions for Processing in Memory]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[WoNDP 2013][Data-triggered Multithreading for Near-Data Processing]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2015][PIM-enabled instructions: a low-overhead, locality-aware processing-in-memory architecture]<br/>
 Granularity: single instruction<br/>
 Idea: a hardware-based locality monitor chooses a processing unit, either in the host processor or memory hierarchy, for the execution of each custom PIM instruction written by a programmer.
@@ -160,7 +161,7 @@ The cost metrics (bandwidth saving) to identify off-loading computation is simil
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SPAA 2017][Concurrent Data Structures for Near-Memory Computing]<br/>
 This work designs PIM-specific concurrent data structures to improve PIM performance.<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][In-Memory Data Parallel Processor]<br/>
-
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2018][ORIGAMI: A Heterogeneous Split Architecture for In-Memory Acceleration of Learning]<br/>
 
 ### Firmware / Runtime / Middleware
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
