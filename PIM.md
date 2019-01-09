@@ -105,6 +105,7 @@ FPGA style<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][DrAcc: a DRAM based accelerator for accurate CNN inference]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2018][McDRAM: Low Latency and Energy-Efficient Matrix Computations in DRAM]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TransPDS 2018][Exploiting Parallelism for CNN Applications on 3D Stacked Processing-In-Memory Architecture]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[arXiv 2018][The processing using memory paradigm: In-DRAM bulk copy, initialization, bitwise AND and OR]<br/>
 
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
@@ -151,9 +152,12 @@ RRAM training]<br/>
 ### ISA / Compiler
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2001][Automatically mapping code on an intelligent memory architecture]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ICRC 2017][Generalize or Die: Operating Systems Support for Memristor-based Accelerators]<br/>
+![#f4f442](https://placehold.it/15/f4f442/000000?text=+)[IPDPS 2017][Similarity Search on Automata Processors]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support]<br/>
 RRAM FPGA<br/>
-![#f4f442](https://placehold.it/15/f4f442/000000?text=+)[IPDPS 2017][Similarity Search on Automata Processors]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DATE 2018][Prometheus: Processing-in-memory Heterogeneous Architecture Design From a Multi-layer Network Theoretic Strategy]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 2018][PROMISE: an end-to-end design of a programmable mixed-signal accelerator for machine-learning algorithms]<br/>
 
 ### Firmware / Runtime / Middleware
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2002][Gilgamesh: A multithreaded processor-in-memory architecture for petaflops computing]<br/>
