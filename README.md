@@ -39,7 +39,7 @@ Arch: small processing elements are combined with small amounts of RAM to provid
 [IEEE Solid-State Circuits Magazine 2016][Making the Case for Feature-Rich Memory Systems: The March Toward Specialized Systems]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Advances in Computers 2017][Simple Operations in Memory to Reduce Data Movement]<br/>
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[arXiv 2016][The Processing Using Memory Paradigm:In-DRAM Bulk Copy, Initialization, Bitwise AND and OR]<br/>
-
+[Nature Electronics 2018][The future of electronics based on memristive systems]<br/>
 
 
 
