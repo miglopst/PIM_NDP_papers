@@ -132,10 +132,10 @@ RRAM FPGA<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ASPDAC 2018][Training Low Bitwidth Convolutional Neural Network on RRAM]<br/>
 RRAM training<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
-RRAM training<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Micro 2018][Newton: Gravitating Towards the Physical Limits of Crossbar Acceleration]
-![#003366](https://placehold.it/15/003366/000000?text=+)[TCSI 2018][IMAGING: In-Memory AlGorithms for Image processiNG]
-![#003366](https://placehold.it/15/003366/000000?text=+)[ISCAS 2018][Efficient Algorithms for In-Memory Fixed Point Multiplication Using MAGIC]
+RRAM training]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Micro 2018][Newton: Gravitating Towards the Physical Limits of Crossbar Acceleration]<br/>
+![#003366](https://placehold.it/15/003366/000000?text=+)[TCSI 2018][IMAGING: In-Memory AlGorithms for Image processiNG]<br/>
+![#003366](https://placehold.it/15/003366/000000?text=+)[ISCAS 2018][Efficient Algorithms for In-Memory Fixed Point Multiplication Using MAGIC]<br/>
 
 ### PCRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DAC 2015][ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing]<br/>
