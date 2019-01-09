@@ -187,7 +187,7 @@ Virtual memory mechanism: this paper assumes memory stack SMs are equipped with 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[MICRO 2018][Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MICRO 2018][Application-Transparent Near-Memory Processing Architecture with Memory Channel Network]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[CAL 2018][Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning]<br/>
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPEC 2018][Designing Algorithms for the EMU Migrating-threads-based Architecture]<br/>
 
 
 ### Coherence / Consistence / Concurrency (atomicity) issues
