@@ -106,7 +106,6 @@ GPU-HMC for graphics<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2017][Toward Standardized Near-Data Processing with Unrestricted Data Placement for GPUs]<br/>
 GPU-HMC<br/>
 This enables the distribution of PIM data across multiple memory stacks.<br/>
-![#af62ff](https://placehold.it/15/af62ff/000000?text=+)[arXiv 2017][GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PC 2017][HMC-Sim-2.0: A co-design infrastructure for exploring custom memory cube operations]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2017][NeuroTrainer: An Intelligent Memory Module for Deep Learning Training]<br/>
 ![#003366](https://placehold.it/15/003366/000000?text=+)[TPDS 2018][Near-Memory Acceleration for Radio Astronomy]<br/>
