@@ -95,6 +95,7 @@ Arch: add logic within DRAM to perform vector operations<br/>
 FPGA style<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2016][Low-Cost Inter-Linked Subarrays (LISA): Enabling Fast Inter-Subarray Data Movement in DRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[arXiv 2016][Buddy-RAM: Improving the Performance and Efficiency of Bulk Bitwise Operations Using DRAM]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[TACO 2016][AIM: Energy-Efficient Aggregation Inside the Memory Hierarchy]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Micro 2017][DRISA: a DRAM-based Reconfigurable In-Situ Accelerator]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[MemSys 2017][PHOENIX: Efficient Computation in Memory]<br/>
@@ -102,8 +103,8 @@ FPGA style<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[Micro 2018][SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2018][In-DRAM Near-Data Approximate Acceleration for GPUs]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][DrAcc: a DRAM based accelerator for accurate CNN inference]<br/>
-
-
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TCAD 2018][McDRAM: Low Latency and Energy-Efficient Matrix Computations in DRAM]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[TransPDS 2018][Exploiting Parallelism for CNN Applications on 3D Stacked Processing-In-Memory Architecture]<br/>
 
 ### SRAM based
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[PACT 2014][SQRL: hardware accelerator for collecting software data structures]<br/>
@@ -133,6 +134,7 @@ RRAM FPGA<br/>
 RRAM training<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[JESTCS 2018][Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator]<br/>
 RRAM training]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[MICRO 2018][LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[IEEE Micro 2018][Newton: Gravitating Towards the Physical Limits of Crossbar Acceleration]<br/>
 ![#003366](https://placehold.it/15/003366/000000?text=+)[TCSI 2018][IMAGING: In-Memory AlGorithms for Image processiNG]<br/>
 ![#003366](https://placehold.it/15/003366/000000?text=+)[ISCAS 2018][Efficient Algorithms for In-Memory Fixed Point Multiplication Using MAGIC]<br/>
@@ -143,7 +145,7 @@ RRAM training]<br/>
 
 ### STT-RAM based
 ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[ISCA 2013][AC-DIMM: Associative computing with STT-MRAM]<br/>
-
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2018][CMP-PIM: An Energy-Efficient Comparator-based Processing-in-Memory Neural Network Accelerator]<br/>
 
 ## System level researches
 ### ISA / Compiler
@@ -153,7 +155,7 @@ RRAM training]<br/>
 RRAM FPGA<br/>
 ![#f4f442](https://placehold.it/15/f4f442/000000?text=+)[IPDPS 2017][Similarity Search on Automata Processors]<br/>
 
-### Runtime Middleware and Scheduling
+### Middleware and Runtime
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[SC 2002][Gilgamesh: A multithreaded processor-in-memory architecture for petaflops computing]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[arXiv 2017][CODA: Enabling Co-location of Computation and Data for Near-Data Processing]<br/>
 Platform: GPU + HBM(SM style)<br/>
