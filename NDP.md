@@ -7,7 +7,7 @@
     * [Memory Controller style NDP](#memory-controller-style-ndp)
   * [System level researches](#system-level-researches-1)
     * [ISA / Compiler](#isa--compiler-1)
-    * [Middleware and Runtime](#runtime-middleware-and-scheduling-1)
+    * [Firmware / Runtime / Middleware](#firmware--runtime--middleware)
     * [Coherence / Consistence / Concurrency (atomicity) issues](#coherence--consistence--concurrency-atomicity-issues-1)
     * [Libraries](#libraries)
     * [Security](#security)
@@ -163,7 +163,7 @@ This work designs PIM-specific concurrent data structures to improve PIM perform
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPLOS 2018][Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[DATE 2018][Prometheus: Processing-in-memory Heterogeneous Architecture Design From a Multi-layer Network Theoretic Strategy]<br/>
 
-### Middleware and Runtime
+### Firmware / Runtime / Middleware
 ![#0abab5](https://placehold.it/15/0abab5/000000?text=+)[PACT 2015][Practical Near-Data Processing for In-memory Analytics Frameworks]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[CF 2015][Data Access Optimization in a Processing-in-Memory System]<br/>
 This work optimizes how programs access PIM data<br/>
