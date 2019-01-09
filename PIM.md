@@ -36,11 +36,12 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[GLSVLSI 2005][PIM lite: A multithreaded processor-in-memory prototype]<br/>
 
 ### SRAM based
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ICASSP 2014][An Energy-Efficient VLSI Architecture for Pattern Recognition via Deep Embedding of Computation in SRAM]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[VLSI 2016][A machine-learning classifier implemented in a standard 6T SRAM array]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][A 65nm 4Kb Algorithm-Dependent Computing-in-Memory SRAM Unit-Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISSCC 2018][Conv-RAM: An Energy-Efficient SRAM with Embedded Convolution Computation for Low-Power CNN-Based Machine Learning Applications]<br/>
 ![#ff66cc](https://placehold.it/15/ff66cc/000000?text=+)[JSSC 2018][A 4 + 2T SRAM for Searching and In-Memory Computing With 0.3-V VDDmin]<br/>
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ICASSP 2014][An Energy-Efficient VLSI Architecture for Pattern Recognition via Deep Embedding of Computation in SRAM]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[DAC 2108][Parallelizing SRAM arrays with customized bit-cell for binary neural networks]
 
 ### RRAM based
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[nature 2015][Training and operation of an integrated neuromorphic network based on metal-oxide memristors]<br/>
@@ -115,6 +116,7 @@ FPGA style<br/>
 ![#f4f442](https://placehold.it/15/f4f442/000000?text=+)[Micro 2017][Cache automaton]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[HPCA 2017][Compute Caches]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[ISCA 2018][Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2018][Xcel-RAM: Accelerating Binary Neural Networks in High-Throughput SRAM Compute Arrays]
 
 ### RRAM based
 
