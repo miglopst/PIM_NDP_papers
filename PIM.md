@@ -60,7 +60,10 @@
 
 
 ## Architecture level researches
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[IEEE Micro 1976][A case for intelligent RAM]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Computer 1995][Processing in Memory: The Terasys Massively Parallel PlM Array]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Frontiers 1996][Pursuing a Petaflop: Point Designs for 100 TF Computers Using PIM Technologies]<br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Computer 1997][Scalable Processors in the Billion-Transistor Era: IRAM]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ISCA 1997][Processing in memory: Chips to petaflops]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ASPDAC 2018][PIMCH: cooperative memory prefetching in processing-in-memory architecture]
 
