@@ -1,59 +1,88 @@
 # [Year - 2005](#2005)
 [M Wei] "[A near-memory processor for vector, streaming and bit manipulation workloads](http://www.ideals.illinois.edu/handle/2142/11011)"<br/>
 [TS Hall] "[Large-scale field-programmable analog arrays for analog signal processing](https://ieeexplore.ieee.org/abstract/document/1528675/)"<br/>
-[J Park] "[Proactive self-healing system based on multi-agent technologies](https://ieeexplore.ieee.org/abstract/document/1563171/)"<br/>
-[K Tei] "[Using mobile agent for location-specific data retrieval in manet](https://link.springer.com/chapter/10.1007/0-387-32015-6_15)"<br/>
 # [Year - 2006](#2006)
-[Z Hu] "[Optimization of dense matrix multiplication on IBM Cyclops-64: Challenges and experiences](https://link.springer.com/chapter/10.1007/11823285_14)"<br/>
+[T Kgil] "[PicoServer: using 3D stacking technology to enable a compact energy efficient chip multiprocessor](https://dl.acm.org/doi/abs/10.1145/1168857.1168873)"<br/>
 # [Year - 2007](#2007)
-[S Lyster] "[Artifacts Near Conditioning Data in MPS Gibbs Sampling](https://pdfs.semanticscholar.org/1ab7/42668d19c00be5228e9075031b782545c3c1.pdf)"<br/>
 [S Paul] "[Memory based computation using embedded cache for processor yield and reliability improvement](https://ieeexplore.ieee.org/abstract/document/4601922/)"<br/>
 [N AbouGhazaleh] "[Near-memory caching for improved energy consumption](https://ieeexplore.ieee.org/abstract/document/4336294/)"<br/>
+[GH Loh] "[Processor design in 3D die-stacking technologies](https://ieeexplore.ieee.org/abstract/document/4292055/)"<br/>
+[CL Chen] "[Thermal effects of three dimensional integrated circuit stacks](https://ieeexplore.ieee.org/abstract/document/4357867/)"<br/>
+[K Puttaswamy] "[Thermal herding: Microarchitecture techniques for controlling hotspots in high-performance 3D-integrated processors](https://ieeexplore.ieee.org/abstract/document/4147660/)"<br/>
 # [Year - 2008](#2008)
-[J Li ] "[A Memory Based Model for Knowledge Organization and Sharing in Knowledge Grid](https://link.springer.com/chapter/10.1007/978-0-387-76312-5_57)"<br/>
+[GH Loh ] "[3D-stacked memory architectures for multi-core processors](https://dl.acm.org/doi/abs/10.1145/1394608.1382159)"<br/>
+[K Sakuma] "[Characterization of stacked die using die-to-wafer integration for high yield and throughput](https://ieeexplore.ieee.org/abstract/document/4549944/)"<br/>
 [G Tan] "[Experience on optimizing irregular computation for memory hierarchy in manycore architecture](https://dl.acm.org/doi/pdf/10.1145/1345206.1345255)"<br/>
-[L Nachman] "[Imote2: Serious computation at the edge](https://ieeexplore.ieee.org/abstract/document/4600093/)"<br/>
 [M Itoh] "[Memristor oscillators](https://www.worldscientific.com/doi/abs/10.1142/S0218127408022354)"<br/>
+[J Bautista ] "[Tera-scale computing and interconnect challenges-3D stacking considerations](https://ieeexplore.ieee.org/abstract/document/7476514/)"<br/>
 [DB Strukov] "[The missing memristor found](https://www.nature.com/articles/nature06932)"<br/>
-[E Hanada] "[The safety of medical equipment near data communication devices that use RFID with magnetic coupling in the 13.56 MHz band](https://www.researchgate.net/profile/Albert_Guvenis/publication/235424427_An_Internet-based_System_for_Monitoring_Satisfaction_Rates_of_Patients_and_Relatives_with_Health_Services/links/00b7d5324a1d82a41b000000/An-Internet-based-System-for-Monitoring-Satisfaction-Rates-of-Patients-and-Relatives-with-Health-Services.pdf#page=36)"<br/>
+[A Jain] "[Thermal modeling and design of 3D integrated circuits](https://ieeexplore.ieee.org/abstract/document/4544389/)"<br/>
 [J Schemmel] "[Wafer-scale integration of analog neural networks](https://ieeexplore.ieee.org/abstract/document/4633828/)"<br/>
 # [Year - 2009](#2009)
+[P Zhou] "[A durable and energy efficient main memory using phase change memory technology](https://dl.acm.org/doi/abs/10.1145/1555815.1555759)"<br/>
 [N Gergel] "[A flexible solution-processed memristor](https://ieeexplore.ieee.org/abstract/document/5061634/)"<br/>
+[J Torrellas ] "[Architectures for extreme-scale computing](https://ieeexplore.ieee.org/abstract/document/5331901/)"<br/>
+[A Malehmir] "[Case History 3D seismic reflection imaging of volcanic-hosted massive sulfide deposits: Insights from reprocessing Halfmile Lake data, New Brunswick, Canada](https://www.researchgate.net/profile/Alireza_Malehmir/publication/249866335_3D_seismic_reflection_imaging_of_volcanic-hosted_massive_sulfide_deposits_Insights_from_reprocessing_Halfmile_Lake_data_New_Brunswick_Canada/links/004635219076c2516f000000/3D-seismic-reflection-imaging-of-volcanic-hosted-massive-sulfide-deposits-Insights-from-reprocessing-Halfmile-Lake-data-New-Brunswick-Canada.pdf)"<br/>
+[T Thorolfsson] "[Comparative analysis of two 3D integration implementations of a SAR processor](https://ieeexplore.ieee.org/abstract/document/5306598/)"<br/>
+[C Nicopoulos] "[Design and Management of 3D Chip Multiprocessors Using Network-In-Memory (NetInMem)[43]](https://link.springer.com/chapter/10.1007/978-90-481-3031-3_8)"<br/>
+[T Chen ] "[Device technology innovation for exascale computing](https://ieeexplore.ieee.org/abstract/document/5200591/)"<br/>
 [CF Tsai] "[Gf-dbscan; a new efficient and effective data clustering technique for large databases](https://www.researchgate.net/profile/Cheng-Fa_Tsai/publication/228414431_GF-DBSCAN_A_new_efficient_and_effective_data_clustering_technique_for_large_databases/links/56dfbe7e08aee77a15fd0691/GF-DBSCAN-A-new-efficient-and-effective-data-clustering-technique-for-large-databases.pdf)"<br/>
 [J Yoo] "[Multiprocessor system-on-chip designs with active memory processors for higher memory efficiency](https://ieeexplore.ieee.org/abstract/document/5227056/)"<br/>
 [C Wei] "[Operating systems support for process dynamic integrity measurement](https://ieeexplore.ieee.org/abstract/document/5382352/)"<br/>
 [Z Biolek] "[SPICE Model of Memristor with Nonlinear Dopant Drift.](https://www.academia.edu/download/45715655/09_02_210_214.pdf)"<br/>
 [X Wang] "[Spintronic memristor through spin-torque-induced magnetization motion](https://ieeexplore.ieee.org/abstract/document/4781542/)"<br/>
 [YN Joglekar] "[The elusive memristor: properties of basic electrical circuits](https://iopscience.iop.org/article/10.1088/0143-0807/30/4/001/meta)"<br/>
+[K Kota] "[Thermal management of a 3D chip stack using a liquid interface to a synthetic jet cooled spreader](https://ieeexplore.ieee.org/abstract/document/5340061/)"<br/>
+[H Mizunuma] "[Thermal modeling for 3D-ICs with integrated microchannel cooling](https://dl.acm.org/doi/abs/10.1145/1687399.1687447)"<br/>
 # [Year - 2010](#2010)
+[GH Loh] "[3D stacked microprocessor: Are we there yet?](https://ieeexplore.ieee.org/abstract/document/5506936/)"<br/>
+[A Sridhar] "[3D-ICE: Fast compact transient thermal modeling for 3D ICs with inter-tier liquid cooling](https://ieeexplore.ieee.org/abstract/document/5653749/)"<br/>
+[E Kursun] "[Analysis of spatial and temporal behavior of threedimensional multi-core architectures towards run-time thermal management](https://ieeexplore.ieee.org/abstract/document/5501257/)"<br/>
+[J Xie] "[Architectural benefits and design challenges for three-dimensional integrated circuits](https://ieeexplore.ieee.org/abstract/document/5775083/)"<br/>
 [M Laiho] "[Arithmetic operations within memristor-based analog memory](https://ieeexplore.ieee.org/abstract/document/5430319/)"<br/>
 [RC Wong ] "[Direct SRAM operation margin computation with random skews of device characteristics](https://link.springer.com/chapter/10.1007/978-1-4419-6606-3_5)"<br/>
+[P Ranganathan ] "[From microprocessors to nanostores: Rethinking system building blocks for the data-centric era](https://www.computer.org/csdl/mags/co/preprint/mco2010990053.pdf)"<br/>
 [F Law] "[Identifying volatile data from multiple memory dumps in live forensics](https://link.springer.com/chapter/10.1007/978-3-642-15506-2_13)"<br/>
 [B Muthuswamy ] "[Implementing memristor based chaotic circuits](https://www.worldscientific.com/doi/abs/10.1142/S0218127410026514)"<br/>
+[T Chen ] "[Innovation in solid state devices for exascale computing](https://ieeexplore.ieee.org/abstract/document/5488971/)"<br/>
 [S Shin] "[Memristor applications for programmable analog ICs](https://ieeexplore.ieee.org/abstract/document/5373864/)"<br/>
 [Z Fan] "[Mobility-assisted Hierarchy for Efficient Data Collection in Wireless Sensor Networks.](https://www.researchgate.net/profile/Yuanzhu_Chen/publication/220520345_Mobility-assisted_Hierarchy_for_Efficient_Data_Collection_in_Wireless_Sensor_Networks/links/55eae4ce08ae21d099c5159d/Mobility-assisted-Hierarchy-for-Efficient-Data-Collection-in-Wireless-Sensor-Networks.pdf)"<br/>
 [YV Pershin] "[Practical approach to programmable analog circuits with memristors](https://ieeexplore.ieee.org/abstract/document/5405039/)"<br/>
+[Y Xie ] "[Processor architecture design using 3D integration technology](https://ieeexplore.ieee.org/abstract/document/5401205/)"<br/>
+[H Qian] "[Real-time thermal management of 3D multi-core system with fine-grained cooling control](https://ieeexplore.ieee.org/abstract/document/5751460/)"<br/>
 [X Guo] "[Resistive computation: avoiding the power wall with low-leakage, STT-MRAM based computing](https://dl.acm.org/doi/abs/10.1145/1816038.1816012)"<br/>
 [Y Zhang] "[Separatrices in high-dimensional state space: System-theoretical tangent computation and application to SRAM dynamic stability analysis](https://dl.acm.org/doi/abs/10.1145/1837274.1837414)"<br/>
+[P Jacob ] "[Serial Code Accelerators for Heterogeneous Multi-core Processor with Three-Dimensional Stacked Memory](http://search.proquest.com/openview/a5d2dad8e71b1fa18f3c98964a326660/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
+[AR Klotz] "[Temperature change near microbubbles within a capillary network during focused ultrasound](https://iopscience.iop.org/article/10.1088/0031-9155/55/6/001/meta)"<br/>
 [M Wang] "[The adaptive characteristics of memory: A perspective from the life-span development of associative memory illusion](https://link.springer.com/article/10.1007/s11434-010-3133-4)"<br/>
+[P Jain] "[Thermal and power delivery challenges in 3D ICs](https://link.springer.com/chapter/10.1007/978-1-4419-0784-4_3)"<br/>
+[H Wang] "[Thermal management via task scheduling for 3D NoC based multi-processor](https://ieeexplore.ieee.org/abstract/document/5682875/)"<br/>
+[D Cuesta] "[Thermal-aware floorplanning exploration for 3D multi-core architectures](https://dl.acm.org/doi/abs/10.1145/1785481.1785505)"<br/>
+[T Thorolfsson ] "[Three-Dimensional Integration of Synthetic Aperture Radar Processors.](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/6795/etd.pdf?sequence=1)"<br/>
 [EU Kumar ] "[User-mode memory scanning on 32-bit & 64-bit windows](https://link.springer.com/article/10.1007/s11416-008-0091-3)"<br/>
+[JY Kim ] "[Vertical Multiple-Stack Transistors for Ultra-HIgh-Density Nonvolatile Memory Device](http://search.proquest.com/openview/ca6441b3307dd2d782ee1e111d8b88ce/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
 # [Year - 2011](#2011)
+[J Meng] "[3D systems with on-chip DRAM for enabling low-power high-performance computing](https://pdfs.semanticscholar.org/2484/b701c7823c2f51fe17df080f2d12ab950c03.pdf)"<br/>
 [CR Schlottmann] "[A highly dense, low power, programmable analog vector-matrix multiplier: The FPAA implementation](https://ieeexplore.ieee.org/abstract/document/6032715/)"<br/>
 [C Yakopcic] "[A memristor device model](https://ieeexplore.ieee.org/abstract/document/6012511/)"<br/>
+[Q Zhao] "[A novel reconfigurable logic device base on 3D stack technology](https://ieeexplore.ieee.org/abstract/document/6263022/)"<br/>
 [Q Guo] "[A resistive TCAM accelerator for data-intensive computing](https://ieeexplore.ieee.org/abstract/document/7851484/)"<br/>
+[D Milojevic] "[DRAM-on-logic Stack–Calibrated thermal and mechanical models integrated into PathFinding flow](https://ieeexplore.ieee.org/abstract/document/6055357/)"<br/>
 [A Sampson] "[EnerJ: Approximate data types for safe and general low-power computation](https://dl.acm.org/doi/abs/10.1145/1993316.1993518)"<br/>
 [L Chen] "[Enhancement of Resistive Switching Characteristics in -Based RRAM With Embedded Ruthenium Nanocrystals](https://ieeexplore.ieee.org/abstract/document/5762588/)"<br/>
+[R Duan] "[Exploring memory energy optimizations in smartphones](https://ieeexplore.ieee.org/abstract/document/6008591/)"<br/>
 [A Patil] "[First-in not referenced first-out page replacement algorithm](https://dl.acm.org/doi/abs/10.1145/1980022.1980116)"<br/>
+[D Borodin] "[Functional unit sharing between stacked processors in 3d integrated systems](https://ieeexplore.ieee.org/abstract/document/6045477/)"<br/>
 [JT Pawlowski ] "[Hybrid memory cube (HMC)](https://ieeexplore.ieee.org/abstract/document/7477494/)"<br/>
 [KAZ Ariffin] "[Investigating the PROCESS block for memory analysis](https://www.researchgate.net/profile/Ahmad_Kamil_Mahmood/publication/262329943_Investigating_the_PROCESS_block_for_memory_analysis/links/54e2af350cf2edaea093739a.pdf)"<br/>
-[A Lyle] "[Magnetic tunnel junction logic architecture for realization of simultaneous computation and communication](https://ieeexplore.ieee.org/abstract/document/6028204/)"<br/>
 [H Kim] "[Memristor bridge synapses](https://ieeexplore.ieee.org/abstract/document/6074916/)"<br/>
 [F Merrikh] "[Memristor crossbar-based hardware implementation of the IDS method](https://ieeexplore.ieee.org/abstract/document/5893932/)"<br/>
 [F Corinto] "[Nonlinear dynamics of memristor oscillators](https://ieeexplore.ieee.org/abstract/document/5704223/)"<br/>
+[J Mertz ] "[Optical sectioning microscopy with planar or structured illumination](https://www.nature.com/articles/nmeth.1709.pdf?origin=ppub)"<br/>
 [AC Torrezan] "[Sub-nanosecond switching of a tantalum oxide memristor](https://iopscience.iop.org/article/10.1088/0957-4484/22/48/485203/meta)"<br/>
 [AAA Gutub ] "[Subthreshold sram designs for cryptography security computations](https://link.springer.com/chapter/10.1007/978-3-642-22170-5_9)"<br/>
+[G Kumar] "[Ultra-high I/O density glass/silicon interposers for high bandwidth smart mobile applications](https://ieeexplore.ieee.org/abstract/document/5898516/)"<br/>
 # [Year - 2012](#2012)
-[M Shoaib] "[A compressed-domain processor for seizure detection to simultaneously reduce computation and communication energy](https://ieeexplore.ieee.org/abstract/document/6330601/)"<br/>
 [Y Kim] "[A digital neuromorphic VLSI architecture with memristor crossbar synaptic array for machine learning](https://ieeexplore.ieee.org/abstract/document/6398336/)"<br/>
 [CR Schlottmann] "[A digitally enhanced dynamically reconfigurable analog platform for low-power signal processing](https://ieeexplore.ieee.org/abstract/document/6208832/)"<br/>
 [A Chanthbouala] "[A ferroelectric memristor](https://www.nature.com/articles/nmat3415)"<br/>
@@ -61,52 +90,79 @@
 [Y Wu] "[AlOx-based resistive switching device with gradual resistance modulation for neuromorphic device application](https://ieeexplore.ieee.org/abstract/document/6213663/)"<br/>
 [L Gao] "[Analog-input analog-weight dot-product operation with Ag/a-Si/Pt memristive devices](https://ieeexplore.ieee.org/abstract/document/7332082/)"<br/>
 [E Linn] "[Beyond von Neumann—logic operations in passive crossbar arrays alongside memory operations](https://iopscience.iop.org/article/10.1088/0957-4484/23/30/305205/meta)"<br/>
+[GH Loh] "[Challenges in heterogeneous die-stacked and off-chip memory systems](https://www.researchgate.net/profile/Mike_Oconnor3/publication/316672623_Challenges_in_Heterogeneous_Die-Stacked_and_Off-Chip_Memory_Systems/links/590b65260f7e9b7fed8f635e/Challenges-in-Heterogeneous-Die-Stacked-and-Off-Chip-Memory-Systems.pdf)"<br/>
 [A Shokrollahi ] "[Crossbar switch decoder for vector signaling codes](https://infoscience.epfl.ch/record/223483)"<br/>
+[Y Joshi ] "[Crossing the length scale divide to address thermal challenges for sustainable data centers](https://ieeexplore.ieee.org/abstract/document/6231421/)"<br/>
 [NA Ali] "[Data management for the internet of things: Green directions](https://ieeexplore.ieee.org/abstract/document/6477602/)"<br/>
 [KL Pey] "[Dielectric breakdown—Recovery in logic and resistive switching in memory—Bridging the gap between the two phenomena](https://ieeexplore.ieee.org/abstract/document/6467690/)"<br/>
 [J Cheng] "[Fast algorithms for maximal clique enumeration with limited memory](https://dl.acm.org/doi/abs/10.1145/2339530.2339724)"<br/>
 [A Joubert] "[Hardware spiking neurons design: Analog or digital?](https://ieeexplore.ieee.org/abstract/document/6252600/)"<br/>
+[A Rajwade] "[Image denoising using the higher order singular value decomposition](https://ieeexplore.ieee.org/abstract/document/6226423/)"<br/>
 [S Mondal] "[Improved Resistance Switching Characteristics in Ti-Dopedfor Resistive Nonvolatile Memory Devices](https://ieeexplore.ieee.org/abstract/document/6203359/)"<br/>
+[A Jantsch] "[Memory architecture and management in an NoC platform](https://link.springer.com/chapter/10.1007/978-1-4419-6778-7_1)"<br/>
 [M Laiho] "[Memristive analog arithmetic within cellular arrays](https://ieeexplore.ieee.org/abstract/document/6271855/)"<br/>
 [M Hu] "[Memristor crossbar based hardware realization of BSB recall function](https://ieeexplore.ieee.org/abstract/document/6252563/)"<br/>
 [H Kim] "[Memristor emulator for memristor circuit applications](https://ieeexplore.ieee.org/abstract/document/6183495/)"<br/>
 [TW Lee] "[Memristor resistance modulation for analog applications](https://ieeexplore.ieee.org/abstract/document/6269919/)"<br/>
 [N Srinivasa] "[Neuromorphic adaptive plastic scalable electronics: analog learning systems](https://ieeexplore.ieee.org/abstract/document/6153093/)"<br/>
 [H Baek] "[Resistive switching memory properties of layer-by-layer assembled enzyme multilayers](https://iopscience.iop.org/article/10.1088/0957-4484/23/15/155604/meta)"<br/>
+[SJ Hong ] "[Semiconductor memory scaling and beyond](https://ieeexplore.ieee.org/abstract/document/6522619/)"<br/>
 [BK Kaang] "[Synaptic protein degradation in memory reorganization](https://link.springer.com/chapter/10.1007/978-3-7091-0932-8_10)"<br/>
 [S Kvatinsky] "[TEAM: Threshold adaptive memristor model](https://ieeexplore.ieee.org/abstract/document/6353604/)"<br/>
 [G Zumbusch ] "[Tuning a finite difference computation for parallel vector processors](https://ieeexplore.ieee.org/abstract/document/6341495/)"<br/>
 # [Year - 2013](#2013)
+[DW Chang ] "[3D Stacked Memories for Digital Signal Processors](http://search.proquest.com/openview/5e49ac3585933003623f85a2d5cd4d85/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
+[A Sridhar] "[3D-ICE: A compact thermal model for early-stage design of liquid-cooled ICs](https://ieeexplore.ieee.org/abstract/document/6532287/)"<br/>
+[G Cibrario] "[A 3D process design kit generator based on customizable 3D layout design environment](https://ieeexplore.ieee.org/abstract/document/6702324/)"<br/>
+[Q Zhu] "[A 3D-stacked logic-in-memory accelerator for application-specific data intensive computing](https://ieeexplore.ieee.org/abstract/document/6702348/)"<br/>
 [H Zhao] "[A multidimensional OLAP engine implementation in key-value database systems](https://link.springer.com/chapter/10.1007/978-3-319-10596-3_12)"<br/>
+[R Kalayappan] "[A survey of checker architectures](https://dl.acm.org/doi/abs/10.1145/2501654.2501662)"<br/>
+[Q Zhu] "[Accelerating sparse matrix-matrix multiplication with 3D-stacked logic-in-memory hardware](https://ieeexplore.ieee.org/abstract/document/6670336/)"<br/>
 [J Van Den Hurk] "[Ag/GeSx/Pt-based complementary resistive switches for hybrid CMOS/Nanoelectronic logic and memory architectures](https://www.nature.com/articles/srep02856)"<br/>
+[Q Zhu ] "[Application specific logic-in-memory](http://search.proquest.com/openview/927995da629c482591c2fcb15d271160/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
+[PM Kogge ] "[Big data, deep data, and the effect of system architectures on performance.](https://pdfs.semanticscholar.org/fecf/1749a0319c4145b1a03f41ee09183afe93e7.pdf)"<br/>
+[K Nepal] "[Built-in Self-Repair in a 3D die stack using programmable logic](https://ieeexplore.ieee.org/abstract/document/6653613/)"<br/>
 [M Abu] "[Data management for the internet of things: Design primitives and solution](https://www.mdpi.com/1424-8220/13/11/15582)"<br/>
+[HAHA Saadeldeen ] "[Designing reliable modern memory systems](http://search.proquest.com/openview/d64f606a87a8f3f0087834a3ec497656/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
 [B Liu] "[Digital-assisted noise-eliminating training for memristor crossbar-based analog neuromorphic computing engine](https://ieeexplore.ieee.org/abstract/document/6560600/)"<br/>
 [L Gao] "[Digital-to-analog and analog-to-digital conversion with metal oxide memristors for ultra-low power computing](https://ieeexplore.ieee.org/abstract/document/6623031/)"<br/>
 [Y Guo] "[Energy and network aware workload management for sustainable data centers with thermal storage](https://ieeexplore.ieee.org/abstract/document/6654159/)"<br/>
 [C Yakopcic] "[Energy efficient perceptron pattern recognition using segmented memristor crossbar arrays](https://ieeexplore.ieee.org/abstract/document/6707073/)"<br/>
+[C Serafy] "[High performance 3D stacked DRAM processor architectures with micro-fluidic cooling](https://ieeexplore.ieee.org/abstract/document/6702353/)"<br/>
 [R Stanley Williams ] "[How we found the missing memristor](https://www.worldscientific.com/doi/abs/10.1142/9789814434805_0038)"<br/>
-[F Fusco] "[Indexing million of packets per second using GPUs](https://dl.acm.org/doi/abs/10.1145/2504730.2504756)"<br/>
+[AP Beece ] "[Improving computer system performance and power with 3d integration of memory](http://search.proquest.com/openview/7d0a8e2ad9ab75f9b84d534c5187d4ca/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
 [K Shahzad] "[Investigating energy consumption of an sram-based fpga for duty-cycle applications](https://www.diva-portal.org/smash/record.jsf?pid=diva2:689606)"<br/>
+[M Lee ] "[Memory region: a system abstraction for managing the complex memory structures of multicore platforms](https://smartech.gatech.edu/handle/1853/50398)"<br/>
 [A Ascoli] "[Memristor model comparison](https://ieeexplore.ieee.org/abstract/document/6518259/)"<br/>
+[D Lie] "[On the impact of 3d integration on high-throughput sensor information processing: A case study with image sensing](https://ieeexplore.ieee.org/abstract/document/6623057/)"<br/>
+[G Kestor] "[Quantifying the energy cost of data movement in scientific applications](https://ieeexplore.ieee.org/abstract/document/6704670/)"<br/>
 [H Mahmoodi] "[Resistive computation: A critique](https://ieeexplore.ieee.org/abstract/document/6574859/)"<br/>
 [V Seshadri] "[RowClone: fast and energy-efficient in-DRAM bulk data copy and initialization](https://dl.acm.org/doi/abs/10.1145/2540708.2540725)"<br/>
 [P Taveras ] "[SCADA live forensics: real time data acquisition process to detect, prevent or evaluate critical situations](http://www.academia.edu/download/33901904/1457-4460-1-PB.pdf)"<br/>
 [S Ambrogio] "[Spike-timing dependent plasticity in a transistor-selected resistive switching memory](https://iopscience.iop.org/article/10.1088/0957-4484/24/38/384012/meta)"<br/>
 [W Zhao] "[Synchronous non-volatile logic gate design based on resistive switching memories](https://ieeexplore.ieee.org/abstract/document/6585773/)"<br/>
+[C O'Sullivan ] "[Test Chip Design for Process Variation Characterization in 3D Integrated Circuits](https://uwspace.uwaterloo.ca/handle/10012/7888)"<br/>
+[L Yavits] "[Thermal analysis of 3D associative processor](https://arxiv.org/abs/1307.3853)"<br/>
 [SP Adhikari] "[Three fingerprints of memristor](https://ieeexplore.ieee.org/abstract/document/6549211/)"<br/>
 [M Sharad] "[Ultra low power associative computing with spin neurons and resistive crossbar memory](https://dl.acm.org/doi/abs/10.1145/2463209.2488866)"<br/>
 [BY Cho] "[Xsd: Accelerating mapreduce by harnessing the gpu inside an ssd](https://www.cs.utah.edu/wondp/XSD_final.pdf)"<br/>
 # [Year - 2014](#2014)
+[JCE Mertens] "[A Study of Pb-Rich Dendrites in a Near-Eutectic 63Sn-37Pb Solder Microstructure via Laboratory-Scale Micro X-ray Computed Tomography (μXCT)](https://link.springer.com/article/10.1007/s11664-014-3382-0)"<br/>
 [A Gundu] "[A case for near data security](http://www.cs.utah.edu/~rajeev/pubs/wondp14.pdf)"<br/>
 [E Azarkhish] "[A logic-base interconnect for supporting near memory computation in the hybrid memory cube](https://www.cs.utah.edu/wondp/erfan.pdf)"<br/>
+[B Querbach] "[A reusable BIST with software assisted repair technology for improved memory and IO debug, validation and test time](https://ieeexplore.ieee.org/abstract/document/7035340/)"<br/>
+[N Kumari] "[Air cooling limits of 3D stacked logic processor and memory dies](https://ieeexplore.ieee.org/abstract/document/6892269/)"<br/>
 [M Kang] "[An energy-efficient VLSI architecture for pattern recognition via deep embedding of computation in SRAM](https://ieeexplore.ieee.org/abstract/document/6855225/)"<br/>
 [SK Duan] "[Analog memristive memory with applications in audio signal processing](https://link.springer.com/content/pdf/10.1007/s11432-013-4864-z.pdf)"<br/>
 [B Falsafi] "[Big Data](https://www.computer.org/csdl/mags/mi/2014/04/mmi2014040004.pdf)"<br/>
 [ER Altman ] "[Big Data and democratization](https://www.researchgate.net/profile/Erik_Altman/publication/264561735_Big_Data_and_Democratization_Editorial/links/55acd12d08aea9946727c63a/Big-Data-and-Democratization-Editorial.pdf)"<br/>
+[T Hanyu] "[Challenge of MOS/MTJ-hybrid nonvolatile logic-in-memory architecture in dark-silicon era](https://ieeexplore.ieee.org/abstract/document/7047124/)"<br/>
 [SH Pugsley] "[Comparing implementations of near-data computing with in-memory mapreduce workloads](https://ieeexplore.ieee.org/abstract/document/6824681/)"<br/>
 [S Paul] "[Computing with Memory for Energy-Efficient Robust Systems](https://link.springer.com/content/pdf/10.1007/978-1-4614-7798-3.pdf)"<br/>
+[DH Kang] "[Considerations on highly scalable and easily stackable phase change memory cell array for low-cost and high-performance applications](https://ieeexplore.ieee.org/abstract/document/7060836/)"<br/>
 [A Farmahini] "[DRAMA: An architecture for accelerated processing near memory](https://ieeexplore.ieee.org/abstract/document/6846276/)"<br/>
 [E Doller] "[DataCenter 2020: Near-memory acceleration for data-oriented applications](https://ieeexplore.ieee.org/abstract/document/6858357/)"<br/>
+[A Borsic] "[GPU-Accelerated and memory optimized vessel enhancement filters for micro-CT tomography](https://ieeexplore.ieee.org/abstract/document/6972735/)"<br/>
 [B Li] "[ICE: inline calibration for memristor crossbar-based computing engine](https://ieeexplore.ieee.org/abstract/document/6800398/)"<br/>
 [L Chua ] "[If it's pinched it'sa memristor](https://iopscience.iop.org/article/10.1088/0268-1242/29/10/104001/meta)"<br/>
 [S Paul] "[Key features of memory-based computing](https://link.springer.com/chapter/10.1007/978-1-4614-7798-3_4)"<br/>
@@ -115,6 +171,7 @@
 [G Kim] "[Memory Network: Enabling Technology for Scalable Near-Data Computing](https://www.cs.utah.edu/wondp/kim.pdf)"<br/>
 [JA Starzyk ] "[Memristor crossbar architecture for synchronous neural networks](https://ieeexplore.ieee.org/abstract/document/6779676/)"<br/>
 [TM Taha] "[Memristor crossbar based multicore neuromorphic processors](https://ieeexplore.ieee.org/abstract/document/6948959/)"<br/>
+[SH Pugsley] "[NDC: Analyzing the impact of 3D-stacked memory+ logic devices on MapReduce workloads](https://ieeexplore.ieee.org/abstract/document/6844483/)"<br/>
 [R Balasubramonian] "[Near-data processing: Insights from a MICRO-46 workshop](https://ieeexplore.ieee.org/abstract/document/6871738/)"<br/>
 [BV Benjamin] "[Neurogrid: A mixed-analog-digital multichip system for large-scale neural simulations](https://ieeexplore.ieee.org/abstract/document/6805187/)"<br/>
 [SN Truong] "[Neuromorphic crossbar circuit with nanoscale filamentary-switching binary memristors for speech recognition](https://link.springer.com/article/10.1186/1556-276X-9-629)"<br/>
@@ -124,20 +181,31 @@
 [F Clermidy] "[Resistive memories: Which applications?](https://ieeexplore.ieee.org/abstract/document/6800483/)"<br/>
 [S Mondal] "[Resistive switching behavior in Lu2O3 thin film for advanced flexible memory applications](https://link.springer.com/article/10.1186/1556-276X-9-3)"<br/>
 [ON Gorshkov] "[Resistive switching in metal-insulator-metal structures based on germanium oxide and stabilized zirconia](https://link.springer.com/article/10.1134/S1063785014020084)"<br/>
+[L Yavits] "[Sparse matrix multiplication on an associative processor](https://ieeexplore.ieee.org/abstract/document/6954570/)"<br/>
+[D Zhang] "[TOP-PIM: throughput-oriented programmable processing in memory](https://dl.acm.org/doi/abs/10.1145/2600212.2600213)"<br/>
+[Y Zhang] "[Thermal challenges for heterogeneous 3D ICs and opportunities for air gap thermal isolation](https://ieeexplore.ieee.org/abstract/document/7152174/)"<br/>
+[PM Souare] "[Thermal effects of silicon thickness in 3-D ICs: Measurements and simulations](https://ieeexplore.ieee.org/abstract/document/6839023/)"<br/>
 [DHK Hoe] "[Towards secure analog designs: A secure sense amplifier using memristors](https://ieeexplore.ieee.org/abstract/document/6903416/)"<br/>
 [V Nandakumar ] "[Transparent in-memory cache for Hadoop-MapReduce](https://tspace.library.utoronto.ca/handle/1807/68071)"<br/>
 [MH ur Rehman] "[UniMiner: Towards a unified framework for data mining](https://ieeexplore.ieee.org/abstract/document/7077317/)"<br/>
 # [Year - 2015](#2015)
+[AA Chien] "[10x10: A case study in highly-programmable and energy-efficient heterogeneous federated architecture](https://dl.acm.org/doi/abs/10.1145/2856113.2856115)"<br/>
 [R Berdan] "[A  -Controller-Based System for Interfacing Selectorless RRAM Crossbar Arrays](https://ieeexplore.ieee.org/abstract/document/7113814/)"<br/>
+[HE Sumbul ] "[A Novel Design Methodology for Synthesizing Application-Specific Logic-in-Memory Blocks](http://pstorage-cmu-348901238291901.s3.amazonaws.com/12247238/ANovelDesignMethodologyforSynthesizingApplicationSpecific.pdf)"<br/>
 [K Vimal] "[A memory management scheme for enhancing performance of applications on Android](https://ieeexplore.ieee.org/abstract/document/7488407/)"<br/>
 [AK Koliopoulos] "[A parallel distributed weka framework for big data mining using spark](https://ieeexplore.ieee.org/abstract/document/7207196/)"<br/>
 [G Liu] "[A reconfigurable analog substrate for highly efficient maximum flow computation](https://dl.acm.org/doi/abs/10.1145/2744769.2744781)"<br/>
 [Y Kim] "[A reconfigurable digital neuromorphic processor with memristive synaptic crossbar for cognitive computing](https://dl.acm.org/doi/abs/10.1145/2700234)"<br/>
 [C Liu] "[A spiking neuromorphic design with resistive crossbar](https://ieeexplore.ieee.org/abstract/document/7167197/)"<br/>
+[S Mittal] "[A survey of architectural approaches for data compression in cache and main memory systems](https://ieeexplore.ieee.org/abstract/document/7110612/)"<br/>
+[HE Sumbul] "[A synthesis methodology for application-specific logic-in-memory designs](https://ieeexplore.ieee.org/abstract/document/7167381/)"<br/>
+[R Nair] "[Active memory cube: A processing-in-memory architecture for exascale systems](https://ieeexplore.ieee.org/abstract/document/7095154/)"<br/>
 [M Kang] "[An energy-efficient memory-based high-throughput VLSI architecture for convolutional networks](https://ieeexplore.ieee.org/abstract/document/7178127/)"<br/>
 [L Xu] "[Analog memristor based neuromorphic crossbar circuit for image recognition](https://ieeexplore.ieee.org/abstract/document/7388161/)"<br/>
+[S Sarjanoja] "[BM3D image denoising using heterogeneous computing platforms](https://ieeexplore.ieee.org/abstract/document/7367257/)"<br/>
 [JH Lee] "[BSSync: Processing near memory for machine learning workloads with bounded staleness consistency models](https://ieeexplore.ieee.org/abstract/document/7429309/)"<br/>
 [SL Xi] "[Beyond the wall: Near-data processing for databases](https://dl.acm.org/doi/abs/10.1145/2771937.2771945)"<br/>
+[T Hanyu ] "[Challenge of Nonvolatile Logic LSI Using MTJ-Based Logic-in-Memory Architecture](https://link.springer.com/chapter/10.1007/978-3-319-15180-9_5)"<br/>
 [YF Wang] "[Characterization and Modeling of Nonfilamentary Ta/TaOx/TiO2/Ti Analog Synaptic Device](https://www.nature.com/articles/srep10150)"<br/>
 [J Zhang] "[CoDEN: A Hardware/Software CoDesign Emulation Platform for SSD-Accelerated Near Data Processing](http://acs.ict.ac.cn/asbd2015/papers/ASBD_2015_submission_6.pdf)"<br/>
 [R Saini] "[Data Duplication and Near Data Duplication Methods: A Review](http://search.proquest.com/openview/d6452615950e81d11334e6eea7f6fcfc/1?pq-origsite=gscholar&cbl=1606379)"<br/>
@@ -147,6 +215,7 @@
 [SB Eryilmaz] "[Device and system level design considerations for analog-non-volatile-memory based neuromorphic architectures](https://ieeexplore.ieee.org/abstract/document/7409622/)"<br/>
 [S Distefano] "[Device-centric sensing: an alternative to data-centric approaches](https://ieeexplore.ieee.org/abstract/document/7270260/)"<br/>
 [B Chen] "[Efficient in-memory computing architecture based on crossbar arrays](https://ieeexplore.ieee.org/abstract/document/7409720/)"<br/>
+[C Chen] "[Enabling vertical wormhole switching in 3D NoC-Bus hybrid systems](https://ieeexplore.ieee.org/abstract/document/7092441/)"<br/>
 [IS Choi] "[Energy efficient scale-in clusters with in-storage processing for big-data analytics](https://dl.acm.org/doi/abs/10.1145/2818950.2818983)"<br/>
 [M Kang] "[Energy-efficient and high throughput sparse distributed memory architecture](https://ieeexplore.ieee.org/abstract/document/7169194/)"<br/>
 [HJ Tsai] "[Energy-efficient non-volatile TCAM search engine design using priority-decision in memory technology for DPI](https://ieeexplore.ieee.org/abstract/document/7167284/)"<br/>
@@ -156,11 +225,14 @@
 [B Akin] "[Hamlet architecture for parallel data reorganization in memory](https://ieeexplore.ieee.org/abstract/document/7325181/)"<br/>
 [D Fan] "[Hierarchical temporal memory based on spin-neurons and resistive memory for energy-efficient brain-inspired computing](https://ieeexplore.ieee.org/abstract/document/7202858/)"<br/>
 [E Azarkhish] "[High performance AXI-4.0 based interconnect for extensible smart memory cubes](https://ieeexplore.ieee.org/abstract/document/7092596/)"<br/>
+[Y Zhang ] "[Hybrid microfluidic cooling and thermal isolation technologies for 3D ICs](https://smartech.gatech.edu/handle/1853/53539)"<br/>
 [S Gao] "[Implementation of complete Boolean logic functions in single complementary resistive switch](https://www.nature.com/articles/srep15467)"<br/>
 [A Siemon] "[In-memory adder functionality in 1S1R arrays](https://ieeexplore.ieee.org/abstract/document/7168889/)"<br/>
 [S Lloyd] "[In-memory data rearrangement for irregular, data-intensive computing](https://ieeexplore.ieee.org/abstract/document/7185306/)"<br/>
 [Y Cassuto] "[In-memory hamming similarity computation in resistive arrays](https://ieeexplore.ieee.org/abstract/document/7282569/)"<br/>
+[GH Loh] "[Interconnect-memory challenges for multi-chip, silicon interposer systems](https://dl.acm.org/doi/abs/10.1145/2818950.2818951)"<br/>
 [OO Babarinsa] "[JAFAR: Near-data processing for databases](https://dl.acm.org/doi/abs/10.1145/2723372.2764942)"<br/>
+[J Zhao] "[Memory and storage system design with nonvolatile memory technologies](https://www.jstage.jst.go.jp/article/ipsjtsldm/8/0/8_2/_article/-char/ja/)"<br/>
 [S Hamdioui] "[Memristor based computation-in-memory architecture for data-intensive applications](https://ieeexplore.ieee.org/abstract/document/7092668/)"<br/>
 [B Li] "[Merging the interface: Power, area and accuracy co-optimization for rram crossbar-based mixed-signal computing system](https://dl.acm.org/doi/abs/10.1145/2744769.2744870)"<br/>
 [A Farmahini] "[NDA: Near-DRAM acceleration architecture leveraging commodity DRAM devices and standard memory modules](https://ieeexplore.ieee.org/abstract/document/7056040/)"<br/>
@@ -170,16 +242,25 @@
 [H Li] "[Nonvolatile Logic and In Situ Data Transfer Demonstrated in Crossbar Resistive RAM Array](https://ieeexplore.ieee.org/abstract/document/7274656/)"<br/>
 [S Balatti] "[Normally-off logic based on resistive switches—Part I: Logic gates](https://ieeexplore.ieee.org/abstract/document/7102724/)"<br/>
 [SH Pugsley ] "[Opportunities for near data computing in MapReduce workloads](https://www.cs.utah.edu/~rajeev/pubs/seth-thesis.pdf)"<br/>
+[TM Low] "[Optimizing space time adaptive processing through accelerating memory-bounded operations](https://ieeexplore.ieee.org/abstract/document/7322445/)"<br/>
+[A Birjiniuk ] "[Particle tracking for understanding the properties and dynamics of bacterial biofilms](https://dspace.mit.edu/handle/1721.1/98702)"<br/>
 [M Gao] "[Practical near-data processing for in-memory analytics frameworks](https://ieeexplore.ieee.org/abstract/document/7429299/)"<br/>
 [Q Xie] "[Priority algorithm for near-data scheduling: Throughput and heavy-traffic optimality](https://ieeexplore.ieee.org/abstract/document/7218468/)"<br/>
 [Y Wang] "[ProPRAM: exploiting the transparent logic resources in non-volatile memory for near data computing](https://dl.acm.org/doi/abs/10.1145/2744769.2744896)"<br/>
 [P Chi] "[Processing-in-memory in ReRAM-based main memory](https://seal.ece.ucsb.edu/sites/default/files/publications/prime_tr_main_2.pdf)"<br/>
+[M Scrbak] "[Processing-in-memory: Exploring the design space](https://link.springer.com/chapter/10.1007/978-3-319-16086-3_4)"<br/>
 [B Li] "[RRAM-based analog approximate computing](https://ieeexplore.ieee.org/abstract/document/7123597/)"<br/>
+[N Jayasena] "[Realizing the full potential of heterogeneity through processing in memory](http://www.cs.utah.edu/~rajeev/jayasena15.pdf)"<br/>
+[M Kada ] "[Recent Research and Development Activities of Three-Dimensional Integration Technology](https://link.springer.com/chapter/10.1007/978-3-319-18675-7_2)"<br/>
 [V Karakostas] "[Redundant memory mappings for fast access to large memories](https://dl.acm.org/doi/abs/10.1145/2872887.2749471)"<br/>
+[A Agrawal ] "[Refresh reduction in dynamic memories](https://www.ideals.illinois.edu/handle/2142/72970)"<br/>
 [Q Guo] "[Resistive ternary content addressable memory systems for data-intensive computing](https://ieeexplore.ieee.org/abstract/document/7274248/)"<br/>
 [N Mirzadeh] "[Sort vs. hash join revisited for near-memory execution](https://infoscience.epfl.ch/record/209111)"<br/>
+[T Hanyu] "[Spintronics-based nonvolatile logic-in-memory architecture towards an ultra-low-power and highly reliable VLSI computing paradigm](https://ieeexplore.ieee.org/abstract/document/7092537/)"<br/>
 [MH ur Rehman] "[The concept of pattern based data sharing in big data environments](https://www.researchgate.net/profile/Muhammad_Habib_Ur_Rehman/publication/281441988_The_Concept_of_Pattern_based_Data_Sharing_in_Big_Data_Environments/links/55e72afd08ae3e1218420578.pdf)"<br/>
+[N Nakamura] "[Thermal modeling and experimental study of 3D stack package with hot spot consideration](https://ieeexplore.ieee.org/abstract/document/7159833/)"<br/>
 [H Kim] "[Understanding energy aspects of processing-near-memory for HPC workloads](https://dl.acm.org/doi/abs/10.1145/2818950.2818985)"<br/>
+[M Ghasempour ] "[Workload-adaptation in memory controllers.](https://pdfs.semanticscholar.org/cb15/134e3d0520dbfc3ee6e4eeb0d49ccd284d03.pdf)"<br/>
 [MA Bender] "[k-Means Clustering on Two-Level Memory Systems](https://dl.acm.org/doi/abs/10.1145/2818950.2818977)"<br/>
 [A Barresi] "[{CAIN}: Silently Breaking {ASLR} in the Cloud](https://www.usenix.org/conference/woot15/workshop-program/presentation/barresi)"<br/>
 # [Year - 2016](#2016)
@@ -191,16 +272,20 @@
 [C Liu] "[A memristor crossbar based computing engine optimized for high speed and accuracy](https://ieeexplore.ieee.org/abstract/document/7560182/)"<br/>
 [SY Lin] "[A reconfigurable near-data systolic array accelerator for the three-dimensional DRAM systems](https://ieeexplore.ieee.org/abstract/document/7800353/)"<br/>
 [B Hong] "[Accelerating linked-list traversal through near-data processing](https://dl.acm.org/doi/abs/10.1145/2967938.2967958)"<br/>
+[D Knyaginin] "[Adaptive row addressing for cost-efficient parallel memory protocols in large-capacity memories](https://dl.acm.org/doi/abs/10.1145/2989081.2989103)"<br/>
 [FM Bayat] "[Advancing memristive analog neuromorphic networks: increasing complexity, and coping with imperfect hardware components](https://arxiv.org/abs/1611.04465)"<br/>
 [M Soeken] "[An MIG-based compiler for programmable logic-in-memory architectures](https://ieeexplore.ieee.org/abstract/document/7544359/)"<br/>
 [E Vermij] "[An architecture for near-data processing systems](https://dl.acm.org/doi/abs/10.1145/2903150.2903478)"<br/>
 [L Ni] "[An energy-efficient matrix multiplication accelerator by distributed in-memory computing on binary RRAM crossbar](https://ieeexplore.ieee.org/abstract/document/7428024/)"<br/>
-[G Yahalom] "[Analog-digital partitioning and coupling in 3D-IC for RF applications](https://ieeexplore.ieee.org/abstract/document/7970011/)"<br/>
 [G Voskuilen] "[Analyzing allocation behavior for multi-level memory](https://dl.acm.org/doi/abs/10.1145/2989081.2989116)"<br/>
 [VT Lee] "[Application-driven near-data processing for similarity search](https://arxiv.org/abs/1606.03742)"<br/>
 [B Gu] "[Biscuit: A framework for near-data processing of big data workloads](https://dl.acm.org/doi/abs/10.1145/3007787.3001154)"<br/>
 [S Hamdioui] "[CIM100x: Computation in-memory architecture based on resistive devices](https://ieeexplore.ieee.org/abstract/document/7827975/)"<br/>
+[I Halfaoui] "[CNN-based initial background estimation](https://ieeexplore.ieee.org/abstract/document/7899616/)"<br/>
 [H Asghari] "[Chameleon: Versatile and practical near-DRAM acceleration architecture for large memory systems](https://ieeexplore.ieee.org/abstract/document/7783753/)"<br/>
+[D Qian ] "[China's HPC Development in the Next 5 Years.](https://pdfs.semanticscholar.org/9352/7f0283a742c78494f64dca456c8a1b0473d3.pdf)"<br/>
+[AC Jacob] "[Compiling for the Active Memory Cube](https://domino.watson.ibm.com/library/CyberDig.nsf/papers/408EEFBD6D74AF118525808B005E0658/$File/rc25644.pdf)"<br/>
+[M Gao] "[DRAF: a low-power DRAM-based reconfigurable acceleration fabric](https://dl.acm.org/doi/abs/10.1145/3007787.3001191)"<br/>
 [P Siegl] "[Data-centric computing frontiers: A survey on processing-in-memory](https://dl.acm.org/doi/abs/10.1145/2989081.2989087)"<br/>
 [D Bhattacharjee… ] "[Delay-optimal technology mapping for in-memory computing using ReRAM devices](https://ieeexplore.ieee.org/abstract/document/7827696/)"<br/>
 [E Azarkhish] "[Design and evaluation of a processing-in-memory architecture for the smart memory cube](https://link.springer.com/chapter/10.1007/978-3-319-30695-7_2)"<br/>
@@ -209,17 +294,22 @@
 [N Guo] "[Energy-efficient hybrid analog/digital approximate computation in continuous time](https://ieeexplore.ieee.org/abstract/document/7463004/)"<br/>
 [Y Huang] "[Evaluation of an analog accelerator for linear algebra](https://dl.acm.org/doi/abs/10.1145/3007787.3001197)"<br/>
 [M Prezioso ] "[Experimental analog implementation of Neural Networks on integrated metal-oxide memristive crossbar arrays](https://ieeexplore.ieee.org/abstract/document/7751402/)"<br/>
+[PF Baumeister] "[Exploiting In-Memory Processing Capabilities for Density Functional Theory Applications](https://link.springer.com/chapter/10.1007/978-3-319-58943-5_60)"<br/>
 [SF Yitbarek] "[Exploring specialized near-memory processing for data intensive operations](https://ieeexplore.ieee.org/abstract/document/7459537/)"<br/>
 [JD Leidel] "[Exploring tag-bit memory operations in hybrid memory cubes](https://dl.acm.org/doi/abs/10.1145/2989081.2989105)"<br/>
 [S Shirinzadeh] "[Fast logic synthesis for RRAM-based in-memory computing using majority-inverter graphs](https://ieeexplore.ieee.org/abstract/document/7459444/)"<br/>
 [ZR Wang] "[Functionally complete Boolean logic in 1T1R resistive random access memory](https://ieeexplore.ieee.org/abstract/document/7801115/)"<br/>
 [Z Yu] "[HPDBF: A forensics method for hidden process based on memory analysis](https://ieeexplore.ieee.org/abstract/document/8070249/)"<br/>
 [M Gao] "[HRL: Efficient and flexible reconfigurable logic for near-data processing](https://ieeexplore.ieee.org/abstract/document/7446059/)"<br/>
+[J Dofe] "[Hardware security threats and potential countermeasures in emerging 3D ICs](https://dl.acm.org/doi/abs/10.1145/2902961.2903014)"<br/>
+[S Kim] "[Highly compact and accurate circuit-level macro modeling of gate-all-around charge-trap flash memory](https://iopscience.iop.org/article/10.7567/JJAP.56.014302/meta)"<br/>
 [T Dysart] "[Highly scalable near memory processing with migrating threads on the Emu system architecture](https://ieeexplore.ieee.org/abstract/document/7833297/)"<br/>
 [H Nili] "[Highly-Secure Physically Unclonable Cryptographic Primitives Using Nonlinear Conductance and Analog State Tuning in Memristive Crossbar Arrays](https://arxiv.org/abs/1611.07946)"<br/>
 [A Shafiee] "[ISAAC: A convolutional neural network accelerator with in-situ analog arithmetic in crossbars](https://dl.acm.org/doi/abs/10.1145/3007787.3001139)"<br/>
 [W Choi] "[Improved perturbation vector generation method for accurate sram yield estimation](https://ieeexplore.ieee.org/abstract/document/7745960/)"<br/>
+[Y Zhu] "[Integrated thermal analysis for processing in die-stacking memory](https://dl.acm.org/doi/abs/10.1145/2989081.2989093)"<br/>
 [A Boroumand] "[LazyPIM: An efficient cache coherence mechanism for processing-in-memory](https://ieeexplore.ieee.org/abstract/document/7485993/)"<br/>
+[P Gu] "[Leveraging 3D technologies for hardware security: Opportunities and challenges](https://ieeexplore.ieee.org/abstract/document/7543249/)"<br/>
 [E Azarkhish] "[Logic-base interconnect design for near memory computing in the smart memory cube](https://ieeexplore.ieee.org/abstract/document/7487049/)"<br/>
 [HH Li] "[Looking ahead for resistive memory technology: A broad perspective on reram technology for future storage and computing](https://ieeexplore.ieee.org/abstract/document/7790937/)"<br/>
 [M Ceccarello] "[Mapreduce and streaming algorithms for diversity maximization in metric spaces of bounded doubling dimension](https://arxiv.org/abs/1605.05590)"<br/>
@@ -235,6 +325,7 @@
 [H Choe] "[Near-data processing for differentiable machine learning models](https://arxiv.org/abs/1610.02273)"<br/>
 [H Choe] "[Near-data processing for machine learning](https://openreview.net/forum?id=H1_EDpogx)"<br/>
 [B Falsafi] "[Near-memory data services](https://ieeexplore.ieee.org/abstract/document/7419157/)"<br/>
+[J Torrellas ] "[Opportunistic power reassignment between processor and memory in 3D stacks](https://www.ideals.illinois.edu/handle/2142/95609)"<br/>
 [J Hasler ] "[Opportunities in physical computing driven by analog realization](https://ieeexplore.ieee.org/abstract/document/7738680/)"<br/>
 [A Haron] "[Parallel matrix multiplication on memristor-based computation-in-memory architecture](https://ieeexplore.ieee.org/abstract/document/7568411/)"<br/>
 [PY Chen] "[Partition SRAM and RRAM based synaptic arrays for neuro-inspired computing](https://ieeexplore.ieee.org/abstract/document/7539046/)"<br/>
@@ -245,6 +336,7 @@
 [J Gandhi] "[Range translations for fast virtual memory](https://ieeexplore.ieee.org/abstract/document/7436661/)"<br/>
 [Y Zha] "[Reconfigurable in-memory computing with resistive memory crossbar](https://dl.acm.org/doi/abs/10.1145/2966986.2967069)"<br/>
 [R LiKamWa] "[RedEye: analog ConvNet image sensor architecture for continuous mobile vision](https://dl.acm.org/doi/abs/10.1145/3007787.3001164)"<br/>
+[SM Hassan] "[Reliability-performance tradeoffs between 2.5 D and 3D-stacked DRAM processors](https://ieeexplore.ieee.org/abstract/document/7574618/)"<br/>
 [M Imani] "[Remam: low energy resistive multi-stage associative memory for energy efficient computing](https://ieeexplore.ieee.org/abstract/document/7479183/)"<br/>
 [EJ Merced] "[Repeatable, accurate, and high speed multi-level programming of memristor 1T1R arrays for power efficient analog computing applications](https://iopscience.iop.org/article/10.1088/0957-4484/27/36/365202/meta)"<br/>
 [A Morad] "[Resistive GP-SIMD processing-in-memory](https://dl.acm.org/doi/abs/10.1145/2845084)"<br/>
@@ -256,17 +348,19 @@
 [A Pattnaik] "[Scheduling techniques for GPU architectures with processing-in-memory capabilities](https://dl.acm.org/doi/abs/10.1145/2967938.2967940)"<br/>
 [JB Lee ] "[Semiconductor Memory Road Map: Advances in Semiconductor Memory](https://ieeexplore.ieee.org/abstract/document/7495050/)"<br/>
 [G Srinivasan] "[Significance driven hybrid 8T-6T SRAM for energy-efficient synaptic storage in artificial neural networks](https://ieeexplore.ieee.org/abstract/document/7459296/)"<br/>
+[D Skarlatos] "[Snatch: Opportunistically reassigning power allocation between processor and memory in 3D stacks](https://ieeexplore.ieee.org/abstract/document/7783757/)"<br/>
 [PE Gaillardon] "[The programmable logic-in-memory (PLiM) computer](https://ieeexplore.ieee.org/abstract/document/7459349/)"<br/>
+[WH Lo] "[Thermal-aware dynamic page allocation policy by future access patterns for Hybrid Memory Cube (HMC)](https://ieeexplore.ieee.org/abstract/document/7459470/)"<br/>
 [K Hsieh] "[Transparent offloading and mapping (TOM) enabling programmer-transparent near-data processing in GPU systems](https://dl.acm.org/doi/abs/10.1145/3007787.3001159)"<br/>
+[DLN Kallepalli] "[Ultra-high density optical data storage in common transparent plastics](https://www.nature.com/articles/srep26163)"<br/>
 [CA Reiss ] "[Understanding memory configurations for in-memory analytics](https://escholarship.org/uc/item/2b1922sg)"<br/>
-[KH Yang] "[eTag: Tag-comparison in memory to achieve direct data access based on eDRAM to improve energy efficiency of DRAM cache](https://ieeexplore.ieee.org/abstract/document/7744462/)"<br/>
 # [Year - 2017](#2017)
 [WH Chen] "[A 16Mb dual-mode ReRAM macro with sub-14ns computing-in-memory and memory functions enabled by self-write termination scheme](https://ieeexplore.ieee.org/abstract/document/8268468/)"<br/>
 [M Kang] "[A 19.4 nJ/decision 364K decisions/s in-memory random forest classifier in 6T SRAM array](https://ieeexplore.ieee.org/abstract/document/8094576/)"<br/>
 [Q Dong] "[A 4 + 2T SRAM for Searching and In-Memory Computing With 0.3-V ](https://ieeexplore.ieee.org/abstract/document/8172037/)"<br/>
-[RW Pazzi] "[A clustered trail-based data dissemination protocol for improving the lifetime of duty cycle enabled wireless sensor networks](https://link.springer.com/article/10.1007/s11276-015-1089-7)"<br/>
 [Z Chen] "[A coding scheme for reliable in-memory Hamming distance computation](https://ieeexplore.ieee.org/abstract/document/8335653/)"<br/>
 [R Hasan] "[A fast training method for memristor crossbar based multi-layer neural networks](https://link.springer.com/article/10.1007/s10470-017-1051-y)"<br/>
+[GF Oliveira] "[A generic processing in memory cycle accurate simulator under hybrid memory cube architecture](https://ieeexplore.ieee.org/abstract/document/8344611/)"<br/>
 [SK Khatamifard] "[A non-volatile near-memory read mapping accelerator](https://arxiv.org/abs/1709.02381)"<br/>
 [R Kaplan] "[A resistive cam processing-in-storage architecture for dna sequence alignment](https://ieeexplore.ieee.org/abstract/document/8013498/)"<br/>
 [R Gharpinde] "[A scalable in-memory logic synthesis approach using memristor crossbar](https://ieeexplore.ieee.org/abstract/document/8091016/)"<br/>
@@ -298,11 +392,16 @@
 [Z Liu] "[Concurrent data structures for near-memory computing](https://dl.acm.org/doi/abs/10.1145/3087556.3087582)"<br/>
 [G Papandroulidakis] "[Crossbar-based memristive logic-in-memory architecture](https://ieeexplore.ieee.org/abstract/document/7893787/)"<br/>
 [X Tang] "[Data movement aware computation partitioning](https://dl.acm.org/doi/abs/10.1145/3123939.3123954)"<br/>
+[P Wang] "[Data-centric computation mode for convolution in deep neural networks](https://ieeexplore.ieee.org/abstract/document/7965846/)"<br/>
 [C Shelor] "[Dataflow based near data computing achieves excellent energy efficiency](https://dl.acm.org/doi/abs/10.1145/3120895.3120900)"<br/>
+[T Vijayaraghavan] "[Design and Analysis of an APU for Exascale Computing](https://ieeexplore.ieee.org/abstract/document/7920816/)"<br/>
+[JC Schabel ] "[Design of an Application-specific Instruction Set Processor for the Sparse Neural Network Design Space.](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/36297/etd.pdf?sequence=1)"<br/>
 [S Agarwal] "[Designing an analog crossbar based neuromorphic accelerator](https://ieeexplore.ieee.org/abstract/document/8246155/)"<br/>
+[SA Alhelaly ] "[Detecting a Trojan Die in Three-Dimensional Stacked Integrated Circuits](http://search.proquest.com/openview/51a1bca65a80030386c7dd296bdd203b/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
 [H Li] "[Device-architecture co-design for hyperdimensional computing with 3D vertical resistive switching random access memory (3D VRRAM)](https://ieeexplore.ieee.org/abstract/document/7942490/)"<br/>
 [L Ni] "[Distributed in-memory computing on binary RRAM crossbar](https://dl.acm.org/doi/abs/10.1145/2996192)"<br/>
 [H Yu] "[Distributed in-memory computing on binary memristor-crossbar for machine learning](https://link.springer.com/chapter/10.1007/978-3-319-51724-7_12)"<br/>
+[E Shiu] "[Driving innovation in memory architecture of consumer hardware with digital photography and machine intelligence use cases](https://ieeexplore.ieee.org/abstract/document/7939078/)"<br/>
 [R Hoque] "[Dynamic task discovery in parsec: A data-flow task-based runtime](https://dl.acm.org/doi/abs/10.1145/3148226.3148233)"<br/>
 [Z Chowdhury] "[Efficient in-memory processing using spintronics](https://ieeexplore.ieee.org/abstract/document/8031326/)"<br/>
 [L Nai ] "[Enabling efficient graph computing with near-data processing techniques](https://smartech.gatech.edu/handle/1853/59789)"<br/>
@@ -313,6 +412,9 @@
 [C Yakopcic] "[Extremely parallel memristor crossbar architecture for convolutional neural network implementation](https://ieeexplore.ieee.org/abstract/document/7966055/)"<br/>
 [M Jerry] "[Ferroelectric FET analog synapse for acceleration of deep neural network training](https://ieeexplore.ieee.org/abstract/document/8268338/)"<br/>
 [MA Zidan] "[Field-programmable crossbar array (FPCA) for reconfigurable computing](https://ieeexplore.ieee.org/abstract/document/7961178/)"<br/>
+[J Shaw ] "[Free-Breathing, Non-ECG, T1 Mapping in the Heart](https://escholarship.org/uc/item/9b3514g6)"<br/>
+[JS Kim] "[GRIM-Filter: fast seed filtering in read mapping using emerging memory technologies](https://arxiv.org/abs/1708.04329)"<br/>
+[PM Kogge ] "[Graph analytics: Complexity, scalability, and architectures](https://ieeexplore.ieee.org/abstract/document/7965153/)"<br/>
 [NS Kim] "[Heterogeneous computing meets near-memory acceleration and high-level synthesis in the post-moore era](https://ieeexplore.ieee.org/abstract/document/8013455/)"<br/>
 [Y Zha] "[IMEC: A fully morphable in-memory computing fabric enabled by resistive crossbar](https://ieeexplore.ieee.org/abstract/document/7862129/)"<br/>
 [AJ Awan] "[Identifying the potential of Near Data Computing for Apache Spark](https://arxiv.org/abs/1707.09323)"<br/>
@@ -361,6 +463,7 @@
 [WH Wen] "[Rebooting the data access hierarchy of computing systems](https://ieeexplore.ieee.org/abstract/document/8123667/)"<br/>
 [Y Zhang] "[Recryptor: A reconfigurable in-memory cryptographic Cortex-M0 processor for IoT](https://ieeexplore.ieee.org/abstract/document/8008501/)"<br/>
 [AR Agrawal ] "[Reducing Checkpoint/Restart Overhead using Near Data Processing for Exascale System.](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/34784/etd.pdf?sequence=1)"<br/>
+[JH Lee ] "[Relaxing coherence for modern learning applications](https://smartech.gatech.edu/handle/1853/58203)"<br/>
 [H Li] "[Resistive RAM-centric computing: Design and modeling methodology](https://ieeexplore.ieee.org/abstract/document/7950949/)"<br/>
 [D Zhu] "[Resistive random access memory and its applications in storage and nonvolatile logic](https://iopscience.iop.org/article/10.1088/1674-4926/38/7/071002/meta)"<br/>
 [H Wu] "[Resistive random access memory for future information processing system](https://ieeexplore.ieee.org/abstract/document/7917240/)"<br/>
@@ -376,8 +479,14 @@
 [G Pedretti] "[Stochastic learning in neuromorphic hardware via spike timing dependent plasticity with RRAM synapses](https://ieeexplore.ieee.org/abstract/document/8106770/)"<br/>
 [G Koo] "[Summarizer: trading communication with computing near storage](https://ieeexplore.ieee.org/abstract/document/8686581/)"<br/>
 [A Stolińska] "[Testing cognitive loads in solving algorithmic tasks](https://ieeexplore.ieee.org/abstract/document/8102530/)"<br/>
+[M Gao] "[Tetris: Scalable and efficient neural network acceleration with 3d memory](https://dl.acm.org/doi/abs/10.1145/3037697.3037702)"<br/>
+[MP Drumond Lages De Oliveira… ] "[The Mondrian Data Engine](https://infoscience.epfl.ch/record/227947)"<br/>
+[R Appuswamy] "[The five minute rule thirty years later and its impact on the storage hierarchy](https://infoscience.epfl.ch/record/230398/files/adms-talk.pdf)"<br/>
 [M Drumond] "[The mondrian data engine](https://dl.acm.org/doi/abs/10.1145/3140659.3080233)"<br/>
 [JC Beard ] "[The sparse data reduction engine: chopping sparse data one byte at a time](https://dl.acm.org/doi/abs/10.1145/3132402.3132431)"<br/>
+[M Poremba] "[There and back again: Optimizing the interconnect in networks of memory cubes](https://dl.acm.org/doi/abs/10.1145/3140659.3080251)"<br/>
+[D Li ] "[Thermal Characterization and Management of 3D Integrated Circuits](http://search.proquest.com/openview/61d7e3502c0058285f43a1604a3f0373/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
+[H Saadeldeen] "[Thermal-aware, heterogeneous materials for improved energy and reliability in 3D PCM architectures](https://dl.acm.org/doi/abs/10.1145/3132402.3132407)"<br/>
 [M Cheng] "[Time: A training-in-memory architecture for memristor-based deep neural networks](https://ieeexplore.ieee.org/abstract/document/8060399/)"<br/>
 [JD Leidel] "[Toward a memory-centric, stacked architecture for extreme-scale, data-intensive computing](https://pdfs.semanticscholar.org/2d44/b251f693ceb07af72d3a829f8b5eb0a3036e.pdf)"<br/>
 [G Kim] "[Toward standardized near-data processing with unrestricted data placement for GPUs](https://dl.acm.org/doi/abs/10.1145/3126908.3126965)"<br/>
@@ -386,6 +495,7 @@
 [P Bonnet ] "[What's up with the storage hierarchy?](http://cidrdb.org/cidr2017/gongshow/abstracts/cidr2017_80.pdf)"<br/>
 [YH Lin] "[Wide-I/O 3D-staked DRAM controller for near-data processing system](https://ieeexplore.ieee.org/abstract/document/7939687/)"<br/>
 [L Jiang] "[XNOR-POP: A processing-in-memory architecture for binary Convolutional Neural Networks in Wide-IO2 DRAMs](https://ieeexplore.ieee.org/abstract/document/8009163/)"<br/>
+[A Agrawal] "[Xylem: Enhancing vertical thermal conduction in 3D processor-memory stacks](https://ieeexplore.ieee.org/abstract/document/8686607/)"<br/>
 [BC Jang] "[Zero-static-power nonvolatile logic-in-memory circuits for flexible electronics](https://link.springer.com/article/10.1007/s12274-017-1449-y)"<br/>
 # [Year - 2018](#2018)
 [Q Lou] "[3dict: a reliable and qos capable mobile process-in-memory architecture for lookup-based cnns in 3d xpoint rerams](https://dl.acm.org/doi/abs/10.1145/3240765.3240767)"<br/>
@@ -395,12 +505,15 @@
 [WS Khwa] "[A 65nm 4Kb algorithm-dependent computing-in-memory SRAM unit-macro with 2.3 ns and 55.8 TOPS/W fully parallel product-sum operation for binary DNN edge …](https://ieeexplore.ieee.org/abstract/document/8310401/)"<br/>
 [M Kim] "[A 68 parallel row access neuromorphic core with 22K multi-level synapses based on logic-compatible embedded flash memory technology](https://ieeexplore.ieee.org/abstract/document/8614599/)"<br/>
 [S Srinivasa] "[A Monolithic-3D SRAM Design with Enhanced Robustness and In-Memory Computation Support](https://dl.acm.org/doi/abs/10.1145/3218603.3218645)"<br/>
+[H Xiao ] "[A Multi-physics approach to the co-design of 3D multi-core processors](https://smartech.gatech.edu/handle/1853/59810)"<br/>
 [Y Sun] "[A Ti/AlOx/TaOx/Pt Analog Synapse for Memristive Neural Network](https://ieeexplore.ieee.org/abstract/document/8421222/)"<br/>
 [K Sanni] "[A charge-based architecture for energy-efficient vector-vector multiplication in 65nm cmos](https://ieeexplore.ieee.org/abstract/document/8351274/)"<br/>
 [S Duchêne] "[A dual process in memory: how to make an evaluation from complex and complete information?—An experimental study](https://hal.archives-ouvertes.fr/hal-01954930/)"<br/>
+[L Shi] "[A flexible mixed-signal image processing pipeline using 3D chip stacks](https://link.springer.com/article/10.1007/s11554-016-0628-5)"<br/>
 [H Jia] "[A microprocessor implemented in 65nm CMOS with configurable and bit-scalable accelerator for programmable in-memory computing](https://arxiv.org/abs/1811.04047)"<br/>
 [M Kang] "[A multi-functional in-memory inference processor using a standard 6T SRAM array](https://ieeexplore.ieee.org/abstract/document/8246704/)"<br/>
 [Y Pan] "[A multilevel cell STT-MRAM-based computing in-memory accelerator for binary convolutional neural network](https://ieeexplore.ieee.org/abstract/document/8403888/)"<br/>
+[A Agnesina] "[A novel 3d dram memory cube architecture for space applications](https://ieeexplore.ieee.org/abstract/document/8465911/)"<br/>
 [L Han] "[A novel ReRAM-based processing-in-memory architecture for graph traversal](https://dl.acm.org/doi/abs/10.1145/3177916)"<br/>
 [G Singh] "[A review of near-memory computing architectures: Opportunities and challenges](https://ieeexplore.ieee.org/abstract/document/8491877/)"<br/>
 [F Schuiki] "[A scalable near-memory architecture for training deep neural networks on large in-memory datasets](https://ieeexplore.ieee.org/abstract/document/8502059/)"<br/>
@@ -413,12 +526,15 @@
 [C Li] "[Analogue signal and image processing with large memristor crossbars](https://www.nature.com/articles/s41928-017-0002-z/)"<br/>
 [VT Lee] "[Application codesign of near-data processing for similarity search](https://ieeexplore.ieee.org/abstract/document/8425243/)"<br/>
 [M Alian] "[Application-transparent near-memory processing architecture with memory channel network](https://ieeexplore.ieee.org/abstract/document/8574587/)"<br/>
+[Y Luo ] "[Architectural techniques for improving NAND flash memory reliability](https://arxiv.org/abs/1808.04016)"<br/>
 [D Bhattacharjee ] "[Architectures and automation for beyond-CMOS technologies](https://dr.ntu.edu.sg/handle/10220/47437)"<br/>
 [Q Lou] "[BRAWL: A Spintronics-Based Portable Basecalling-in-Memory Architecture for Nanopore Genome Sequencing](https://ieeexplore.ieee.org/abstract/document/8540899/)"<br/>
 [R Zhu] "[Back-Propagation Neural Network based on Analog Memristive Synapse](https://ieeexplore.ieee.org/abstract/document/8487059/)"<br/>
 [Y Sun] "[Bidirectional database storage and SQL query exploiting RRAM-based process-in-memory structure](https://dl.acm.org/doi/abs/10.1145/3177917)"<br/>
 [O Krestinskaya] "[Binary weighted memristive analog deep neural network for near-sensor edge processing](https://ieeexplore.ieee.org/abstract/document/8626224/)"<br/>
+[Y Xie ] "[Blackcomb2: Hardware-Software Co-design for Nonvolatile Memory in Exascale Systems](https://www.osti.gov/biblio/1485357)"<br/>
 [TF Wu] "[Brain-inspired computing exploiting carbon nanotube FETs and resistive RAM: Hyperdimensional computing case study](https://ieeexplore.ieee.org/abstract/document/8310399/)"<br/>
+[C Qian] "[CMH: Compression management for improving capacity in the hybrid memory cube](https://dl.acm.org/doi/abs/10.1145/3203217.3203235)"<br/>
 [H Zhu] "[CMOS image sensor data-readout method for convolutional operations with processing near sensor architecture](https://ieeexplore.ieee.org/abstract/document/8605660/)"<br/>
 [A Biswas] "[CONV-SRAM: An energy-efficient SRAM with in-memory dot-product computation for low-power convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/8579538/)"<br/>
 [H Sun] "[Co-kv: A collaborative key-value store using near-data processing to improve compaction for the lsm-tree](https://arxiv.org/abs/1807.04151)"<br/>
@@ -430,10 +546,15 @@
 [S Jain] "[Computing-in-memory with spintronics](https://ieeexplore.ieee.org/abstract/document/8342277/)"<br/>
 [X Sun] "[Computing-in-memory with sram and rram for binary neural networks](https://ieeexplore.ieee.org/abstract/document/8565811/)"<br/>
 [A Biswas] "[Conv-RAM: An energy-efficient SRAM with embedded convolution computation for low-power CNN-based machine learning applications](https://ieeexplore.ieee.org/abstract/document/8310397/)"<br/>
+[K Rao ] "[Coordinated management of the processor and memory for optimizing energy efficiency](https://smartech.gatech.edu/handle/1853/60234)"<br/>
 [SY Lin] "[Cycle-accelerated simulation for three-dimensional near-data processing system with power, temperature, and latency analysis](https://ieeexplore.ieee.org/abstract/document/8394513/)"<br/>
 [D Carmean] "[DNA data storage and hybrid molecular–electronic computing](https://ieeexplore.ieee.org/abstract/document/8556046/)"<br/>
 [H Sun] "[DStore: A Holistic Key-Value Store Exploring Near-Data Processing and On-Demand Scheduling for Compaction Optimization](https://ieeexplore.ieee.org/abstract/document/8481427/)"<br/>
+[LB Baker ] "[Design of a 3DIC System to Aid in the Acceleration of Embedded Systems that Employ Multiple Instances of Disparate Artificial Neural Networks.](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/36396/etd.pdf?sequence=1)"<br/>
+[JPC de Lima] "[Design space exploration for PIM architectures in 3D-stacked memories](https://dl.acm.org/doi/abs/10.1145/3203217.3203280)"<br/>
 [S Lloyd] "[Design space exploration of near memory accelerators](https://dl.acm.org/doi/abs/10.1145/3240302.3240428)"<br/>
+[M Jung] "[Driving into the memory wall: The role of memory for advanced driver assistance systems and autonomous driving](https://dl.acm.org/doi/abs/10.1145/3240302.3240322)"<br/>
+[Q Lin] "[Dual-layer selector with excellent performance for cross-point memory applications](https://ieeexplore.ieee.org/abstract/document/8300519/)"<br/>
 [S Motaman] "[Dynamic Computing in Memory (DCIM) in Resistive Crossbar Arrays](https://ieeexplore.ieee.org/abstract/document/8615686/)"<br/>
 [A Haj] "[Efficient algorithms for in-memory fixed point multiplication using magic](https://ieeexplore.ieee.org/abstract/document/8351561/)"<br/>
 [S Ghose] "[Enabling the adoption of processing-in-memory: Challenges, mechanisms, future research directions](https://arxiv.org/abs/1802.00320)"<br/>
@@ -441,6 +562,7 @@
 [S Gupta] "[Felix: Fast and energy-efficient logic in memory](https://ieeexplore.ieee.org/abstract/document/8587724/)"<br/>
 [X Yin] "[Ferroelectric fets-based nonvolatile logic-in-memory circuits](https://ieeexplore.ieee.org/abstract/document/8481585/)"<br/>
 [A Boroumand] "[Google workloads for consumer devices: Mitigating data movement bottlenecks](https://dl.acm.org/doi/abs/10.1145/3173162.3173177)"<br/>
+[G Li] "[GraphIA: an in-situ accelerator for large-scale graph processing](https://dl.acm.org/doi/abs/10.1145/3240302.3240312)"<br/>
 [Z Chen] "[Hamming distance computation in unreliable resistive memory](https://ieeexplore.ieee.org/abstract/document/8365762/)"<br/>
 [J Ambrosi] "[Hardware-Software Co-Design for an Analog-Digital Accelerator for Machine Learning](https://ieeexplore.ieee.org/abstract/document/8638612/)"<br/>
 [N Jao] "[Harnessing emerging technology for compute-in-memory support](https://ieeexplore.ieee.org/abstract/document/8429408/)"<br/>
@@ -451,6 +573,7 @@
 [D Fujiki] "[In-memory data parallel processor](https://dl.acm.org/doi/abs/10.1145/3296957.3173171)"<br/>
 [M Zabihi] "[In-memory processing on the spintronic CRAM: From hardware design to application mapping](https://ieeexplore.ieee.org/abstract/document/8416761/)"<br/>
 [Y Kim] "[Input-splitting of large neural networks for power-efficient accelerator with resistive crossbar memory array](https://dl.acm.org/doi/abs/10.1145/3218603.3218605)"<br/>
+[TC De Albuquerque] "[Integration of SPAD in 28nm FDSOI CMOS technology](https://ieeexplore.ieee.org/abstract/document/8486852/)"<br/>
 [D Bhattacharjee] "[Kogge-Stone Adder Realization using 1S1R Resistive Switching Crossbar Arrays](https://dl.acm.org/doi/abs/10.1145/3183352)"<br/>
 [L Bao] "[LAS: Logical-Block Affinity Scheduling in Big Data Analytics Systems](https://ieeexplore.ieee.org/abstract/document/8486297/)"<br/>
 [C Li] "[Large memristor crossbars for analog computing](https://ieeexplore.ieee.org/abstract/document/8351877/)"<br/>
@@ -461,6 +584,7 @@
 [AK Jain] "[Microscope on memory: MPSoC-enabled computer memory system assessments](https://ieeexplore.ieee.org/abstract/document/8457650/)"<br/>
 [M Le Gallo] "[Mixed-precision in-memory computing](https://www.nature.com/articles/s41928-018-0054-8)"<br/>
 [HW Tseng] "[Morpheus: Exploring the potential of near-data processing for creating application objects in heterogeneous computing](https://dl.acm.org/doi/abs/10.1145/3273982.3273989)"<br/>
+[X Liao] "[Moving from exascale to zettascale computing: challenges and techniques](https://link.springer.com/article/10.1631/FITEE.1800494)"<br/>
 [MJ Marinella] "[Multiscale co-design analysis of energy, latency, area, and accuracy of a ReRAM analog neural training accelerator](https://ieeexplore.ieee.org/abstract/document/8267068/)"<br/>
 [M Imani] "[NVQuery: Efficient Query Processing in Nonvolatile Memory](https://ieeexplore.ieee.org/abstract/document/8323230/)"<br/>
 [Z Zhou] "[Near Data Filtering for Distributed Database Systems](https://ieeexplore.ieee.org/abstract/document/8752112/)"<br/>
@@ -476,10 +600,12 @@
 [S Xu] "[PIMSim: A flexible and detailed processing-in-memory simulator](https://ieeexplore.ieee.org/abstract/document/8567968/)"<br/>
 [R Liu] "[Parallelizing SRAM arrays with customized bit-cell for binary neural networks](https://ieeexplore.ieee.org/abstract/document/8465935/)"<br/>
 [DG Anil] "[Performance evaluation of ternary computation in SRAM design using graphene nanoribbon field effect transistors](https://ieeexplore.ieee.org/abstract/document/8301723/)"<br/>
+[R Hadidi] "[Performance implications of NoCs on 3D-stacked memories: Insights from the hybrid memory cube](https://ieeexplore.ieee.org/abstract/document/8366939/)"<br/>
 [N Katzburg] "[Persistent memory based and feature rich file system design](https://ieeexplore.ieee.org/abstract/document/8646066/)"<br/>
 [W Wang] "[Physics-based modeling of volatile resistive switching memory (RRAM) for crosspoint selector and neuromorphic computing](https://ieeexplore.ieee.org/abstract/document/8614556/)"<br/>
 [R Kaplan] "[Prins: Processing-in-storage acceleration of machine learning](https://ieeexplore.ieee.org/abstract/document/8275038/)"<br/>
 [S Gupta ] "[Processing in memory using emerging memory technologies](https://escholarship.org/uc/item/95z3z84c)"<br/>
+[S Wen] "[Profdp: A lightweight profiler to guide data placement in heterogeneous memory systems](https://dl.acm.org/doi/abs/10.1145/3205289.3205320)"<br/>
 [T Marukame] "[Proposal, analysis and demonstration of analog/digital-mixed neural networks based on memristive device arrays](https://ieeexplore.ieee.org/abstract/document/8351298/)"<br/>
 [K Ueyoshi] "[QUEST: A 7.49 TOPS multi-purpose log-quantized DNN inference engine stacked on 96MB 3D SRAM using inductive-coupling technology in 40nm CMOS](https://ieeexplore.ieee.org/abstract/document/8310261/)"<br/>
 [K Ueyoshi] "[QUEST: Multi-purpose log-quantized DNN inference engine stacked on 96-MB 3-D SRAM using inductive coupling technology in 40-nm CMOS](https://ieeexplore.ieee.org/abstract/document/8492341/)"<br/>
@@ -497,11 +623,12 @@
 [DRB Ly] "[Role of synaptic variability in resistive memory-based spiking neural networks with unsupervised learning](https://iopscience.iop.org/article/10.1088/1361-6463/aad954/meta)"<br/>
 [P Wang] "[SNrram: an efficient sparse neural network computation architecture based on resistive random-access memory](https://ieeexplore.ieee.org/abstract/document/8465793/)"<br/>
 [M Gao ] "[Scalable Near-Data Processing Systems for Data-Intensive Applications](http://search.proquest.com/openview/2d0a3daed15b6205443ed81961883183/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
-[A Ansari] "[Selective data transfer from DRAMS for CNNs](https://ieeexplore.ieee.org/abstract/document/8598348/)"<br/>
 [N Gong] "[Signal and noise extraction from analog memory elements for neuromorphic computing](https://www.nature.com/articles/s41467-018-04485-1)"<br/>
 [M Kooli] "[Smart instruction codes for in-memory computing architectures compatible with standard sram interfaces](https://ieeexplore.ieee.org/abstract/document/8342276/)"<br/>
 [D Bhattacharjee… ] "[Synthesis, Technology Mapping and Optimization for Emerging Technologies](https://ieeexplore.ieee.org/abstract/document/8429395/)"<br/>
+[K Rao] "[TRINITY: Coordinated Performance, Energy and Temperature Management in 3D Processor-Memory Stacks](https://arxiv.org/abs/1808.09087)"<br/>
 [PY Chen] "[Technological Benchmark of Analog Synaptic Devices for Neuroinspired Architectures](https://ieeexplore.ieee.org/abstract/document/8594608/)"<br/>
+[S Mukhopodhyay] "[The camel approach to stacked sensor smart cameras](https://ieeexplore.ieee.org/abstract/document/8342214/)"<br/>
 [DC Daly] "[Through the looking glass-the 2018 edition: trends in solid-state circuits from the 65th ISSCC](https://ieeexplore.ieee.org/abstract/document/8275549/)"<br/>
 [P Das] "[Towards Near-Data Processing of Compare Operations in 3D-Stacked Memory](https://dl.acm.org/doi/abs/10.1145/3194554.3194578)"<br/>
 [P Das] "[Towards near data processing of convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/8326957/)"<br/>
@@ -530,6 +657,7 @@
 [AR Bear ] "[A Novel Processing-In-Memory Architecture for Dense and Sparse Matrix Multiplications](https://scholarworks.rit.edu/theses/10005/)"<br/>
 [T Li] "[A Novel Resistive Memory-based Process-in-memory Architecture for Efficient Logic and Add Operations](https://dl.acm.org/doi/abs/10.1145/3306495)"<br/>
 [H Jia] "[A Programmable Embedded Microprocessor for Bit-scalable In-memory Computing.](https://www.hotchips.org/hc31/HC31_1.5_Princeton.HongyangJia.v09.NS.pdf)"<br/>
+[L Liu] "[A Survey of Coarse-Grained Reconfigurable Architecture and Design: Taxonomy, Challenges, and Applications](https://dl.acm.org/doi/abs/10.1145/3357375)"<br/>
 [HAD Nguyen] "[A computation-in-memory accelerator based on resistive devices](https://dl.acm.org/doi/abs/10.1145/3357526.3357554)"<br/>
 [X Si] "[A dual-split 6T SRAM-based computing-in-memory unit-macro with fully parallel product-sum operation for binarized DNN edge processors](https://ieeexplore.ieee.org/abstract/document/8787897/)"<br/>
 [S Mittal ] "[A survey of ReRAM-based architectures for processing-in-memory and neural networks](https://www.mdpi.com/2504-4990/1/1/5)"<br/>
@@ -539,6 +667,7 @@
 [X Song ] "[Accelerating Data Center Applications through Energy-Efficient Reconfigurable Computing: From Near-Data Processing to Data-Access Reduction](http://search.proquest.com/openview/8832b8e532096fa88f3d8b42b7c35f69/1?pq-origsite=gscholar&cbl=18750&diss=y)"<br/>
 [J Huang] "[Active-routing: Compute on the way for near-data processing](https://ieeexplore.ieee.org/abstract/document/8675217/)"<br/>
 [V Yu ] "[Adapting an Eye Tracking Algorithm for a Compute-In-Memory Unit](http://dataspace.princeton.edu/jspui/handle/88435/dsp0176537420b)"<br/>
+[Y Ma] "[Addressing Aging Issues in Heterogeneous Three-Dimensional Integrated Circuits](https://ieeexplore.ieee.org/abstract/document/8983595/)"<br/>
 [T Ravsher] "[Adoption of 2T2C ferroelectric memory cells for logic operation](https://ieeexplore.ieee.org/abstract/document/8965155/)"<br/>
 [S Lu] "[Agile Query Processing in Statistical Databases: A Process-In-Memory Approach](https://link.springer.com/chapter/10.1007/978-3-030-29551-6_64)"<br/>
 [S Angizi] "[AlignS: A processing-in-memory accelerator for DNA short read alignment leveraging SOT-MRAM](https://ieeexplore.ieee.org/abstract/document/8806965/)"<br/>
@@ -554,6 +683,7 @@
 [Y Luo] "[Benchmark of Ferroelectric Transistor-Based Hybrid Precision Synapse for Neural Network Accelerator](https://ieeexplore.ieee.org/abstract/document/8746639/)"<br/>
 [RO Topaloglu] "[Beyond-cmos technologies for next generation computer design](https://link.springer.com/content/pdf/10.1007/978-3-319-90385-9.pdf)"<br/>
 [Z Jiang] "[C3SRAM: In-Memory-Computing SRAM Macro Based on Capacitive-Coupling Computing](https://ieeexplore.ieee.org/abstract/document/8877969/)"<br/>
+[BA Mudassar] "[CAMEL: An Adaptive Camera With Embedded Machine Learning-Based Sensor Parameter Control](https://ieeexplore.ieee.org/abstract/document/8798742/)"<br/>
 [BY Cho] "[CHoNDA: Near data acceleration with concurrent host access](https://arxiv.org/abs/1908.06362)"<br/>
 [A BanaGozar] "[CIM-SIM: Computation in memory SIMuIator](https://dl.acm.org/doi/abs/10.1145/3323439.3323989)"<br/>
 [H Jiang] "[CIMAT: a transpose SRAM-based compute-in-memory architecture for deep neural network on-chip training](https://dl.acm.org/doi/abs/10.1145/3357526.3357552)"<br/>
@@ -584,15 +714,18 @@
 [Z Ye] "[Evaluation of Single Event Effects in SRAM and RRAM Based Neuromorphic Computing System for Inference](https://ieeexplore.ieee.org/abstract/document/8720490/)"<br/>
 [Y Zhao] "[Exploiting Near-Memory Processing Architectures for Bayesian Neural Networks Acceleration](https://ieeexplore.ieee.org/abstract/document/8839573/)"<br/>
 [W Wen] "[Exploiting in-memory data patterns for performance improvement on crossbar resistive memory](https://ieeexplore.ieee.org/abstract/document/8832251/)"<br/>
+[S Gupta] "[Exploring processing in-memory for different technologies](https://dl.acm.org/doi/abs/10.1145/3299874.3317977)"<br/>
 [AF Laguna] "[Ferroelectric fet based in-memory computing for few-shot learning](https://dl.acm.org/doi/abs/10.1145/3299874.3319450)"<br/>
 [V Dubeyko ] "[File System in Data-Centric Computing](https://arxiv.org/abs/1901.01340)"<br/>
 [F Zokaee] "[Finder: Accelerating fm-index-based exact pattern matching in genomic sequences through reram technology](https://ieeexplore.ieee.org/abstract/document/8891663/)"<br/>
 [M Imani] "[Floatpim: In-memory acceleration of deep neural network training with high precision](https://ieeexplore.ieee.org/abstract/document/8980299/)"<br/>
 [V Narayanan ] "[Going Vertical: The Future of Electronics](https://info.computer.org/csdl/magazine/mi/2019/06/08894187/1eLvTHeOtKU)"<br/>
 [F Cai] "[Harnessing intrinsic noise in memristor Hopfield neural networks for combinatorial optimization](https://arxiv.org/abs/1903.11194)"<br/>
+[S Mukhopadhyay] "[Heterogeneous integration for artificial intelligence: Challenges and opportunities](https://ieeexplore.ieee.org/abstract/document/8869909/)"<br/>
 [S Jain ] "[IN-MEMORY COMPUTING WITH CMOS AND EMERGING MEMORY TECHNOLOGIES](https://hammer.figshare.com/articles/IN-MEMORY_COMPUTING_WITH_CMOS_AND_EMERGING_MEMORY_TECHNOLOGIES/9939302/1)"<br/>
 [J Woo] "[Impact of Selector Devices in Analog RRAM-Based Crossbar Arrays for Inference and Training of Neuromorphic System](https://ieeexplore.ieee.org/abstract/document/8734798/)"<br/>
 [X Sun] "[Impact of non-ideal characteristics of resistive synaptic devices on implementing convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/8787884/)"<br/>
+[M Brown ] "[Improving system security using Processing-in-Memory architecture](http://users.cecs.anu.edu.au/~steveb/pubs/theses/brown-2019.pdf)"<br/>
 [MF Ali] "[In-Memory Low-Cost Bit-Serial Addition Using Commodity DRAM Technology](https://ieeexplore.ieee.org/abstract/document/8870210/)"<br/>
 [MNO Sadiku] "[In-Memory computing](https://www.ijerat.com/index.php/ijerat/article/view/55)"<br/>
 [H Kim] "[In-memory batch-normalization for resistive memory based binary neural network hardware](https://dl.acm.org/doi/abs/10.1145/3287624.3287718)"<br/>
@@ -602,6 +735,7 @@
 [P Wang] "[Investigating Dynamic Minor Loop of Ferroelectric Capacitor](https://ieeexplore.ieee.org/abstract/document/8986179/)"<br/>
 [J Saikia] "[K-nearest neighbor hardware accelerator using in-memory computing SRAM](https://ieeexplore.ieee.org/abstract/document/8824822/)"<br/>
 [E Vasilakis] "[LLC-guided data migration in hybrid memory systems](https://ieeexplore.ieee.org/abstract/document/8820989/)"<br/>
+[C Choi ] "[Large-scale neuromorphic computing hardware for analog AI enabled by epitaxial random access memory](https://dspace.mit.edu/handle/1721.1/124125)"<br/>
 [M Rao] "[Learning with Resistive Switching Neural Networks](https://ieeexplore.ieee.org/abstract/document/8993465/)"<br/>
 [Z Yang ] "[Leveraging RRAM to Design Efficient Digital Circuits and Systems for Beyond Von Neumann in-Memory Computing](https://uwspace.uwaterloo.ca/handle/10012/14915)"<br/>
 [B Crafton] "[Local Learning in RRAM Neural Networks with Sparse Direct Feedback Alignment](https://ieeexplore.ieee.org/abstract/document/8824820/)"<br/>
@@ -610,12 +744,12 @@
 [X Ding] "[Low-Power Resistive Switching Characteristic in HfO2/TiOx Bi-Layer Resistive Random-Access Memory](https://link.springer.com/content/pdf/10.1186/s11671-019-2956-4.pdf)"<br/>
 [T Lindemann] "[MAGPIE: a scalable data storage system for efficient high volume data queries](https://dl.gi.de/handle/20.500.12116/21728)"<br/>
 [Y Luo] "[MLP+ NeuroSimV3. 0: Improving On-chip Learning Performance with Device to Algorithm Optimizations](https://dl.acm.org/doi/abs/10.1145/3354265.3354266)"<br/>
+[HT Kung] "[Maestro: A memory-on-logic architecture for coordinated parallel use of many systolic arrays](https://ieeexplore.ieee.org/abstract/document/8825148/)"<br/>
 [JV D'silva] "[Making an RDBMS data scientist friendly: advanced in-database interactive analytics with visualization support](https://dl.acm.org/doi/abs/10.14778/3352063.3352102)"<br/>
 [YK Lee] "[Matrix Mapping on Crossbar Memory Arrays with Resistive Interconnects and Its Use in In-Memory Compression of Biosignals](https://www.mdpi.com/2072-666X/10/5/306)"<br/>
 [A Willis] "[Measuring Compute-Reuse Opportunities for Video Processing Acceleration](https://ieeexplore.ieee.org/abstract/document/9020648/)"<br/>
 [W Huangfu] "[Medal: Scalable dimm based near data processing accelerator for dna seeding algorithm](https://dl.acm.org/doi/abs/10.1145/3352460.3358329)"<br/>
 [R Gauchi] "[Memory Sizing of a Scalable SRAM In-Memory Computing Tile Based Architecture](https://ieeexplore.ieee.org/abstract/document/8920373/)"<br/>
-[Q Luo] "[Memory Switching and Threshold Switching in a 3D Nanoscaled NbOX System](https://ieeexplore.ieee.org/abstract/document/8693576/)"<br/>
 [RB Brightwell ] "[Memory Technology Impacts on Current Near-Term and Future Systems.](https://www.osti.gov/servlets/purl/1641049)"<br/>
 [S Corda] "[Memory and parallelism analysis using a platform-independent approach](https://dl.acm.org/doi/abs/10.1145/3323439.3323988)"<br/>
 [M Itoh] "[Memristor cellular automata and memristor discrete-time cellular neural networks](https://link.springer.com/chapter/10.1007/978-3-319-76375-0_47)"<br/>
@@ -631,6 +765,7 @@
 [H Sun] "[Near-Data Processing-Enabled and Time-Aware Compaction Optimization for LSM-tree-based Key-Value Stores](https://dl.acm.org/doi/abs/10.1145/3337821.3337855)"<br/>
 [AO Glova] "[Near-data acceleration of privacy-preserving biomarker search with 3D-stacked memory](https://ieeexplore.ieee.org/abstract/document/8715108/)"<br/>
 [D Fujiki] "[Near-memory data transformation for efficient sparse matrix multi-vector multiplication](https://dl.acm.org/doi/abs/10.1145/3295500.3356154)"<br/>
+[JL Mari ] "[Near-surface reflection surveying6](https://www.researchgate.net/profile/Manuela_Mendes/publication/332735704_PROfile_Seismic_imaging_a_practical_approach/links/5cc710aa299bf12097883b13/PROfile-Seismic-imaging-a-practical-approach.pdf#page=93)"<br/>
 [M Alian] "[Netdimm: Low-latency near-memory network interface architecture](https://dl.acm.org/doi/abs/10.1145/3352460.3358278)"<br/>
 [W Cao] "[NeuADC: Neural network-inspired RRAM-based synthesizable analog-to-digital conversion with reconfigurable quantization support](https://ieeexplore.ieee.org/abstract/document/8714933/)"<br/>
 [W Cao] "[NeuADC: Neural network-inspired synthesizable analog-to-digital conversion](https://ieeexplore.ieee.org/abstract/document/8747407/)"<br/>
@@ -669,19 +804,25 @@
 [A Amirany] "[Spin-based fully nonvolatile full-adder circuit for computing in memory](https://www.worldscientific.com/doi/abs/10.1142/S2010324719500073)"<br/>
 [ZI Chowdhury] "[Spintronic In-Memory Pattern Matching](https://ieeexplore.ieee.org/abstract/document/8890687/)"<br/>
 [H Zhang] "[Spintronic processing unit in spin transfer torque magnetic random access memory](https://ieeexplore.ieee.org/abstract/document/8653474/)"<br/>
+[V Kodukula] "[Stagioni: Temperature management to enable near-sensor processing for energy-efficient high-fidelity imaging](https://arxiv.org/abs/2001.01580)"<br/>
 [W Shen] "[Stateful logic operations in one-transistor-one-resistor resistive random access memory array](https://ieeexplore.ieee.org/abstract/document/8781821/)"<br/>
 [D Chen] "[Statistical caching for near memory management](https://dl.acm.org/doi/abs/10.1145/3357526.3357557)"<br/>
 [M Alayan] "[Switching event detection and self-termination programming circuit for energy efficient reram memory arrays](https://ieeexplore.ieee.org/abstract/document/8680706/)"<br/>
 [A Neelakantan] "[System-level MODSIM of CiM Architectures for Memory-Intensive Applications](https://par.nsf.gov/biblio/10185614)"<br/>
 [N Jao] "[Technology-Assisted Computing-In-Memory Design for Matrix Multiplication Workloads](https://ieeexplore.ieee.org/abstract/document/9073662/)"<br/>
+[M Zhou] "[Temperature-Aware DRAM Cache Management-Relaxing Thermal Constraints in 3D Systems](https://ieeexplore.ieee.org/abstract/document/8758125/)"<br/>
 [Y Kwon] "[Tensordimm: A practical near-memory processing architecture for embeddings and tensor operations in deep learning](https://dl.acm.org/doi/abs/10.1145/3352460.3358284)"<br/>
+[BL West] "[Tetris: A streaming accelerator for physics-limited 3d plane-wave ultrasound imaging](https://dl.acm.org/doi/abs/10.1145/3316781.3317921)"<br/>
 [T Gokmen] "[The marriage of training and inference for scaled deep learning analog hardware](https://ieeexplore.ieee.org/abstract/document/8993573/)"<br/>
+[M Zhou] "[Thermal-aware design and management for search-based in-memory acceleration](https://dl.acm.org/doi/abs/10.1145/3316781.3317923)"<br/>
+[R Afoakwa] "[To Stack or Not To Stack](https://ieeexplore.ieee.org/abstract/document/8891636/)"<br/>
 [M Marinella] "[Toward an Analog Neural Accelerator with 10 fJ per Operation using Resistive Synaptic Devices.](https://www.osti.gov/servlets/purl/1641231)"<br/>
 [I Kataeva] "[Towards the development of analog neuromorphic chip prototype with 2.4 M integrated memristors](https://ieeexplore.ieee.org/abstract/document/8702125/)"<br/>
 [MJ Rasch] "[Training Large-scale Artificial Neural Networks on Simulated Resistive Crossbar Arrays](https://ieeexplore.ieee.org/abstract/document/8894491/)"<br/>
 [MJ Rasch] "[Training large-scale ANNs on simulated resistive crossbar arrays](https://arxiv.org/abs/1906.02698)"<br/>
 [M Zabihi] "[True in-memory computing with the CRAM: From technology to applications](https://dl.acm.org/doi/pdf/10.1145/3299874.3319451)"<br/>
 [TKT Hyoung ] "[Tutorial 1A: Design of ultra-low power SRAM for IoT, security and computation-in-memory](https://ieeexplore.ieee.org/abstract/document/9087943/)"<br/>
+[J Sim] "[Upim: Unipolar switching logic for high density processing-in-memory applications](https://dl.acm.org/doi/abs/10.1145/3299874.3318011)"<br/>
 [M Zabihi] "[Using spin-Hall MTJs to build an energy-efficient in-memory computation platform](https://ieeexplore.ieee.org/abstract/document/8697377/)"<br/>
 [A Agrawal] "[Xcel-RAM: Accelerating binary neural networks in high-throughput SRAM compute arrays](https://ieeexplore.ieee.org/abstract/document/8698312/)"<br/>
 [F Chen] "[Zara: A novel zero-free dataflow accelerator for generative adversarial networks in 3d reram](https://dl.acm.org/doi/abs/10.1145/3316781.3317936)"<br/>
@@ -696,6 +837,7 @@
 [Y Su] "[31.2 CIM-Spin: A 0.5-to-1.2 V Scalable Annealing Processor Using Digital Compute-In-Memory Spin Operators and Register-Based Spins for Combinatorial …](https://ieeexplore.ieee.org/abstract/document/9062938/)"<br/>
 [W Wan] "[33.1 A 74 TMACS/W CMOS-RRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-situ Transposable Weights for Probabilistic Graphical …](https://ieeexplore.ieee.org/abstract/document/9062979/)"<br/>
 [Q Liu] "[33.2 A Fully Integrated Analog ReRAM Based 78.4 TOPS/W Compute-In-Memory Chip with Fully Parallel MAC Computing](https://ieeexplore.ieee.org/abstract/document/9062953/)"<br/>
+[SA Alhelaly] "[3D Ring Oscillator based Test Structures to Detect a Trojan Die in a 3D Die Stack in the Presence of Process Variations](https://ieeexplore.ieee.org/abstract/document/9054929/)"<br/>
 [K Yamamoto] "[7.3 STATICA: A 512-Spin 0.25 M-Weight Full-Digital Annealing Processor with a Near-Memory All-Spin-Updates-at-Once Architecture for Combinatorial Optimization …](https://ieeexplore.ieee.org/abstract/document/9062965/)"<br/>
 [P Shukla] "[: Markov Chain Monte Carlo Sampling in SRAM for Fast Bayesian Inference](https://arxiv.org/abs/2003.02629)"<br/>
 [C Yu] "[A 16K Current-Based 8T SRAM Compute-In-Memory Macro with Decoupled Read/Write and 1-5bit Column ADC](https://ieeexplore.ieee.org/abstract/document/9075883/)"<br/>
@@ -705,11 +847,11 @@
 [JK Eshraghian] "[A Behavioral Model of Digital Resistive Switching for Systems Level DNN Acceleration](https://ieeexplore.ieee.org/abstract/document/9031725/)"<br/>
 [ZI Chowdhury] "[A DNA Read Alignment Accelerator Based on Computational RAM](https://ieeexplore.ieee.org/abstract/document/9064820/)"<br/>
 [JM Correll] "[A Fully Integrated Reprogrammable CMOS-RRAM Compute-in-Memory Coprocessor for Neuromorphic Applications](https://www.computer.org/csdl/journal/dc/2020/01/09085353/1kerv9PfCr6)"<br/>
+[J Talafy] "[A High Performance, Multi-Bit Output Logic-in-Memory Adder](https://ieeexplore.ieee.org/abstract/document/9050532/)"<br/>
 [ET Upchurch ] "[A Migratory Near Memory Processing Architecture Applied to Big Data Problems](https://arxiv.org/abs/2003.09074)"<br/>
 [J Reuben] "[A Parallel-friendly Majority Gate to Accelerate In-memory Computation](https://ieeexplore.ieee.org/abstract/document/9153277/)"<br/>
 [H Jia] "[A Programmable Heterogeneous Microprocessor Based on Bit-Scalable In-Memory Computing](https://ieeexplore.ieee.org/abstract/document/9082159/)"<br/>
 [WC Wei] "[A Relaxed Quantization Training Method for Hardware Limitations of Resistive Random Access Memory (ReRAM)-Based Computing-in-Memory](https://ieeexplore.ieee.org/abstract/document/9085999/)"<br/>
-[LR Everson] "[A Shortest Path Finding Time-based Accelerator Core with Built-in Gravity Control and Buffer Zone for Smooth 3D Navigation](https://ieeexplore.ieee.org/abstract/document/9097891/)"<br/>
 [T Zanotti] "[A Smart Logic-in-Memory Architecture for Low-Power non-von Neumann Computing](https://ieeexplore.ieee.org/abstract/document/9066953/)"<br/>
 [H Wang] "[A new MRAM-based process in-memory accelerator for efficient neural network training with floating point precision](https://arxiv.org/abs/2003.01551)"<br/>
 [O Krestinskaya] "[AM-DCGAN: Analog Memristive Hardware Accelerator for Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/2007.12063)"<br/>
@@ -731,6 +873,7 @@
 [JM Hung] "[Challenges and Trends inDeveloping Nonvolatile Memory-Enabled Computing Chips for Intelligent Edge Devices](https://ieeexplore.ieee.org/abstract/document/9031750/)"<br/>
 [K Bu] "[CiMC: A Computing-in-Memory Controller for Memristive Crossbar Array](https://iopscience.iop.org/article/10.1088/1757-899X/768/5/052044/meta)"<br/>
 [Y GUAN] "[Co-Design of Binary Processing in Memory ReRAM Array and DNN Model Optimization Algorithm](https://www.jstage.jst.go.jp/article/transele/advpub/0/advpub_2019ECP5046/_article/-char/ja/)"<br/>
+[A Addisie] "[Collaborative Accelerators for Streamlining MapReduce on Scale-up Machines With Incremental Data Aggregation](https://ieeexplore.ieee.org/abstract/document/9122533/)"<br/>
 [JP Noel] "[Computational SRAM design automation using pushed-rule bitcells for energy-efficient vector processing](https://ieeexplore.ieee.org/abstract/document/9116506/)"<br/>
 [S Yu] "[Compute-in-Memory with Emerging Nonvolatile-Memories: Challenges and Prospects](https://ieeexplore.ieee.org/abstract/document/9075887/)"<br/>
 [B Crafton] "[Counting Cards: Exploiting Weight and Variance Distributions for Robust Compute In-Memory](https://arxiv.org/abs/2006.03117)"<br/>
@@ -744,13 +887,18 @@
 [P Wang] "[Drain–erase scheme in ferroelectric field-effect transistor—Part I: Device characterization](https://ieeexplore.ieee.org/abstract/document/8998166/)"<br/>
 [HE Yantır] "[Efficient Acceleration of Stencil Applications through In-Memory Computing](https://www.mdpi.com/2072-666X/11/6/622)"<br/>
 [T Soliman] "[Efficient FeFET Crossbar Accelerator for Binary Neural Networks](https://ieeexplore.ieee.org/abstract/document/9153222/)"<br/>
+[MN Bojnordi] "[Emerging Hardware Technologies for IoT Data Processing](https://link.springer.com/chapter/10.1007/978-3-030-30367-9_9)"<br/>
 [D Brooks] "[Emerging neural workloads and their impact on hardware](https://ieeexplore.ieee.org/abstract/document/9116435/)"<br/>
+[X Zhang] "[Enabling Highly Efficient Capsule Networks Processing Through A PIM-Based Architecture Design](https://ieeexplore.ieee.org/abstract/document/9065441/)"<br/>
+[H Sribhuvaneshwari] "[Enhanced test algorithm for nanoelectronic Resistive Random Access Memory testing using self check write scheme](https://link.springer.com/content/pdf/10.1007/s10470-019-01576-x.pdf)"<br/>
 [N Challapalle] "[FARM: A Flexible Accelerator for Recurrent and Memory Augmented Neural Networks](https://link.springer.com/article/10.1007/s11265-020-01555-w)"<br/>
 [L Shang] "[Fast Linear Programming Optimization Using Crossbar-Based Analog Accelerator](https://ieeexplore.ieee.org/abstract/document/9154984/)"<br/>
 [M Lee] "[FeFET-based low-power bitwise logic-in-memory with direct write-back and data-adaptive dynamic sensing interface](https://dl.acm.org/doi/abs/10.1145/3370748.3406572)"<br/>
 [J Hur] "[Ferroelectric Tunnel Junction Optimization by Plasma-Enhanced Atomic Layer Deposition](https://ieeexplore.ieee.org/abstract/document/9131649/)"<br/>
 [H Williams] "[Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation](https://dl.acm.org/doi/abs/10.1145/3373376.3378478)"<br/>
+[M Lenjani] "[Fulcrum: a simplified control and access mechanism toward flexible and practical in-situ accelerators](https://ieeexplore.ieee.org/abstract/document/9065566/)"<br/>
 [X Qian] "[Guest Editors' Introduction to the Special Issue on Machine Learning Architectures and Accelerators](https://store.computer.org/csdl/journal/tc/2020/07/09112813/1kwiDWHp32g)"<br/>
+[J Knechtel ] "[Hardware Security for and beyond CMOS Technology: An Overview on Fundamentals, Applications, and Challenges](https://arxiv.org/abs/2001.08780)"<br/>
 [E Vasilakis] "[Hybrid2: Combining Caching and Migration in Hybrid Memory Systems](https://ieeexplore.ieee.org/abstract/document/9065506/)"<br/>
 [M Ali] "[IMAC: In-Memory Multi-Bit Multiplication and ACcumulation in 6T SRAM Array](https://ieeexplore.ieee.org/abstract/document/9050543/)"<br/>
 [AK Rajput] "[Implementation of Boolean and Arithmetic Functions with 8T SRAM Cell for In-Memory Computation](https://ieeexplore.ieee.org/abstract/document/9154137/)"<br/>
@@ -765,6 +913,7 @@
 [P Wang] "[Investigating Ferroelectric Minor Loop Dynamics and History Effect--Part II: Physical Modeling and Impact on Neural Network Training](https://ieeexplore.ieee.org/abstract/document/9154560/)"<br/>
 [E Lockerman] "[Livia: Data-Centric Computing Throughout the Memory Hierarchy](https://dl.acm.org/doi/abs/10.1145/3373376.3378497)"<br/>
 [A Laborieux] "[Low Power In-Memory Implementation of Ternary Neural Networks with Resistive RAM-Based Synapse](https://ieeexplore.ieee.org/abstract/document/9073877/)"<br/>
+[H Xu] "[MACSen: A Processing-In-Sensor Architecture Integrating MAC Operations into Image Sensor for Ultra-Low-Power BNN-Based Intelligent Visual Perception](https://ieeexplore.ieee.org/abstract/document/9164893/)"<br/>
 [KA Ali] "[Memristive Computational Memory Using Memristor Overwrite Logic (MOL)](https://ieeexplore.ieee.org/abstract/document/9160878/)"<br/>
 [L Shang] "[Memristor-Based Analog Recursive Computation Circuit for Linear Programming Optimization](https://ieeexplore.ieee.org/abstract/document/9094179/)"<br/>
 [F Zhang] "[Mitigate Parasitic Resistance in Resistive Crossbar-based Convolutional Neural Networks](https://dl.acm.org/doi/abs/10.1145/3371277)"<br/>
