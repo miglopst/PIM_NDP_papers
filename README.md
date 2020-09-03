@@ -17,7 +17,7 @@ the trend for [commodity DRAM bandwidth](https://blog.westerndigital.com/cpu-ban
 and the trend for [HBM bandwidth](https://en.wikipedia.org/wiki/High_Bandwidth_Memory).
 We can see that as the bandwidth is increasing in a slower pace these years, more and more researchers are exploring PIM / NDP technology to tackle the memory wall.
 
-![Publication trend in NDP / PIM v.s. memory bandwidth trend](https://github.com/miglopst/PIM_NDP_papers/blob/master/images/trend.png)
+![Publication trend in NDP / PIM v.s. memory bandwidth trend](https://github.com/miglopst/PIM_NDP_papers/blob/master/trend.png)
 
 The outline of the survey:
 * [Pioneering Papers](#pioneering-papers)
