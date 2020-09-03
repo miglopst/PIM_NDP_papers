@@ -6,7 +6,19 @@ whereas NDP architecture has seperate implementations of computing logic and mem
 
 **From an architecture perspective**, although some hardware uses memory technology to implement computation, they are still used as an accelerator for the host (for example, attached to PCIe as a slave device). These hardware designs assume separate physical address space from the host processor, and kenerl execution is similar to GPU (data copy-->kernel launch-->finish computation-->data copy). In contrast, some designs, though categorized as "NDP" in our survey, are truly "process-in-memory" from architectural standpoint. For example, "HMC + logic layer" can be used as memory device (read and written by the host) and a computation device (computation offloading). Also, some designs that have relatively large on-chip managed memory (For example, GPU has scratchpad memory, and DianNao has eDRAM) should be categorized as "memory-rich processor". These memory are local to the processor, and have no computing capability, so we do not include these papers in our survey.
 
-We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).  
+We only include circuit, architecture and system level researches (The list is expected to grow as we add more new / dated papers).
+
+I collect all related papers (not 100% matching) in PIM / NDP domain.
+All of the papers are arranged in chronological order in the following page:
+* [The list of paper (continuously updated)](https://github.com/miglopst/PIM_NDP_papers/blob/master/paper_list.md) (2005 - 2020):
+
+The following image shows the trend of PIM / NDP publication count, 
+the trend for [commodity DRAM bandwidth](https://blog.westerndigital.com/cpu-bandwidth-the-worrisome-2020-trend/), 
+and the trend for [HBM bandwidth](https://en.wikipedia.org/wiki/High_Bandwidth_Memory).
+We can see that as the bandwidth is increasing in a slower pace these years, more and more researchers are exploring PIM / NDP technology to tackle the memory wall.
+
+![Publication trend in NDP / PIM v.s. memory bandwidth trend]
+(https://github.com/miglopst/PIM_NDP_papers/blob/master/images/trend.png)
 
 The outline of the survey:
 * [Pioneering Papers](#pioneering-papers)
