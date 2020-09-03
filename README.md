@@ -10,7 +10,7 @@ We only include circuit, architecture and system level researches (The list is e
 
 I collect all related papers (not 100% matching) in PIM / NDP domain.
 All of the papers are arranged in chronological order in the following page:
-* [The list of paper (continuously updated)](https://github.com/miglopst/PIM_NDP_papers/blob/master/paper_list.md) (2005 - 2020):
+* [The list of paper (continuously updated)](https://github.com/miglopst/PIM_NDP_papers/blob/master/paper_list.md) (1989 - 2019):
 
 The following image shows the trend of PIM / NDP publication count, 
 the trend for [commodity DRAM bandwidth](https://blog.westerndigital.com/cpu-bandwidth-the-worrisome-2020-trend/),
