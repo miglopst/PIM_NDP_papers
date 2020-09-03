@@ -13,7 +13,8 @@ All of the papers are arranged in chronological order in the following page:
 * [The list of paper (continuously updated)](https://github.com/miglopst/PIM_NDP_papers/blob/master/paper_list.md) (2005 - 2020):
 
 The following image shows the trend of PIM / NDP publication count, 
-the trend for [commodity DRAM bandwidth](https://blog.westerndigital.com/cpu-bandwidth-the-worrisome-2020-trend/), 
+the trend for [commodity DRAM bandwidth](https://blog.westerndigital.com/cpu-bandwidth-the-worrisome-2020-trend/),
+the trend for [GDDR bandwidth](https://en.wikipedia.org/wiki/GDDR_SDRAM),
 and the trend for [HBM bandwidth](https://en.wikipedia.org/wiki/High_Bandwidth_Memory).
 We can see that as the bandwidth is increasing in a slower pace these years, more and more researchers are exploring PIM / NDP technology to tackle the memory wall.
 
