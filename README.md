@@ -28,7 +28,7 @@ The outline of the survey:
 
 **Application Scenario Marker**
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) General Purpose
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Neural Network
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Machine Learning / Neural Network
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Graph Processing
 - ![#af62ff](https://placehold.it/15/af62ff/000000?text=+) Bioinformatics
 - ![#0abab5](https://placehold.it/15/0abab5/000000?text=+) Data Analytics
@@ -52,7 +52,9 @@ Arch: small processing elements are combined with small amounts of RAM to provid
 ![#ece5b8](https://placehold.it/15/ece5b8/000000?text=+)[Advances in Computers 2017][Simple Operations in Memory to Reduce Data Movement]<br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Nature Electronics 2018][The future of electronics based on memristive systems]<br/>
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[arXiv 2018][Neuro-memristive circuits for edge computing: A review]<br/>
-
+![#161616](https://placehold.it/15/161616/000000?text=+)[GLVLSI 2020][Security Challenges of Processing-In-Memory Systems]<br/>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)[GLVLSI 2020][A Review of In-Memory Computing Architectures for Machine Learning Applications]<br/>
+![#003366](https://placehold.it/15/003366/000000?text=+)[GLVLSI 2020][Modeling and Benchmarking Computing-in-Memory for Design Space Exploration]<br/>
 
 
 
